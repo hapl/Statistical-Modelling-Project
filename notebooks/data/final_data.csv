@@ -1,0 +1,2201 @@
+name,price,rating,review_count,uid,bk_station_distance_y,latitude,longitude,free_bikes
+10 Speed Coffee-Santa Monica,$$,0.0,0.0,bcycle_lametro_4216,585,34.02339,-118.47964,9
+Bagel Nosh,$$,0.0,0.0,bcycle_lametro_4216,881,34.02339,-118.47964,9
+DK's Donuts and Bakery,$$,0.0,0.0,bcycle_lametro_4216,437,34.02339,-118.47964,9
+Goodboybob Coffee,$$,0.0,0.0,bcycle_lametro_4216,623,34.02339,-118.47964,9
+La Monarca Bakery,$$,0.0,0.0,bcycle_lametro_4216,967,34.02339,-118.47964,9
+Santa Monica Brew Works,$$,0.0,0.0,bcycle_lametro_4216,363,34.02339,-118.47964,9
+Tacos Por Favor,$$,4.0,1696.0,bcycle_lametro_4216,409,34.02339,-118.47964,9
+Tartine Santa Monica,$$,4.0,443.0,bcycle_lametro_4216,781,34.02339,-118.47964,9
+The Chestnut Club,$$,0.0,0.0,bcycle_lametro_4216,587,34.02339,-118.47964,9
+Veggie Grill,$$,4.0,1016.0,bcycle_lametro_4216,1012,34.02339,-118.47964,9
+310 Coffee,$$,0.0,0.0,bcycle_lametro_4556,598,34.00902,-118.42501,6
+Accomplice Bar,$$,0.0,0.0,bcycle_lametro_4556,752,34.00902,-118.42501,6
+Atmosphere Cafe,$$,0.0,0.0,bcycle_lametro_4556,585,34.00902,-118.42501,6
+Coffee Connection,$$,0.0,0.0,bcycle_lametro_4556,987,34.00902,-118.42501,6
+Empanada's Place,$,4.5,862.0,bcycle_lametro_4556,554,34.00902,-118.42501,6
+Maple Block Meat Co,$$,4.0,1699.0,bcycle_lametro_4556,960,34.00902,-118.42501,6
+Quiadaiyn Restaurant,$$,4.5,349.0,bcycle_lametro_4556,941,34.00902,-118.42501,6
+Rutt's Express,$$,0.0,0.0,bcycle_lametro_4556,596,34.00902,-118.42501,6
+Sara The Wine Bar,$$,4.5,517.0,bcycle_lametro_4556,936,34.00902,-118.42501,6
+Taco Stand on Centinela and Venice,$$,0.0,0.0,bcycle_lametro_4556,974,34.00902,-118.42501,6
+310 Coffee,$$,0.0,0.0,bcycle_lametro_4555,741,34.00587,-118.42916,4
+Alana's Coffee Roasters,$$,0.0,0.0,bcycle_lametro_4555,607,34.00587,-118.42916,4
+Coffee Connection,$$,0.0,0.0,bcycle_lametro_4555,469,34.00587,-118.42916,4
+Little Fatty,$$,4.0,993.0,bcycle_lametro_4555,236,34.00587,-118.42916,4
+Quiadaiyn Restaurant,$$,4.5,349.0,bcycle_lametro_4555,424,34.00587,-118.42916,4
+Rustic Kitchen Market And Cafe,$$,0.0,0.0,bcycle_lametro_4555,973,34.00587,-118.42916,4
+Rutt's Express,$$,0.0,0.0,bcycle_lametro_4555,710,34.00587,-118.42916,4
+Taco Stand on Centinela and Venice,$$,0.0,0.0,bcycle_lametro_4555,481,34.00587,-118.42916,4
+The MV Grab & Go,$$,0.0,0.0,bcycle_lametro_4555,311,34.00587,-118.42916,4
+The Mar Vista,$$,0.0,0.0,bcycle_lametro_4555,315,34.00587,-118.42916,4
+4100 Bar,$$,0.0,0.0,bcycle_lametro_4438,354,34.09493,-118.28456,6
+Boo’s Philly Cheesesteaks - Silverlake,$$,0.0,0.0,bcycle_lametro_4438,254,34.09493,-118.28456,6
+Dinosaur Coffee,$$,0.0,0.0,bcycle_lametro_4438,78,34.09493,-118.28456,6
+Eagle LA,$$,0.0,0.0,bcycle_lametro_4438,429,34.09493,-118.28456,6
+El Cid,$$,0.0,0.0,bcycle_lametro_4438,224,34.09493,-118.28456,6
+Intelligentsia,$$,0.0,0.0,bcycle_lametro_4438,500,34.09493,-118.28456,6
+Jay's Bar,$$,4.5,320.0,bcycle_lametro_4438,141,34.09493,-118.28456,6
+The Kitchen,$$,4.0,1529.0,bcycle_lametro_4438,96,34.09493,-118.28456,6
+Tiki Ti,$$,0.0,0.0,bcycle_lametro_4438,303,34.09493,-118.28456,6
+Wat Dong Moon Lek Noodle,$$,4.0,1104.0,bcycle_lametro_4438,66,34.09493,-118.28456,6
+4100 Bar,$$,0.0,0.0,bcycle_lametro_4472,68,34.0926,-118.28093,9
+Bulan Thai Vegetarian Kitchen,$$,4.5,841.0,bcycle_lametro_4472,132,34.0926,-118.28093,9
+Dinosaur Coffee,$$,0.0,0.0,bcycle_lametro_4472,405,34.0926,-118.28093,9
+Flore Vegan Restaurant,$$,0.0,0.0,bcycle_lametro_4472,199,34.0926,-118.28093,9
+Intelligentsia,$$,0.0,0.0,bcycle_lametro_4472,78,34.0926,-118.28093,9
+La Colombe Coffee Roaster,$$,0.0,0.0,bcycle_lametro_4472,163,34.0926,-118.28093,9
+Naturewell,$$,0.0,0.0,bcycle_lametro_4472,191,34.0926,-118.28093,9
+Pazzo Gelato,$$,0.0,0.0,bcycle_lametro_4472,173,34.0926,-118.28093,9
+Pine & Crane,$$,4.5,2819.0,bcycle_lametro_4472,410,34.0926,-118.28093,9
+The Black Cat,$$,3.5,566.0,bcycle_lametro_4472,117,34.0926,-118.28093,9
+538 At the California Club,$$,0.0,0.0,bcycle_lametro_4490,359,34.05355,-118.25584,11
+71Above,$$,0.0,0.0,bcycle_lametro_4490,308,34.05355,-118.25584,11
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_4490,709,34.05355,-118.25584,11
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_4490,725,34.05355,-118.25584,11
+Drago Centro,$$,0.0,0.0,bcycle_lametro_4490,284,34.05355,-118.25584,11
+Otium,$$$,4.0,2288.0,bcycle_lametro_4490,434,34.05355,-118.25584,11
+Perch,$$$,4.0,9651.0,bcycle_lametro_4490,655,34.05355,-118.25584,11
+Sugarfish,$$,0.0,0.0,bcycle_lametro_4490,700,34.05355,-118.25584,11
+Tender Greens,$$,0.0,0.0,bcycle_lametro_4490,596,34.05355,-118.25584,11
+The Water Grill,$$,0.0,0.0,bcycle_lametro_4490,495,34.05355,-118.25584,11
+538 At the California Club,$$,0.0,0.0,bcycle_lametro_3040,964,34.05357,-118.26636,5
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_3040,996,34.05357,-118.26636,5
+Brasil Kiss Coffeebar,$$,0.0,0.0,bcycle_lametro_3040,435,34.05357,-118.26636,5
+Drago Centro,$$,0.0,0.0,bcycle_lametro_3040,883,34.05357,-118.26636,5
+Fogo De Chao,$$,0.0,0.0,bcycle_lametro_3040,802,34.05357,-118.26636,5
+Monty Bar,$$,0.0,0.0,bcycle_lametro_3040,206,34.05357,-118.26636,5
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_3040,678,34.05357,-118.26636,5
+Spire 73,$$,0.0,0.0,bcycle_lametro_3040,704,34.05357,-118.26636,5
+Starbucks,$$,0.0,0.0,bcycle_lametro_3040,329,34.05357,-118.26636,5
+Yard House,$$,0.0,0.0,bcycle_lametro_3040,899,34.05357,-118.26636,5
+71Above,$$,0.0,0.0,bcycle_lametro_3007,65,34.05048,-118.25459,10
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_3007,322,34.05048,-118.25459,10
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3007,409,34.05048,-118.25459,10
+Drago Centro,$$,0.0,0.0,bcycle_lametro_3007,253,34.05048,-118.25459,10
+Perch,$$$,4.0,9651.0,bcycle_lametro_3007,338,34.05048,-118.25459,10
+Pitchoun,$$,0.0,0.0,bcycle_lametro_3007,223,34.05048,-118.25459,10
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3007,413,34.05048,-118.25459,10
+Tender Greens,$$,0.0,0.0,bcycle_lametro_3007,242,34.05048,-118.25459,10
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3007,155,34.05048,-118.25459,10
+Veggie Grill,$$,0.0,0.0,bcycle_lametro_3007,203,34.05048,-118.25459,10
+71Above,$$,0.0,0.0,bcycle_lametro_3049,662,34.05697,-118.25359,8
+Au L.Ac.,$$,0.0,0.0,bcycle_lametro_3049,290,34.05697,-118.25359,8
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_3049,877,34.05697,-118.25359,8
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3049,852,34.05697,-118.25359,8
+Bunkerhill Market Deli & Liquor,$$,0.0,0.0,bcycle_lametro_3049,179,34.05697,-118.25359,8
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3049,434,34.05697,-118.25359,8
+Drago Centro,$$,0.0,0.0,bcycle_lametro_3049,717,34.05697,-118.25359,8
+Otium,$$$,4.0,2288.0,bcycle_lametro_3049,367,34.05697,-118.25359,8
+Perch,$$$,4.0,9651.0,bcycle_lametro_3049,916,34.05697,-118.25359,8
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3049,880,34.05697,-118.25359,8
+71Above,$$,0.0,0.0,bcycle_lametro_3068,398,34.0532,-118.25095,7
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_3068,394,34.0532,-118.25095,7
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3068,377,34.0532,-118.25095,7
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3068,425,34.0532,-118.25095,7
+KazuNori,$$,0.0,0.0,bcycle_lametro_3068,689,34.0532,-118.25095,7
+Maccheroni Republic,$$,4.5,3680.0,bcycle_lametro_3068,411,34.0532,-118.25095,7
+Otium,$$$,4.0,2288.0,bcycle_lametro_3068,125,34.0532,-118.25095,7
+Perch,$$$,4.0,9651.0,bcycle_lametro_3068,477,34.0532,-118.25095,7
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3068,588,34.0532,-118.25095,7
+Vespaio,$$,0.0,0.0,bcycle_lametro_3068,93,34.0532,-118.25095,7
+71Above,$$,0.0,0.0,bcycle_lametro_3024,894,34.05772,-118.24897,7
+Au L.Ac.,$$,0.0,0.0,bcycle_lametro_3024,196,34.05772,-118.24897,7
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_3024,867,34.05772,-118.24897,7
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3024,765,34.05772,-118.24897,7
+Bunkerhill Market Deli & Liquor,$$,0.0,0.0,bcycle_lametro_3024,352,34.05772,-118.24897,7
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3024,121,34.05772,-118.24897,7
+Kendall's Brasserie,$$,0.0,0.0,bcycle_lametro_3024,155,34.05772,-118.24897,7
+Maccheroni Republic,$$,4.5,3680.0,bcycle_lametro_3024,856,34.05772,-118.24897,7
+Otium,$$$,4.0,2288.0,bcycle_lametro_3024,431,34.05772,-118.24897,7
+Redbird,$$$,4.0,1770.0,bcycle_lametro_3024,904,34.05772,-118.24897,7
+71Above,$$,0.0,0.0,bcycle_lametro_4480,947,34.05896,-118.25059,6
+Au L.Ac.,$$,0.0,0.0,bcycle_lametro_4480,276,34.05896,-118.25059,6
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4480,930,34.05896,-118.25059,6
+Bunkerhill Market Deli & Liquor,$$,0.0,0.0,bcycle_lametro_4480,367,34.05896,-118.25059,6
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_4480,303,34.05896,-118.25059,6
+Kendall's Brasserie,$$,0.0,0.0,bcycle_lametro_4480,352,34.05896,-118.25059,6
+La Cita Bar,$$,0.0,0.0,bcycle_lametro_4480,920,34.05896,-118.25059,6
+Otium,$$$,4.0,2288.0,bcycle_lametro_4480,519,34.05896,-118.25059,6
+Sticky Rice,$$,0.0,0.0,bcycle_lametro_4480,933,34.05896,-118.25059,6
+Vespaio,$$,0.0,0.0,bcycle_lametro_4480,547,34.05896,-118.25059,6
+71Above,$$,0.0,0.0,bcycle_lametro_3032,187,34.04989,-118.25588,8
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_3032,190,34.04989,-118.25588,8
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3032,306,34.04989,-118.25588,8
+Drago Centro,$$,0.0,0.0,bcycle_lametro_3032,192,34.04989,-118.25588,8
+Little Sister,$$,0.0,0.0,bcycle_lametro_3032,306,34.04989,-118.25588,8
+Pitchoun,$$,0.0,0.0,bcycle_lametro_3032,232,34.04989,-118.25588,8
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3032,302,34.04989,-118.25588,8
+Tender Greens,$$,0.0,0.0,bcycle_lametro_3032,216,34.04989,-118.25588,8
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3032,113,34.04989,-118.25588,8
+Veggie Grill,$$,0.0,0.0,bcycle_lametro_3032,174,34.04989,-118.25588,8
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_4518,479,34.05797,-118.29975,3
+Alfred Coffee Koreatown,$$,0.0,0.0,bcycle_lametro_4518,434,34.05797,-118.29975,3
+BCD Tofu House,$$,4.0,4826.0,bcycle_lametro_4518,520,34.05797,-118.29975,3
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4518,492,34.05797,-118.29975,3
+Break Room 86,$$,0.0,0.0,bcycle_lametro_4518,443,34.05797,-118.29975,3
+Cassell's Hamburgers,$$,4.0,1805.0,bcycle_lametro_4518,608,34.05797,-118.29975,3
+Honeymee,$$,0.0,0.0,bcycle_lametro_4518,502,34.05797,-118.29975,3
+Royal Bar Music,$$,0.0,0.0,bcycle_lametro_4518,126,34.05797,-118.29975,3
+Taylor's Steakhouse,$$,0.0,0.0,bcycle_lametro_4518,222,34.05797,-118.29975,3
+The Normandie Club,$$,0.0,0.0,bcycle_lametro_4518,613,34.05797,-118.29975,3
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_3005,114,34.0485,-118.25854,13
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3005,229,34.0485,-118.25854,13
+Fogo De Chao,$$,0.0,0.0,bcycle_lametro_3005,245,34.0485,-118.25854,13
+JINYA Ramen Bar - Downtown LA,$$,0.0,0.0,bcycle_lametro_3005,105,34.0485,-118.25854,13
+Little Sister,$$,0.0,0.0,bcycle_lametro_3005,266,34.0485,-118.25854,13
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3005,227,34.0485,-118.25854,13
+Seven Grand,$$,0.0,0.0,bcycle_lametro_3005,298,34.0485,-118.25854,13
+Spire 73,$$,0.0,0.0,bcycle_lametro_3005,217,34.0485,-118.25854,13
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3005,196,34.0485,-118.25854,13
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3005,329,34.0485,-118.25854,13
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_4311,362,34.05969,-118.29466,4
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4311,355,34.05969,-118.29466,4
+Chunju Han-il Kwan,$$,0.0,0.0,bcycle_lametro_4311,457,34.05969,-118.29466,4
+Hangari Bajirak Kalguksoo,$$,0.0,0.0,bcycle_lametro_4311,461,34.05969,-118.29466,4
+Honeymee,$$,0.0,0.0,bcycle_lametro_4311,416,34.05969,-118.29466,4
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4311,522,34.05969,-118.29466,4
+Seongbukdong,$$,0.0,0.0,bcycle_lametro_4311,465,34.05969,-118.29466,4
+Sharp Specialty Coffee,$$,0.0,0.0,bcycle_lametro_4311,459,34.05969,-118.29466,4
+Soowon Galbi,$$,0.0,0.0,bcycle_lametro_4311,470,34.05969,-118.29466,4
+The Prince (황태자),$$,0.0,0.0,bcycle_lametro_4311,54,34.05969,-118.29466,4
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_3035,336,34.0484,-118.26095,17
+Andante Coffee,$$,0.0,0.0,bcycle_lametro_3035,406,34.0484,-118.26095,17
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3035,422,34.0484,-118.26095,17
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_3035,178,34.0484,-118.26095,17
+Fogo De Chao,$$,0.0,0.0,bcycle_lametro_3035,64,34.0484,-118.26095,17
+Little Sister,$$,0.0,0.0,bcycle_lametro_3035,463,34.0484,-118.26095,17
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3035,250,34.0484,-118.26095,17
+Spire 73,$$,0.0,0.0,bcycle_lametro_3035,201,34.0484,-118.26095,17
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3035,387,34.0484,-118.26095,17
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3035,549,34.0484,-118.26095,17
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_4410,177,34.06335,-118.2968,10
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4410,164,34.06335,-118.2968,10
+Cassell's Hamburgers,$$,4.0,1805.0,bcycle_lametro_4410,332,34.06335,-118.2968,10
+Chunju Han-il Kwan,$$,4.0,842.0,bcycle_lametro_4410,28,34.06335,-118.2968,10
+Hangari Bajirak Kalguksoo,$$,0.0,0.0,bcycle_lametro_4410,89,34.06335,-118.2968,10
+Honeymee,$$,0.0,0.0,bcycle_lametro_4410,163,34.06335,-118.2968,10
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4410,74,34.06335,-118.2968,10
+Quarters Korean BBQ,$$,4.0,3463.0,bcycle_lametro_4410,96,34.06335,-118.2968,10
+Seongbukdong,$$,0.0,0.0,bcycle_lametro_4410,238,34.06335,-118.2968,10
+Sharp Specialty Coffee,$$,0.0,0.0,bcycle_lametro_4410,55,34.06335,-118.2968,10
+85˚C Bakery Café,$$,0.0,0.0,bcycle_lametro_4440,66,34.06166,-118.29824,6
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4440,84,34.06166,-118.29824,6
+Break Room 86,$$,0.0,0.0,bcycle_lametro_4440,262,34.06166,-118.29824,6
+Cassell's Hamburgers,$$,4.0,1805.0,bcycle_lametro_4440,279,34.06166,-118.29824,6
+Chunju Han-il Kwan,$$,0.0,0.0,bcycle_lametro_4440,207,34.06166,-118.29824,6
+Hangari Bajirak Kalguksoo,$$,0.0,0.0,bcycle_lametro_4440,158,34.06166,-118.29824,6
+Honeymee,$$,0.0,0.0,bcycle_lametro_4440,69,34.06166,-118.29824,6
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4440,254,34.06166,-118.29824,6
+Quarters Korean BBQ,$$,4.0,3463.0,bcycle_lametro_4440,261,34.06166,-118.29824,6
+The Normandie Club,$$,0.0,0.0,bcycle_lametro_4440,308,34.06166,-118.29824,6
+90 West Lounge,$$,0.0,0.0,bcycle_lametro_4579,592,33.98486,-118.43113,6
+Irori Japanese Restaurant,$$,0.0,0.0,bcycle_lametro_4579,735,33.98486,-118.43113,6
+Mendocino Farms,$$,4.5,2163.0,bcycle_lametro_4579,911,33.98486,-118.43113,6
+Nichols Restaurant,$$,0.0,0.0,bcycle_lametro_4579,657,33.98486,-118.43113,6
+Peet's Coffee and Tea,$$,0.0,0.0,bcycle_lametro_4579,766,33.98486,-118.43113,6
+Pinkberry,$$,0.0,0.0,bcycle_lametro_4579,917,33.98486,-118.43113,6
+Ronnie's Diner,$$,4.0,722.0,bcycle_lametro_4579,565,33.98486,-118.43113,6
+SUGARFISH | Marina del Rey,$$,0.0,0.0,bcycle_lametro_4579,918,33.98486,-118.43113,6
+SusieCakes,$$,0.0,0.0,bcycle_lametro_4579,770,33.98486,-118.43113,6
+Sweetgreen,$$,0.0,0.0,bcycle_lametro_4579,909,33.98486,-118.43113,6
+ACA Grill,$$,0.0,0.0,bcycle_lametro_3045,493,34.02851,-118.25667,3
+Burger King,$$,0.0,0.0,bcycle_lametro_3045,806,34.02851,-118.25667,3
+Dama,$$,0.0,0.0,bcycle_lametro_3045,809,34.02851,-118.25667,3
+Jack In The Box,$$,0.0,0.0,bcycle_lametro_3045,917,34.02851,-118.25667,3
+King Taco Restaurant,$$,0.0,0.0,bcycle_lametro_3045,94,34.02851,-118.25667,3
+Panda Express,$$,0.0,0.0,bcycle_lametro_3045,315,34.02851,-118.25667,3
+Rossoblu,$$$,4.0,782.0,bcycle_lametro_3045,795,34.02851,-118.25667,3
+Santee Falafel,$$,0.0,0.0,bcycle_lametro_3045,677,34.02851,-118.25667,3
+Subway,$$,0.0,0.0,bcycle_lametro_3045,550,34.02851,-118.25667,3
+Yoshinoya,$$,0.0,0.0,bcycle_lametro_3045,132,34.02851,-118.25667,3
+Abbot's Pizza Company,$,3.5,1127.0,bcycle_lametro_4536,364,33.98908,-118.46226,5
+Cha CHA Matcha,$$,0.0,0.0,bcycle_lametro_4536,382,33.98908,-118.46226,5
+Gjelina,$$$,3.5,5083.0,bcycle_lametro_4536,297,33.98908,-118.46226,5
+Intelligentsia Coffee,$$,0.0,0.0,bcycle_lametro_4536,485,33.98908,-118.46226,5
+Lemonade,$$,4.0,1633.0,bcycle_lametro_4536,41,33.98908,-118.46226,5
+Piccolo Venice,$$,0.0,0.0,bcycle_lametro_4536,137,33.98908,-118.46226,5
+Pressed Juicery,$$,0.0,0.0,bcycle_lametro_4536,71,33.98908,-118.46226,5
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4536,393,33.98908,-118.46226,5
+The Brig,$$,0.0,0.0,bcycle_lametro_4536,214,33.98908,-118.46226,5
+The Tasting Kitchen,$$$,3.5,1689.0,bcycle_lametro_4536,114,33.98908,-118.46226,5
+Abbot's Pizza Company,$,3.5,1127.0,bcycle_lametro_4202,241,33.99116,-118.46829,11
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4202,216,33.99116,-118.46829,11
+Cha CHA Matcha,$$,0.0,0.0,bcycle_lametro_4202,223,33.99116,-118.46829,11
+Felix,$$,0.0,0.0,bcycle_lametro_4202,345,33.99116,-118.46829,11
+Gjelina,$$$,3.5,5083.0,bcycle_lametro_4202,314,33.99116,-118.46829,11
+Great White,$$,4.0,1004.0,bcycle_lametro_4202,519,33.99116,-118.46829,11
+Greenleaf,$$,0.0,0.0,bcycle_lametro_4202,24,33.99116,-118.46829,11
+Intelligentsia Coffee,$$,0.0,0.0,bcycle_lametro_4202,126,33.99116,-118.46829,11
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4202,214,33.99116,-118.46829,11
+The Butcher's Daughter,$$,4.0,1847.0,bcycle_lametro_4202,98,33.99116,-118.46829,11
+Aeirloom bakery,$$,0.0,0.0,bcycle_lametro_4603,125,34.15214,-118.36195,4
+Ca'Del Sole,$$,0.0,0.0,bcycle_lametro_4603,908,34.15214,-118.36195,4
+Cascabel,$$,4.0,1033.0,bcycle_lametro_4603,227,34.15214,-118.36195,4
+Forman's Tavern,$$,0.0,0.0,bcycle_lametro_4603,886,34.15214,-118.36195,4
+Lotus Vegan,$$,4.5,1255.0,bcycle_lametro_4603,809,34.15214,-118.36195,4
+SweetSalt Food Shop,$$,0.0,0.0,bcycle_lametro_4603,772,34.15214,-118.36195,4
+The Coffee Bean and Tea Leaf,$$,0.0,0.0,bcycle_lametro_4603,436,34.15214,-118.36195,4
+The Rustic Spoon,$$,0.0,0.0,bcycle_lametro_4603,402,34.15214,-118.36195,4
+Waffles,$$,0.0,0.0,bcycle_lametro_4603,774,34.15214,-118.36195,4
+Zankou Chicken,$$,0.0,0.0,bcycle_lametro_4603,328,34.15214,-118.36195,4
+Afuri Ramen,$$,0.0,0.0,bcycle_lametro_3036,442,34.03919,-118.23253,9
+Bavel,$$$,4.5,2100.0,bcycle_lametro_3036,260,34.03919,-118.23253,9
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3036,11,34.03919,-118.23253,9
+Everson Rocye Bar,$$,0.0,0.0,bcycle_lametro_3036,531,34.03919,-118.23253,9
+Girl & The Goat LA,$$,0.0,0.0,bcycle_lametro_3036,127,34.03919,-118.23253,9
+Officine Brera,$$,0.0,0.0,bcycle_lametro_3036,206,34.03919,-118.23253,9
+Resident,$$,0.0,0.0,bcycle_lametro_3036,446,34.03919,-118.23253,9
+Urth Caffé,$$,0.0,0.0,bcycle_lametro_3036,391,34.03919,-118.23253,9
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3036,249,34.03919,-118.23253,9
+Zinc Café & Market,$$,0.0,0.0,bcycle_lametro_3036,27,34.03919,-118.23253,9
+Afuri Ramen,$$,0.0,0.0,bcycle_lametro_4387,910,34.03352,-118.24184,8
+Cafe Dulce,$$,0.0,0.0,bcycle_lametro_4387,50,34.03352,-118.24184,8
+Everson Rocye Bar,$$,0.0,0.0,bcycle_lametro_4387,851,34.03352,-118.24184,8
+Go Get Em Tiger,$$,0.0,0.0,bcycle_lametro_4387,234,34.03352,-118.24184,8
+Guerrilla Tacos,$$,4.0,1079.0,bcycle_lametro_4387,898,34.03352,-118.24184,8
+Pikunico,$$,4.0,288.0,bcycle_lametro_4387,221,34.03352,-118.24184,8
+Rapp Bar Dtla,$$,0.0,0.0,bcycle_lametro_4387,120,34.03352,-118.24184,8
+Sam's Hof Brau,$$,0.0,0.0,bcycle_lametro_4387,566,34.03352,-118.24184,8
+Smorgasburg Los Angeles,$$,0.0,0.0,bcycle_lametro_4387,143,34.03352,-118.24184,8
+Tony's Saloon,$$,0.0,0.0,bcycle_lametro_4387,946,34.03352,-118.24184,8
+Afuri Ramen,$$,0.0,0.0,bcycle_lametro_3058,113,34.0358,-118.23317,4
+Bestia,$$$,4.5,7244.0,bcycle_lametro_3058,431,34.0358,-118.23317,4
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3058,370,34.0358,-118.23317,4
+Bread Lounge,$$,0.0,0.0,bcycle_lametro_3058,336,34.0358,-118.23317,4
+Damian,$$,0.0,0.0,bcycle_lametro_3058,467,34.0358,-118.23317,4
+Everson Rocye Bar,$$,0.0,0.0,bcycle_lametro_3058,161,34.0358,-118.23317,4
+Guerrilla Tacos,$$,4.0,1079.0,bcycle_lametro_3058,174,34.0358,-118.23317,4
+Stumptown Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3058,426,34.0358,-118.23317,4
+Tony's Saloon,$$,0.0,0.0,bcycle_lametro_3058,179,34.0358,-118.23317,4
+Zinc Café & Market,$$,0.0,0.0,bcycle_lametro_3058,405,34.0358,-118.23317,4
+Afuri Ramen,$$,0.0,0.0,bcycle_lametro_3037,93,34.0348,-118.23128,10
+Bestia,$$$,4.5,7244.0,bcycle_lametro_3037,225,34.0348,-118.23128,10
+Bread Lounge,$$,0.0,0.0,bcycle_lametro_3037,132,34.0348,-118.23128,10
+Damian,$$,4.0,263.0,bcycle_lametro_3037,260,34.0348,-118.23128,10
+Everson Rocye Bar,$$,0.0,0.0,bcycle_lametro_3037,134,34.0348,-118.23128,10
+Guerrilla Tacos,$$,4.0,1079.0,bcycle_lametro_3037,88,34.0348,-118.23128,10
+Maru Coffee,$$,0.0,0.0,bcycle_lametro_3037,442,34.0348,-118.23128,10
+Soho Warehouse,$$,0.0,0.0,bcycle_lametro_3037,390,34.0348,-118.23128,10
+Stumptown Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3037,223,34.0348,-118.23128,10
+Tony's Saloon,$$,0.0,0.0,bcycle_lametro_3037,36,34.0348,-118.23128,10
+Ahgassi Gopchang,$$$,4.5,2091.0,bcycle_lametro_4524,314,34.06163,-118.30119,4
+Alfred Coffee Koreatown,$$,0.0,0.0,bcycle_lametro_4524,27,34.06163,-118.30119,4
+BCD Tofu House,$$,4.0,4826.0,bcycle_lametro_4524,144,34.06163,-118.30119,4
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4524,351,34.06163,-118.30119,4
+Break Room 86,$$,0.0,0.0,bcycle_lametro_4524,21,34.06163,-118.30119,4
+Cassell's Hamburgers,$$,4.0,1805.0,bcycle_lametro_4524,211,34.06163,-118.30119,4
+Hangari Bajirak Kalguksoo,$$,0.0,0.0,bcycle_lametro_4524,358,34.06163,-118.30119,4
+Honeymee,$$,0.0,0.0,bcycle_lametro_4524,304,34.06163,-118.30119,4
+The Normandie Club,$$,0.0,0.0,bcycle_lametro_4524,201,34.06163,-118.30119,4
+Yup Dduk La,$$,0.0,0.0,bcycle_lametro_4524,248,34.06163,-118.30119,4
+Ahgassi Gopchang,$$$,4.5,2091.0,bcycle_lametro_4444,252,34.06162,-118.30557,7
+BCD Tofu House,$$,4.0,4826.0,bcycle_lametro_4444,265,34.06162,-118.30557,7
+Break Room 86,$$,0.0,0.0,bcycle_lametro_4444,413,34.06162,-118.30557,7
+Bumsan Organic Milk Bar,$$,0.0,0.0,bcycle_lametro_4444,437,34.06162,-118.30557,7
+Cassell's Hamburgers,$$,4.0,1805.0,bcycle_lametro_4444,515,34.06162,-118.30557,7
+Document Coffee Bar,$$,0.0,0.0,bcycle_lametro_4444,506,34.06162,-118.30557,7
+Hae Jang Chon Korean BBQ Restaurant,$$,0.0,0.0,bcycle_lametro_4444,256,34.06162,-118.30557,7
+Han Bat Sul Lung Tang,$$,4.5,2642.0,bcycle_lametro_4444,558,34.06162,-118.30557,7
+Myung Dong Kyoja,$$,0.0,0.0,bcycle_lametro_4444,138,34.06162,-118.30557,7
+The Normandie Club,$$,0.0,0.0,bcycle_lametro_4444,480,34.06162,-118.30557,7
+Ahgassi Gopchang,$$$,4.5,2091.0,bcycle_lametro_4538,509,34.06543,-118.30882,3
+Bumsan Organic Milk Bar,$$,0.0,0.0,bcycle_lametro_4538,127,34.06543,-118.30882,3
+Daedo Sikdang,$$,0.0,0.0,bcycle_lametro_4538,258,34.06543,-118.30882,3
+Document Coffee Bar,$$,0.0,0.0,bcycle_lametro_4538,507,34.06543,-118.30882,3
+Feng Mao,$$,0.0,0.0,bcycle_lametro_4538,160,34.06543,-118.30882,3
+Hae Jang Chon Korean BBQ Restaurant,$$,0.0,0.0,bcycle_lametro_4538,305,34.06543,-118.30882,3
+Han Bat Sul Lung Tang,$$,4.5,2642.0,bcycle_lametro_4538,60,34.06543,-118.30882,3
+Jinsol Gukbap,$$,0.0,0.0,bcycle_lametro_4538,454,34.06543,-118.30882,3
+Monty's Good Burger,$$,4.5,2411.0,bcycle_lametro_4538,73,34.06543,-118.30882,3
+Ubatuba Acai,$$,0.0,0.0,bcycle_lametro_4538,176,34.06543,-118.30882,3
+Akasha,$$,0.0,0.0,bcycle_lametro_4566,341,34.02339,-118.39922,2
+Cafe Vida - Culver City,$$,0.0,0.0,bcycle_lametro_4566,298,34.02339,-118.39922,2
+Cava,$$,0.0,0.0,bcycle_lametro_4566,519,34.02339,-118.39922,2
+Cerveteca Taco & Torta Joint,$$,0.0,0.0,bcycle_lametro_4566,409,34.02339,-118.39922,2
+Conservatory for Coffee Tea & Coca,$$,0.0,0.0,bcycle_lametro_4566,301,34.02339,-118.39922,2
+Go Get Em Tiger,$$,0.0,0.0,bcycle_lametro_4566,331,34.02339,-118.39922,2
+Super Domestic Coffee,$$,0.0,0.0,bcycle_lametro_4566,422,34.02339,-118.39922,2
+Tender Greens,$$,4.0,2211.0,bcycle_lametro_4566,365,34.02339,-118.39922,2
+The Coffee Bean and Tea Leaf,$$,0.0,0.0,bcycle_lametro_4566,68,34.02339,-118.39922,2
+Versailles Cuban Restaurant,$$,0.0,0.0,bcycle_lametro_4566,473,34.02339,-118.39922,2
+Akasha,$$,0.0,0.0,bcycle_lametro_4558,316,34.02569,-118.3953,4
+Cava,$$,0.0,0.0,bcycle_lametro_4558,138,34.02569,-118.3953,4
+Cerveteca Taco & Torta Joint,$$,0.0,0.0,bcycle_lametro_4558,65,34.02569,-118.3953,4
+In-N-Out Burger,$$,0.0,0.0,bcycle_lametro_4558,135,34.02569,-118.3953,4
+K-ZO Restaurant,$$,0.0,0.0,bcycle_lametro_4558,220,34.02569,-118.3953,4
+Philz Coffee,$$,0.0,0.0,bcycle_lametro_4558,207,34.02569,-118.3953,4
+Public School 310,$$,3.5,1897.0,bcycle_lametro_4558,182,34.02569,-118.3953,4
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4558,204,34.02569,-118.3953,4
+Seventy7 Lounge,$$,0.0,0.0,bcycle_lametro_4558,147,34.02569,-118.3953,4
+Tender Greens,$$,4.0,2211.0,bcycle_lametro_4558,264,34.02569,-118.3953,4
+Akbar Cuisine of India,$$,4.0,464.0,bcycle_lametro_4547,40,33.9897,-118.44888,5
+C & O Cucina,$$,0.0,0.0,bcycle_lametro_4547,144,33.9897,-118.44888,5
+Firestone Walker - The Propagator,$$,0.0,0.0,bcycle_lametro_4547,25,33.9897,-118.44888,5
+In-N-Out Burger,$,4.0,745.0,bcycle_lametro_4547,329,33.9897,-118.44888,5
+Night + Market Sahm,$$,0.0,0.0,bcycle_lametro_4547,203,33.9897,-118.44888,5
+Old Lightning,$$,0.0,0.0,bcycle_lametro_4547,283,33.9897,-118.44888,5
+Scopa Italian Roots,$$$,4.0,1489.0,bcycle_lametro_4547,281,33.9897,-118.44888,5
+Sinners & Saints Desserts,$$,0.0,0.0,bcycle_lametro_4547,162,33.9897,-118.44888,5
+The Lincoln,$$,0.0,0.0,bcycle_lametro_4547,204,33.9897,-118.44888,5
+Wharo Korean BBQ,$$,0.0,0.0,bcycle_lametro_4547,161,33.9897,-118.44888,5
+Aki Restaurant,$$,0.0,0.0,bcycle_lametro_4514,156,34.04655,-118.45144,5
+El Paladar Oaxaqueno,$$,0.0,0.0,bcycle_lametro_4514,449,34.04655,-118.45144,5
+Emil's Swiss Pastry,$$,0.0,0.0,bcycle_lametro_4514,254,34.04655,-118.45144,5
+Good People Coffee Co,$$,0.0,0.0,bcycle_lametro_4514,350,34.04655,-118.45144,5
+Hakata Ramen Shin Sen,$$,0.0,0.0,bcycle_lametro_4514,234,34.04655,-118.45144,5
+Nanban-Kan Restaurant,$$,0.0,0.0,bcycle_lametro_4514,207,34.04655,-118.45144,5
+Plan Check Kitchen + Bar,$$,4.0,2766.0,bcycle_lametro_4514,581,34.04655,-118.45144,5
+"The Corner ( also known as """"The Corner Deli & Grill) (Breakfast & Lunch)",$$,0.0,0.0,bcycle_lametro_4514,654,34.04655,-118.45144,5
+The Nickel Mine,$$,4.0,748.0,bcycle_lametro_4514,83,34.04655,-118.45144,5
+Zankou Chicken,$$,4.0,1572.0,bcycle_lametro_4514,710,34.04655,-118.45144,5
+Alana's Coffee Roasters,$$,0.0,0.0,bcycle_lametro_4553,717,33.99958,-118.44136,4
+Dunkin',$$,0.0,0.0,bcycle_lametro_4553,742,33.99958,-118.44136,4
+Ginger's Divine Ice Cream,$$,0.0,0.0,bcycle_lametro_4553,986,33.99958,-118.44136,4
+Hatchet Hall,$$$,4.0,984.0,bcycle_lametro_4553,953,33.99958,-118.44136,4
+In-N-Out Burger,$,4.0,745.0,bcycle_lametro_4553,987,33.99958,-118.44136,4
+Maxwell Cafe,$$,0.0,0.0,bcycle_lametro_4553,761,33.99958,-118.44136,4
+Pitfire Artisan Pizza,$$,4.0,1321.0,bcycle_lametro_4553,592,33.99958,-118.44136,4
+Rainbow Acres,$$,0.0,0.0,bcycle_lametro_4553,701,33.99958,-118.44136,4
+Röckenwagner Bakery,$$,4.0,446.0,bcycle_lametro_4553,557,33.99958,-118.44136,4
+Sunny Blue,$,4.0,489.0,bcycle_lametro_4553,878,33.99958,-118.44136,4
+Alana's Coffee Roasters,$$,0.0,0.0,bcycle_lametro_4554,59,34.00351,-118.43438,6
+Coffee Connection,$$,0.0,0.0,bcycle_lametro_4554,142,34.00351,-118.43438,6
+Ginger's Divine Ice Cream,$$,0.0,0.0,bcycle_lametro_4554,811,34.00351,-118.43438,6
+Hatchet Hall,$$$,4.0,984.0,bcycle_lametro_4554,774,34.00351,-118.43438,6
+Menotti's Coffee Stop,$$,0.0,0.0,bcycle_lametro_4554,892,34.00351,-118.43438,6
+Quiadaiyn Restaurant,$$,4.5,349.0,bcycle_lametro_4554,134,34.00351,-118.43438,6
+Sunny Blue,$,4.0,489.0,bcycle_lametro_4554,785,34.00351,-118.43438,6
+Taco Stand on Centinela and Venice,$$,0.0,0.0,bcycle_lametro_4554,126,34.00351,-118.43438,6
+The MV Grab & Go,$$,0.0,0.0,bcycle_lametro_4554,241,34.00351,-118.43438,6
+The Mar Vista,$$,0.0,0.0,bcycle_lametro_4554,232,34.00351,-118.43438,6
+Alchemist Coffee Project,$,4.5,1283.0,bcycle_lametro_4304,294,34.06258,-118.29009,7
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4304,675,34.06258,-118.29009,7
+Cafe Mak,$$,0.0,0.0,bcycle_lametro_4304,83,34.06258,-118.29009,7
+Chunju Han-il Kwan,$$,0.0,0.0,bcycle_lametro_4304,649,34.06258,-118.29009,7
+Dan Sung Sa,$$,4.0,1109.0,bcycle_lametro_4304,417,34.06258,-118.29009,7
+Hangari Bajirak Kalguksoo,$$,0.0,0.0,bcycle_lametro_4304,700,34.06258,-118.29009,7
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4304,683,34.06258,-118.29009,7
+Seongbukdong,$$,0.0,0.0,bcycle_lametro_4304,412,34.06258,-118.29009,7
+Sharp Specialty Coffee,$$,0.0,0.0,bcycle_lametro_4304,580,34.06258,-118.29009,7
+Yuk Dae Jang,$$,4.5,708.0,bcycle_lametro_4304,244,34.06258,-118.29009,7
+Alchemist Coffee Project,$,4.5,1283.0,bcycle_lametro_4306,287,34.05765,-118.29218,6
+Boba Time,$$,0.0,0.0,bcycle_lametro_4306,222,34.05765,-118.29218,6
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4306,677,34.05765,-118.29218,6
+Honeymee,$$,0.0,0.0,bcycle_lametro_4306,737,34.05765,-118.29218,6
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4306,836,34.05765,-118.29218,6
+Park's BBQ,$$$,4.0,2065.0,bcycle_lametro_4306,415,34.05765,-118.29218,6
+Seongbukdong,$$,0.0,0.0,bcycle_lametro_4306,717,34.05765,-118.29218,6
+Soowon Galbi,$$,0.0,0.0,bcycle_lametro_4306,152,34.05765,-118.29218,6
+The Corner Place,$$,0.0,0.0,bcycle_lametro_4306,271,34.05765,-118.29218,6
+The Prince (황태자),$$,0.0,0.0,bcycle_lametro_4306,365,34.05765,-118.29218,6
+Alchemist Coffee Project,$,4.5,1283.0,bcycle_lametro_4450,535,34.06349,-118.28716,9
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4450,957,34.06349,-118.28716,9
+Cafe Mak,$$,0.0,0.0,bcycle_lametro_4450,227,34.06349,-118.28716,9
+California Donut,$$,0.0,0.0,bcycle_lametro_4450,818,34.06349,-118.28716,9
+Chunju Han-il Kwan,$$,0.0,0.0,bcycle_lametro_4450,915,34.06349,-118.28716,9
+Dan Sung Sa,$$,0.0,0.0,bcycle_lametro_4450,667,34.06349,-118.28716,9
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4450,940,34.06349,-118.28716,9
+Seongbukdong,$$,0.0,0.0,bcycle_lametro_4450,657,34.06349,-118.28716,9
+Soowon Galbi,$$,0.0,0.0,bcycle_lametro_4450,870,34.06349,-118.28716,9
+Yuk Dae Jang,$$,4.5,708.0,bcycle_lametro_4450,100,34.06349,-118.28716,9
+Alchemist Coffee Project,$,4.5,1283.0,bcycle_lametro_4628,260,34.05978,-118.28854,6
+Boo’s Philly Cheesesteaks - Koreatown,$$,0.0,0.0,bcycle_lametro_4628,849,34.05978,-118.28854,6
+Dan Sung Sa,$$,0.0,0.0,bcycle_lametro_4628,696,34.05978,-118.28854,6
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4628,928,34.05978,-118.28854,6
+Moodaepo II,$$,0.0,0.0,bcycle_lametro_4628,113,34.05978,-118.28854,6
+Park's BBQ,$$$,4.0,2065.0,bcycle_lametro_4628,721,34.05978,-118.28854,6
+Seongbukdong,$$,0.0,0.0,bcycle_lametro_4628,697,34.05978,-118.28854,6
+Soowon Galbi,$$,0.0,0.0,bcycle_lametro_4628,450,34.05978,-118.28854,6
+The Corner Place,$$,0.0,0.0,bcycle_lametro_4628,419,34.05978,-118.28854,6
+Yuk Dae Jang,$$,4.5,708.0,bcycle_lametro_4628,471,34.05978,-118.28854,6
+Alchemist Coffee Project,$,4.5,1283.0,bcycle_lametro_4447,876,34.0616,-118.28199,5
+Boba Time,$$,0.0,0.0,bcycle_lametro_4447,954,34.0616,-118.28199,5
+Buffalo Wild Wings,$$,0.0,0.0,bcycle_lametro_4447,862,34.0616,-118.28199,5
+Cafe Mak,$$,0.0,0.0,bcycle_lametro_4447,723,34.0616,-118.28199,5
+Crawfords,$$,0.0,0.0,bcycle_lametro_4447,989,34.0616,-118.28199,5
+Langer's,$$,0.0,0.0,bcycle_lametro_4447,758,34.0616,-118.28199,5
+Moodaepo II,$$,0.0,0.0,bcycle_lametro_4447,747,34.0616,-118.28199,5
+Starbucks,$$,0.0,0.0,bcycle_lametro_4447,311,34.0616,-118.28199,5
+The Corner Place,$$,0.0,0.0,bcycle_lametro_4447,941,34.0616,-118.28199,5
+Yuk Dae Jang,$$,4.5,708.0,bcycle_lametro_4447,619,34.0616,-118.28199,5
+Alcove Cafe & Bakery,$$,0.0,0.0,bcycle_lametro_4452,436,34.10233,-118.28746,4
+Bar Covell,$$,0.0,0.0,bcycle_lametro_4452,357,34.10233,-118.28746,4
+Home,$$,0.0,0.0,bcycle_lametro_4452,73,34.10233,-118.28746,4
+HomeState,$$,4.5,1330.0,bcycle_lametro_4452,379,34.10233,-118.28746,4
+Jeni's Splendid Ice Creams,$$,0.0,0.0,bcycle_lametro_4452,512,34.10233,-118.28746,4
+Kismet,$$,0.0,0.0,bcycle_lametro_4452,396,34.10233,-118.28746,4
+Maru Coffee,$$,0.0,0.0,bcycle_lametro_4452,469,34.10233,-118.28746,4
+Spitz: Home of the Doner Kabab,$$,0.0,0.0,bcycle_lametro_4452,23,34.10233,-118.28746,4
+The Dresden Restaurant,$$,0.0,0.0,bcycle_lametro_4452,392,34.10233,-118.28746,4
+Ye Rustic Inn,$$,0.0,0.0,bcycle_lametro_4452,228,34.10233,-118.28746,4
+Alcove Cafe & Bakery,$$,0.0,0.0,bcycle_lametro_4437,104,34.10536,-118.28727,3
+All Time,$$,0.0,0.0,bcycle_lametro_4437,385,34.10536,-118.28727,3
+Daily Donuts,$$,0.0,0.0,bcycle_lametro_4437,31,34.10536,-118.28727,3
+Home,$$,0.0,0.0,bcycle_lametro_4437,263,34.10536,-118.28727,3
+Jeni's Splendid Ice Creams,$$,0.0,0.0,bcycle_lametro_4437,175,34.10536,-118.28727,3
+Kismet,$$,0.0,0.0,bcycle_lametro_4437,646,34.10536,-118.28727,3
+Maru Coffee,$$,0.0,0.0,bcycle_lametro_4437,132,34.10536,-118.28727,3
+Spitz: Home of the Doner Kabab,$$,0.0,0.0,bcycle_lametro_4437,314,34.10536,-118.28727,3
+The Dresden Restaurant,$$,0.0,0.0,bcycle_lametro_4437,477,34.10536,-118.28727,3
+Ye Rustic Inn,$$,0.0,0.0,bcycle_lametro_4437,119,34.10536,-118.28727,3
+Alcove Cafe & Bakery,$$,0.0,0.0,bcycle_lametro_4474,421,34.11003,-118.28716,4
+All Time,$$,4.0,426.0,bcycle_lametro_4474,134,34.11003,-118.28716,4
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4474,59,34.11003,-118.28716,4
+Cafe Los Feliz,$$,4.0,1334.0,bcycle_lametro_4474,61,34.11003,-118.28716,4
+Jeni's Splendid Ice Creams,$$,0.0,0.0,bcycle_lametro_4474,343,34.11003,-118.28716,4
+Little Dom's,$$,3.5,1721.0,bcycle_lametro_4474,92,34.11003,-118.28716,4
+Maru Coffee,$$,0.0,0.0,bcycle_lametro_4474,387,34.11003,-118.28716,4
+Messhall Kitchen,$$,0.0,0.0,bcycle_lametro_4474,200,34.11003,-118.28716,4
+Starbucks,$$,0.0,0.0,bcycle_lametro_4474,143,34.11003,-118.28716,4
+Yucas Hut,$$,0.0,0.0,bcycle_lametro_4474,95,34.11003,-118.28716,4
+Alcove Cafe & Bakery,$$,0.0,0.0,bcycle_lametro_4436,400,34.10578,-118.29194,3
+Atrium,$$,0.0,0.0,bcycle_lametro_4436,204,34.10578,-118.29194,3
+Figaro Bistrot,$$,3.5,1402.0,bcycle_lametro_4436,213,34.10578,-118.29194,3
+House of Pies,$$,3.5,1862.0,bcycle_lametro_4436,71,34.10578,-118.29194,3
+Jeni's Splendid Ice Creams,$$,0.0,0.0,bcycle_lametro_4436,447,34.10578,-118.29194,3
+Kismet,$$,0.0,0.0,bcycle_lametro_4436,589,34.10578,-118.29194,3
+Maru Coffee,$$,0.0,0.0,bcycle_lametro_4436,428,34.10578,-118.29194,3
+Palermo Italian Restaurant,$$,4.0,1719.0,bcycle_lametro_4436,120,34.10578,-118.29194,3
+The Dresden Restaurant,$$,0.0,0.0,bcycle_lametro_4436,305,34.10578,-118.29194,3
+The Punchbowl,$$,0.0,0.0,bcycle_lametro_4436,241,34.10578,-118.29194,3
+Andante Coffee,$$,0.0,0.0,bcycle_lametro_3006,140,34.04554,-118.25667,3
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3006,184,34.04554,-118.25667,3
+Golden Gopher,$$,0.0,0.0,bcycle_lametro_3006,69,34.04554,-118.25667,3
+Little Sister,$$,4.0,1753.0,bcycle_lametro_3006,184,34.04554,-118.25667,3
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3006,272,34.04554,-118.25667,3
+Seven Grand,$$,0.0,0.0,bcycle_lametro_3006,169,34.04554,-118.25667,3
+Shake Shack,$$,0.0,0.0,bcycle_lametro_3006,117,34.04554,-118.25667,3
+Shibumi,$$,0.0,0.0,bcycle_lametro_3006,154,34.04554,-118.25667,3
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3006,199,34.04554,-118.25667,3
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3006,387,34.04554,-118.25667,3
+Andante Coffee,$$,0.0,0.0,bcycle_lametro_3008,434,34.04661,-118.26273,4
+Birdies,$$,4.0,2175.0,bcycle_lametro_3008,629,34.04661,-118.26273,4
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3008,567,34.04661,-118.26273,4
+Fogo De Chao,$$,0.0,0.0,bcycle_lametro_3008,203,34.04661,-118.26273,4
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3008,310,34.04661,-118.26273,4
+Spire 73,$$,0.0,0.0,bcycle_lametro_3008,455,34.04661,-118.26273,4
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3008,537,34.04661,-118.26273,4
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_3008,469,34.04661,-118.26273,4
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3008,729,34.04661,-118.26273,4
+Yard House,$$,3.5,2947.0,bcycle_lametro_3008,318,34.04661,-118.26273,4
+Andante Coffee,$$,0.0,0.0,bcycle_lametro_3064,85,34.04613,-118.25759,7
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3064,149,34.04613,-118.25759,7
+Golden Gopher,$$,0.0,0.0,bcycle_lametro_3064,170,34.04613,-118.25759,7
+Little Sister,$$,4.0,1753.0,bcycle_lametro_3064,173,34.04613,-118.25759,7
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3064,170,34.04613,-118.25759,7
+Seven Grand,$$,0.0,0.0,bcycle_lametro_3064,178,34.04613,-118.25759,7
+Shibumi,$$,0.0,0.0,bcycle_lametro_3064,252,34.04613,-118.25759,7
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3064,144,34.04613,-118.25759,7
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3064,454,34.04613,-118.25759,7
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3064,407,34.04613,-118.25759,7
+Andante Coffee,$$,0.0,0.0,bcycle_lametro_3018,269,34.04373,-118.26014,7
+Birdies,$$,4.0,2175.0,bcycle_lametro_3018,232,34.04373,-118.26014,7
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3018,504,34.04373,-118.26014,7
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3018,248,34.04373,-118.26014,7
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3018,323,34.04373,-118.26014,7
+Shibumi,$$,0.0,0.0,bcycle_lametro_3018,378,34.04373,-118.26014,7
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3018,495,34.04373,-118.26014,7
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_3018,372,34.04373,-118.26014,7
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3018,342,34.04373,-118.26014,7
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3018,544,34.04373,-118.26014,7
+Andante Coffee,$$,0.0,0.0,bcycle_lametro_3074,313,34.04417,-118.26117,9
+Birdies,$$,4.0,2175.0,bcycle_lametro_3074,324,34.04417,-118.26117,9
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3074,538,34.04417,-118.26117,9
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3074,349,34.04417,-118.26117,9
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3074,314,34.04417,-118.26117,9
+Shibumi,$$,0.0,0.0,bcycle_lametro_3074,469,34.04417,-118.26117,9
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3074,522,34.04417,-118.26117,9
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_3074,312,34.04417,-118.26117,9
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3074,448,34.04417,-118.26117,9
+Yard House,$$,3.5,2947.0,bcycle_lametro_3074,460,34.04417,-118.26117,9
+Angel City Brewery,$$,0.0,0.0,bcycle_lametro_3042,347,34.0493,-118.23881,10
+Far Bar,$$,0.0,0.0,bcycle_lametro_3042,91,34.0493,-118.23881,10
+Fugetsu-Do,$$,0.0,0.0,bcycle_lametro_3042,183,34.0493,-118.23881,10
+Izakaya Gazen,$$,0.0,0.0,bcycle_lametro_3042,46,34.0493,-118.23881,10
+Marugame Monzo,$$,4.5,4415.0,bcycle_lametro_3042,140,34.0493,-118.23881,10
+RAKKAN Ramen,$$,0.0,0.0,bcycle_lametro_3042,68,34.0493,-118.23881,10
+Shin-Sen-Gumi,$$,0.0,0.0,bcycle_lametro_3042,127,34.0493,-118.23881,10
+Spitz,$$,0.0,0.0,bcycle_lametro_3042,166,34.0493,-118.23881,10
+Sushi Gen,$$$,4.5,4164.0,bcycle_lametro_3042,273,34.0493,-118.23881,10
+Wolf & Crane,$$,0.0,0.0,bcycle_lametro_3042,169,34.0493,-118.23881,10
+Angel City Brewery,$$,0.0,0.0,bcycle_lametro_3079,578,34.05014,-118.23319,6
+Arts District Brewing,$$,0.0,0.0,bcycle_lametro_3079,638,34.05014,-118.23319,6
+Boomtown Brewery,$$,0.0,0.0,bcycle_lametro_3079,68,34.05014,-118.23319,6
+Cafe Gratitude Arts District,$$,0.0,0.0,bcycle_lametro_3079,504,34.05014,-118.23319,6
+Cha Cha CHA,$$,0.0,0.0,bcycle_lametro_3079,540,34.05014,-118.23319,6
+Death & Co,$$,0.0,0.0,bcycle_lametro_3079,544,34.05014,-118.23319,6
+Manuela To Go,$$,0.0,0.0,bcycle_lametro_3079,431,34.05014,-118.23319,6
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_3079,499,34.05014,-118.23319,6
+The Pie Hole,$,4.0,3353.0,bcycle_lametro_3079,592,34.05014,-118.23319,6
+Wurstküche,$$,4.0,8917.0,bcycle_lametro_3079,580,34.05014,-118.23319,6
+Angel City Brewery,$$,0.0,0.0,bcycle_lametro_4475,543,34.04518,-118.24325,4
+Cole's French Dip,$$,0.0,0.0,bcycle_lametro_4475,575,34.04518,-118.24325,4
+De La Nonna,$$,0.0,0.0,bcycle_lametro_4475,513,34.04518,-118.24325,4
+EightyTwo,$$,0.0,0.0,bcycle_lametro_4475,535,34.04518,-118.24325,4
+KazuNori,$$,0.0,0.0,bcycle_lametro_4475,478,34.04518,-118.24325,4
+Marugame Monzo,$$,4.5,4415.0,bcycle_lametro_4475,585,34.04518,-118.24325,4
+Shin-Sen-Gumi,$$,0.0,0.0,bcycle_lametro_4475,503,34.04518,-118.24325,4
+Sushi Gen,$$$,4.5,4164.0,bcycle_lametro_4475,473,34.04518,-118.24325,4
+The Escondite,$$,0.0,0.0,bcycle_lametro_4475,138,34.04518,-118.24325,4
+Wolf & Crane,$$,0.0,0.0,bcycle_lametro_4475,451,34.04518,-118.24325,4
+Angel City Brewery,$$,0.0,0.0,bcycle_lametro_3062,542,34.04775,-118.24317,7
+Fugetsu-Do,$$,0.0,0.0,bcycle_lametro_3062,367,34.04775,-118.24317,7
+KazuNori,$$,0.0,0.0,bcycle_lametro_3062,394,34.04775,-118.24317,7
+Marugame Monzo,$$,4.5,4415.0,bcycle_lametro_3062,356,34.04775,-118.24317,7
+Redbird,$$$,4.0,1770.0,bcycle_lametro_3062,334,34.04775,-118.24317,7
+Shin-Sen-Gumi,$$,0.0,0.0,bcycle_lametro_3062,373,34.04775,-118.24317,7
+Spitz,$$,0.0,0.0,bcycle_lametro_3062,298,34.04775,-118.24317,7
+Sushi Gen,$$$,4.5,4164.0,bcycle_lametro_3062,439,34.04775,-118.24317,7
+The Escondite,$$,0.0,0.0,bcycle_lametro_3062,186,34.04775,-118.24317,7
+Wolf & Crane,$$,0.0,0.0,bcycle_lametro_3062,324,34.04775,-118.24317,7
+Angel City Brewery,$$,0.0,0.0,bcycle_lametro_3082,20,34.04652,-118.23741,14
+Cha Cha CHA,$$,0.0,0.0,bcycle_lametro_3082,187,34.04652,-118.23741,14
+De La Nonna,$$,0.0,0.0,bcycle_lametro_3082,164,34.04652,-118.23741,14
+Death & Co,$$,0.0,0.0,bcycle_lametro_3082,163,34.04652,-118.23741,14
+EightyTwo,$$,0.0,0.0,bcycle_lametro_3082,119,34.04652,-118.23741,14
+Manuela To Go,$$,0.0,0.0,bcycle_lametro_3082,248,34.04652,-118.23741,14
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_3082,185,34.04652,-118.23741,14
+Sushi Gen,$$$,4.5,4164.0,bcycle_lametro_3082,108,34.04652,-118.23741,14
+The Pie Hole,$,4.0,3353.0,bcycle_lametro_3082,167,34.04652,-118.23741,14
+Wurstküche,$$,4.0,8917.0,bcycle_lametro_3082,161,34.04652,-118.23741,14
+Angel City Brewery,$$,0.0,0.0,bcycle_lametro_3022,409,34.04607,-118.23309,16
+Arts District Brewing,$$,0.0,0.0,bcycle_lametro_3022,261,34.04607,-118.23309,16
+Cafe Gratitude Arts District,$$,0.0,0.0,bcycle_lametro_3022,69,34.04607,-118.23309,16
+Cha Cha CHA,$$,0.0,0.0,bcycle_lametro_3022,236,34.04607,-118.23309,16
+Death & Co,$$,0.0,0.0,bcycle_lametro_3022,258,34.04607,-118.23309,16
+Manuela To Go,$$,0.0,0.0,bcycle_lametro_3022,156,34.04607,-118.23309,16
+Resident,$$,0.0,0.0,bcycle_lametro_3022,424,34.04607,-118.23309,16
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_3022,219,34.04607,-118.23309,16
+The Pie Hole,$,4.0,3353.0,bcycle_lametro_3022,293,34.04607,-118.23309,16
+Wurstküche,$$,4.0,8917.0,bcycle_lametro_3022,286,34.04607,-118.23309,16
+Angel Maid Bakery,$$,0.0,0.0,bcycle_lametro_4552,170,33.99097,-118.4213,7
+Casa Sanchez,$$,4.0,1486.0,bcycle_lametro_4552,229,33.99097,-118.4213,7
+Coni'seafood,$$,0.0,0.0,bcycle_lametro_4552,189,33.99097,-118.4213,7
+LA Vegan,$$,4.0,871.0,bcycle_lametro_4552,265,33.99097,-118.4213,7
+Lodge Bread Co,$$,0.0,0.0,bcycle_lametro_4552,754,33.99097,-118.4213,7
+Menotti's Coffee Stop,$$,0.0,0.0,bcycle_lametro_4552,967,33.99097,-118.4213,7
+Pepe's Tacos,$$,0.0,0.0,bcycle_lametro_4552,76,33.99097,-118.4213,7
+Sachi.LA,$$,0.0,0.0,bcycle_lametro_4552,74,33.99097,-118.4213,7
+Sakura Japanese Restaurant,$$,4.0,966.0,bcycle_lametro_4552,148,33.99097,-118.4213,7
+Submariners,$$,0.0,0.0,bcycle_lametro_4552,112,33.99097,-118.4213,7
+Angel Maid Bakery,$$,0.0,0.0,bcycle_lametro_4521,963,33.99032,-118.41205,5
+Carniceria Sanchez,$$,0.0,0.0,bcycle_lametro_4521,648,33.99032,-118.41205,5
+Coni'seafood,$$,0.0,0.0,bcycle_lametro_4521,979,33.99032,-118.41205,5
+El Abajeno,$$,0.0,0.0,bcycle_lametro_4521,683,33.99032,-118.41205,5
+Los Cocos Panaderia y Pupuseria,$,4.5,179.0,bcycle_lametro_4521,612,33.99032,-118.41205,5
+Pepe's Tacos,$$,0.0,0.0,bcycle_lametro_4521,854,33.99032,-118.41205,5
+Sachi.LA,$$,0.0,0.0,bcycle_lametro_4521,882,33.99032,-118.41205,5
+Sakura Japanese Restaurant,$$,4.0,966.0,bcycle_lametro_4521,966,33.99032,-118.41205,5
+Submariners,$$,0.0,0.0,bcycle_lametro_4521,904,33.99032,-118.41205,5
+Tacomiendo,$,4.0,556.0,bcycle_lametro_4521,720,33.99032,-118.41205,5
+Angel Maid Bakery,$$,0.0,0.0,bcycle_lametro_4577,678,33.99302,-118.41491,5
+Café Brasil,$$,0.0,0.0,bcycle_lametro_4577,775,33.99302,-118.41491,5
+Carniceria Sanchez,$$,0.0,0.0,bcycle_lametro_4577,255,33.99302,-118.41491,5
+Casa Sanchez,$$,4.0,1486.0,bcycle_lametro_4577,726,33.99302,-118.41491,5
+LA Vegan,$$,4.0,871.0,bcycle_lametro_4577,767,33.99302,-118.41491,5
+Lodge Bread Co,$$,0.0,0.0,bcycle_lametro_4577,721,33.99302,-118.41491,5
+Pepe's Tacos,$$,0.0,0.0,bcycle_lametro_4577,597,33.99302,-118.41491,5
+Sachi.LA,$$,0.0,0.0,bcycle_lametro_4577,627,33.99302,-118.41491,5
+Sakura Japanese Restaurant,$$,4.0,966.0,bcycle_lametro_4577,694,33.99302,-118.41491,5
+Tacomiendo,$,4.0,556.0,bcycle_lametro_4577,322,33.99302,-118.41491,5
+Antojitos Bibi,$$,0.0,0.0,bcycle_lametro_4314,44,34.05771,-118.27976,9
+Langer's,$$,0.0,0.0,bcycle_lametro_4314,317,34.05771,-118.27976,9
+Moodaepo II,$$,0.0,0.0,bcycle_lametro_4314,946,34.05771,-118.27976,9
+Olympic Cheong Guk Jang,$$,0.0,0.0,bcycle_lametro_4314,786,34.05771,-118.27976,9
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_4314,940,34.05771,-118.27976,9
+Seoul Garden Restaurant,$$,4.0,575.0,bcycle_lametro_4314,803,34.05771,-118.27976,9
+Shabuya,$$,4.0,865.0,bcycle_lametro_4314,718,34.05771,-118.27976,9
+TGI Korean BBQ,$$$,4.0,894.0,bcycle_lametro_4314,905,34.05771,-118.27976,9
+The Corner Place,$$,0.0,0.0,bcycle_lametro_4314,943,34.05771,-118.27976,9
+Yangmani,$$,4.5,274.0,bcycle_lametro_4314,866,34.05771,-118.27976,9
+Arashi Sushi,$$,4.0,839.0,bcycle_lametro_4404,926,34.04813,-118.27103,4
+El Cholo,$$,0.0,0.0,bcycle_lametro_4404,818,34.04813,-118.27103,4
+Fogo De Chao,$$,0.0,0.0,bcycle_lametro_4404,917,34.04813,-118.27103,4
+Monty Bar,$$,0.0,0.0,bcycle_lametro_4404,566,34.04813,-118.27103,4
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_4404,397,34.04813,-118.27103,4
+Seoul Garden Restaurant,$$,4.0,575.0,bcycle_lametro_4404,657,34.04813,-118.27103,4
+Shabuya,$$,4.0,865.0,bcycle_lametro_4404,749,34.04813,-118.27103,4
+Starbucks,$$,0.0,0.0,bcycle_lametro_4404,838,34.04813,-118.27103,4
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_4404,907,34.04813,-118.27103,4
+Yard House,$$,3.5,2947.0,bcycle_lametro_4404,555,34.04813,-118.27103,4
+Arashi Sushi,$$,4.0,839.0,bcycle_lametro_3034,57,34.04206,-118.26338,6
+Birdies,$$,4.0,2175.0,bcycle_lametro_3034,400,34.04206,-118.26338,6
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3034,457,34.04206,-118.26338,6
+Cow Cafe,$$,0.0,0.0,bcycle_lametro_3034,373,34.04206,-118.26338,6
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3034,622,34.04206,-118.26338,6
+Pine & Crane DTLA,$$,4.5,241.0,bcycle_lametro_3034,183,34.04206,-118.26338,6
+Prank,$$,4.0,976.0,bcycle_lametro_3034,34,34.04206,-118.26338,6
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_3034,68,34.04206,-118.26338,6
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3034,586,34.04206,-118.26338,6
+Yard House,$$,3.5,2947.0,bcycle_lametro_3034,445,34.04206,-118.26338,6
+Arashi Sushi,$$,4.0,839.0,bcycle_lametro_3057,1015,34.03568,-118.27081,0
+Buss Stop Bar,$$,0.0,0.0,bcycle_lametro_3057,899,34.03568,-118.27081,0
+Cow Cafe,$$,4.5,173.0,bcycle_lametro_3057,696,34.03568,-118.27081,0
+Etchea,$$,0.0,0.0,bcycle_lametro_3057,605,34.03568,-118.27081,0
+First Draft,$$,0.0,0.0,bcycle_lametro_3057,780,34.03568,-118.27081,0
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_3057,862,34.03568,-118.27081,0
+Pine & Crane DTLA,$$,4.5,241.0,bcycle_lametro_3057,942,34.03568,-118.27081,0
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_3057,942,34.03568,-118.27081,0
+Prank,$$,4.0,976.0,bcycle_lametro_3057,1014,34.03568,-118.27081,0
+Starbucks,$$,0.0,0.0,bcycle_lametro_3057,701,34.03568,-118.27081,0
+Arashi Sushi,$$,4.0,839.0,bcycle_lametro_4512,191,34.04381,-118.26497,10
+Birdies,$$,4.0,2175.0,bcycle_lametro_4512,588,34.04381,-118.26497,10
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_4512,636,34.04381,-118.26497,10
+Cow Cafe,$$,0.0,0.0,bcycle_lametro_4512,563,34.04381,-118.26497,10
+El Cholo,$$,0.0,0.0,bcycle_lametro_4512,91,34.04381,-118.26497,10
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_4512,600,34.04381,-118.26497,10
+Prank,$$,4.0,976.0,bcycle_lametro_4512,257,34.04381,-118.26497,10
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_4512,176,34.04381,-118.26497,10
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_4512,757,34.04381,-118.26497,10
+Yard House,$$,3.5,2947.0,bcycle_lametro_4512,205,34.04381,-118.26497,10
+Arashi Sushi,$$,4.0,839.0,bcycle_lametro_3011,438,34.04113,-118.26798,9
+Birdies,$$,4.0,2175.0,bcycle_lametro_3011,826,34.04113,-118.26798,9
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3011,886,34.04113,-118.26798,9
+Cow Cafe,$$,0.0,0.0,bcycle_lametro_3011,433,34.04113,-118.26798,9
+El Cholo,$$,0.0,0.0,bcycle_lametro_3011,458,34.04113,-118.26798,9
+First Draft,$$,0.0,0.0,bcycle_lametro_3011,562,34.04113,-118.26798,9
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3011,997,34.04113,-118.26798,9
+Pine & Crane DTLA,$$,4.5,241.0,bcycle_lametro_3011,511,34.04113,-118.26798,9
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_3011,405,34.04113,-118.26798,9
+Yard House,$$,3.5,2947.0,bcycle_lametro_3011,519,34.04113,-118.26798,9
+Aroma Cafe,$$,4.0,386.0,bcycle_lametro_4492,425,34.03687,-118.4255,8
+Bigg Chill,$$,0.0,0.0,bcycle_lametro_4492,938,34.03687,-118.4255,8
+Bossa Nova Brazilian Cuisine,$$,3.5,1480.0,bcycle_lametro_4492,616,34.03687,-118.4255,8
+Chocolate Bash,$$,4.0,480.0,bcycle_lametro_4492,490,34.03687,-118.4255,8
+Food,$$,4.0,978.0,bcycle_lametro_4492,886,34.03687,-118.4255,8
+Gyu-Kaku BBQ,$$,0.0,0.0,bcycle_lametro_4492,524,34.03687,-118.4255,8
+Poquito Mas,$$,0.0,0.0,bcycle_lametro_4492,910,34.03687,-118.4255,8
+Starbucks,$$,0.0,0.0,bcycle_lametro_4492,515,34.03687,-118.4255,8
+The Apple Pan,$$,3.5,3277.0,bcycle_lametro_4492,466,34.03687,-118.4255,8
+The Stalking Horse Brewery & Freehouse,$$,0.0,0.0,bcycle_lametro_4492,984,34.03687,-118.4255,8
+Arts District Brewing,$$,0.0,0.0,bcycle_lametro_4540,979,34.04776,-118.22541,10
+Bavel,$$$,4.5,2100.0,bcycle_lametro_4540,982,34.04776,-118.22541,10
+Boomtown Brewery,$$,0.0,0.0,bcycle_lametro_4540,776,34.04776,-118.22541,10
+Cafe Gratitude Arts District,$$,0.0,0.0,bcycle_lametro_4540,699,34.04776,-118.22541,10
+Cha Cha CHA,$$,0.0,0.0,bcycle_lametro_4540,967,34.04776,-118.22541,10
+Death & Co,$$,0.0,0.0,bcycle_lametro_4540,988,34.04776,-118.22541,10
+Manuela To Go,$$,0.0,0.0,bcycle_lametro_4540,868,34.04776,-118.22541,10
+Purgatory Pizza,$$,4.0,1047.0,bcycle_lametro_4540,44,34.04776,-118.22541,10
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4540,945,34.04776,-118.22541,10
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_4540,971,34.04776,-118.22541,10
+Arts District Brewing,$$,0.0,0.0,bcycle_lametro_3048,332,34.04169,-118.23535,4
+Bavel,$$$,4.5,2100.0,bcycle_lametro_3048,221,34.04169,-118.23535,4
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3048,383,34.04169,-118.23535,4
+Cha Cha CHA,$$,0.0,0.0,bcycle_lametro_3048,447,34.04169,-118.23535,4
+Girl & The Goat LA,$$,0.0,0.0,bcycle_lametro_3048,257,34.04169,-118.23535,4
+Resident,$$,0.0,0.0,bcycle_lametro_3048,106,34.04169,-118.23535,4
+Urth Caffé,$$,0.0,0.0,bcycle_lametro_3048,27,34.04169,-118.23535,4
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3048,246,34.04169,-118.23535,4
+Wurstküche,$$,4.0,8917.0,bcycle_lametro_3048,431,34.04169,-118.23535,4
+Zinc Café & Market,$$,0.0,0.0,bcycle_lametro_3048,355,34.04169,-118.23535,4
+Astro Pub,$$,3.5,73.0,bcycle_lametro_4255,569,33.97366,-118.42286,6
+Da Kikokiko,$$,0.0,0.0,bcycle_lametro_4255,553,33.97366,-118.42286,6
+Gulp,$$,4.0,267.0,bcycle_lametro_4255,128,33.97366,-118.42286,6
+Hopdoddy Burger Bar,$$,3.5,950.0,bcycle_lametro_4255,554,33.97366,-118.42286,6
+MRKT,$$,0.0,0.0,bcycle_lametro_4255,407,33.97366,-118.42286,6
+SOL Mexican Cocina,$$,4.0,2137.0,bcycle_lametro_4255,614,33.97366,-118.42286,6
+Starbucks,$$,0.0,0.0,bcycle_lametro_4255,562,33.97366,-118.42286,6
+Sweet Fish Sushi Bar,$$,3.0,405.0,bcycle_lametro_4255,85,33.97366,-118.42286,6
+The Coffee Bean and Tea Leaf,$$,0.0,0.0,bcycle_lametro_4255,82,33.97366,-118.42286,6
+Urban Plates,$$,4.0,941.0,bcycle_lametro_4255,630,33.97366,-118.42286,6
+Astro Pub,$$,3.5,73.0,bcycle_lametro_4583,76,33.97619,-118.41842,11
+Da Kikokiko,$$,0.0,0.0,bcycle_lametro_4583,61,33.97619,-118.41842,11
+Gulp,$$,4.0,267.0,bcycle_lametro_4583,616,33.97619,-118.41842,11
+Hopdoddy Burger Bar,$$,3.5,950.0,bcycle_lametro_4583,58,33.97619,-118.41842,11
+MRKT,$$,0.0,0.0,bcycle_lametro_4583,688,33.97619,-118.41842,11
+Panini Cafe,$$,0.0,0.0,bcycle_lametro_4583,179,33.97619,-118.41842,11
+SOL Mexican Cocina,$$,4.0,2137.0,bcycle_lametro_4583,145,33.97619,-118.41842,11
+Starbucks,$$,0.0,0.0,bcycle_lametro_4583,70,33.97619,-118.41842,11
+The Coffee Bean and Tea Leaf,$$,0.0,0.0,bcycle_lametro_4583,536,33.97619,-118.41842,11
+Urban Plates,$$,4.0,941.0,bcycle_lametro_4583,135,33.97619,-118.41842,11
+Astro Pub,$$,0.0,0.0,bcycle_lametro_4580,941,33.98292,-118.41093,5
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4580,418,33.98292,-118.41093,5
+Cafe Ruisseau,$$,0.0,0.0,bcycle_lametro_4580,510,33.98292,-118.41093,5
+Da Kikokiko,$$,0.0,0.0,bcycle_lametro_4580,967,33.98292,-118.41093,5
+Hash,$$,4.0,909.0,bcycle_lametro_4580,677,33.98292,-118.41093,5
+Hopdoddy Burger Bar,$$,3.5,950.0,bcycle_lametro_4580,964,33.98292,-118.41093,5
+SOL Mexican Cocina,$$,4.0,2137.0,bcycle_lametro_4580,938,33.98292,-118.41093,5
+Starbucks,$$,0.0,0.0,bcycle_lametro_4580,947,33.98292,-118.41093,5
+Tocaya Organica - Playa Vista,$$,0.0,0.0,bcycle_lametro_4580,551,33.98292,-118.41093,5
+YouTube Space LA,$$,0.0,0.0,bcycle_lametro_4580,766,33.98292,-118.41093,5
+Astro Pub,$$,0.0,0.0,bcycle_lametro_4582,549,33.98099,-118.41488,6
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4582,641,33.98099,-118.41488,6
+Cafe Ruisseau,$$,0.0,0.0,bcycle_lametro_4582,742,33.98099,-118.41488,6
+Da Kikokiko,$$,0.0,0.0,bcycle_lametro_4582,584,33.98099,-118.41488,6
+Hash,$$,4.0,909.0,bcycle_lametro_4582,898,33.98099,-118.41488,6
+Hopdoddy Burger Bar,$$,3.5,950.0,bcycle_lametro_4582,579,33.98099,-118.41488,6
+SOL Mexican Cocina,$$,4.0,2137.0,bcycle_lametro_4582,578,33.98099,-118.41488,6
+Starbucks,$$,0.0,0.0,bcycle_lametro_4582,554,33.98099,-118.41488,6
+Urban Plates,$$,4.0,941.0,bcycle_lametro_4582,494,33.98099,-118.41488,6
+YouTube Space LA,$$,0.0,0.0,bcycle_lametro_4582,863,33.98099,-118.41488,6
+Atrium,$$,0.0,0.0,bcycle_lametro_4451,43,34.10363,-118.29131,6
+Bar Covell,$$,0.0,0.0,bcycle_lametro_4451,416,34.10363,-118.29131,6
+Figaro Bistrot,$$,3.5,1402.0,bcycle_lametro_4451,48,34.10363,-118.29131,6
+HomeState,$$,4.5,1330.0,bcycle_lametro_4451,438,34.10363,-118.29131,6
+House of Pies,$$,3.5,1862.0,bcycle_lametro_4451,181,34.10363,-118.29131,6
+Kismet,$$,0.0,0.0,bcycle_lametro_4451,346,34.10363,-118.29131,6
+Maru Coffee,$$,0.0,0.0,bcycle_lametro_4451,485,34.10363,-118.29131,6
+Palermo Italian Restaurant,$$,4.0,1719.0,bcycle_lametro_4451,125,34.10363,-118.29131,6
+The Dresden Restaurant,$$,0.0,0.0,bcycle_lametro_4451,72,34.10363,-118.29131,6
+The Punchbowl,$$,0.0,0.0,bcycle_lametro_4451,6,34.10363,-118.29131,6
+Atticus Creamery & Pies,$$,0.0,0.0,bcycle_lametro_4564,666,34.03535,-118.43414,3
+Bigg Chill,$$,0.0,0.0,bcycle_lametro_4564,966,34.03535,-118.43414,3
+Chocolate Bash,$$,0.0,0.0,bcycle_lametro_4564,639,34.03535,-118.43414,3
+Coffee Tomo,$$,0.0,0.0,bcycle_lametro_4564,903,34.03535,-118.43414,3
+Gyu-Kaku BBQ,$$,0.0,0.0,bcycle_lametro_4564,585,34.03535,-118.43414,3
+Killer Noodle,$$,0.0,0.0,bcycle_lametro_4564,974,34.03535,-118.43414,3
+Primo's Donuts,$$,0.0,0.0,bcycle_lametro_4564,970,34.03535,-118.43414,3
+SomiSomi,$$,0.0,0.0,bcycle_lametro_4564,927,34.03535,-118.43414,3
+The Apple Pan,$$,3.5,3277.0,bcycle_lametro_4564,841,34.03535,-118.43414,3
+Tsujita LA Artisan Noodles,$$,0.0,0.0,bcycle_lametro_4564,908,34.03535,-118.43414,3
+Au L.Ac.,$$,0.0,0.0,bcycle_lametro_4486,916,34.06126,-118.2586,6
+Boba Guys,$$,0.0,0.0,bcycle_lametro_4486,724,34.06126,-118.2586,6
+Bunkerhill Market Deli & Liquor,$$,0.0,0.0,bcycle_lametro_4486,842,34.06126,-118.2586,6
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_4486,880,34.06126,-118.2586,6
+Clark Street - Echo Park,$$,0.0,0.0,bcycle_lametro_4486,571,34.06126,-118.2586,6
+Gra,$$,0.0,0.0,bcycle_lametro_4486,628,34.06126,-118.2586,6
+Gus's Drive In,$$,3.5,512.0,bcycle_lametro_4486,812,34.06126,-118.2586,6
+Laveta,$$,4.0,237.0,bcycle_lametro_4486,554,34.06126,-118.2586,6
+Leo's Tacos Truck,$,4.0,428.0,bcycle_lametro_4486,752,34.06126,-118.2586,6
+The Park's Finest,$$,4.0,2274.0,bcycle_lametro_4486,706,34.06126,-118.2586,6
+Au L.Ac.,$$,0.0,0.0,bcycle_lametro_3028,453,34.05832,-118.24609,9
+Badmaash,$$,0.0,0.0,bcycle_lametro_3028,787,34.05832,-118.24609,9
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3028,844,34.05832,-118.24609,9
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3028,318,34.05832,-118.24609,9
+Hop Li Seafood Restaurant,$$,0.0,0.0,bcycle_lametro_3028,734,34.05832,-118.24609,9
+Little Jewel of New Orleans,$$,4.0,1936.0,bcycle_lametro_3028,745,34.05832,-118.24609,9
+Mendocino Farms,$$,0.0,0.0,bcycle_lametro_3028,813,34.05832,-118.24609,9
+Otium,$$$,4.0,2288.0,bcycle_lametro_3028,648,34.05832,-118.24609,9
+Redbird,$$$,4.0,1770.0,bcycle_lametro_3028,870,34.05832,-118.24609,9
+The Original Philippe,$$,0.0,0.0,bcycle_lametro_3028,848,34.05832,-118.24609,9
+BCD Tofu House,$$,4.0,4826.0,bcycle_lametro_4587,599,34.06079,-118.30907,9
+Bumsan Organic Milk Bar,$$,0.0,0.0,bcycle_lametro_4587,389,34.06079,-118.30907,9
+Document Coffee Bar,$$,0.0,0.0,bcycle_lametro_4587,189,34.06079,-118.30907,9
+Eight Korean BBQ,$$$,4.5,1765.0,bcycle_lametro_4587,541,34.06079,-118.30907,9
+Hae Jang Chon Korean BBQ Restaurant,$$,0.0,0.0,bcycle_lametro_4587,441,34.06079,-118.30907,9
+Han Bat Sul Lung Tang,$$,4.5,2642.0,bcycle_lametro_4587,521,34.06079,-118.30907,9
+M Grill,$$$$,4.5,2431.0,bcycle_lametro_4587,149,34.06079,-118.30907,9
+Pollo A La Brasa,$$,0.0,0.0,bcycle_lametro_4587,325,34.06079,-118.30907,9
+Sun Nong Dan,$$,0.0,0.0,bcycle_lametro_4587,172,34.06079,-118.30907,9
+Ubatuba Acai,$$,0.0,0.0,bcycle_lametro_4587,347,34.06079,-118.30907,9
+BIBIBOP Asian Grill,$$,0.0,0.0,bcycle_lametro_4584,423,34.09435,-118.32636,9
+Good Times at Davey Wayne's,$$,0.0,0.0,bcycle_lametro_4584,686,34.09435,-118.32636,9
+Off Vine,$$,0.0,0.0,bcycle_lametro_4584,325,34.09435,-118.32636,9
+Philz Coffee,$$,0.0,0.0,bcycle_lametro_4584,503,34.09435,-118.32636,9
+Roscoe's Chicken And Waffles,$$,0.0,0.0,bcycle_lametro_4584,603,34.09435,-118.32636,9
+Sassafras Saloon,$$,0.0,0.0,bcycle_lametro_4584,89,34.09435,-118.32636,9
+Stout,$$,0.0,0.0,bcycle_lametro_4584,650,34.09435,-118.32636,9
+Superba Food + Bread - Hollywood,$$,0.0,0.0,bcycle_lametro_4584,694,34.09435,-118.32636,9
+The Waffle,$$,3.5,1911.0,bcycle_lametro_4584,419,34.09435,-118.32636,9
+Veggie Grill,$$,0.0,0.0,bcycle_lametro_4584,430,34.09435,-118.32636,9
+BIBIBOP Asian Grill,$$,0.0,0.0,bcycle_lametro_4627,479,34.10185,-118.32514,12
+Dunkin',$$,0.0,0.0,bcycle_lametro_4627,15,34.10185,-118.32514,12
+Good Times at Davey Wayne's,$$,3.5,1408.0,bcycle_lametro_4627,215,34.10185,-118.32514,12
+Hotel Cafe,$$,0.0,0.0,bcycle_lametro_4627,443,34.10185,-118.32514,12
+Kettle Glazed Doughnuts,$$,0.0,0.0,bcycle_lametro_4627,405,34.10185,-118.32514,12
+Lost Property,$$,0.0,0.0,bcycle_lametro_4627,149,34.10185,-118.32514,12
+Mojo Hookah Lounge,$$,0.0,0.0,bcycle_lametro_4627,399,34.10185,-118.32514,12
+Roscoe's Chicken And Waffles,$$,0.0,0.0,bcycle_lametro_4627,442,34.10185,-118.32514,12
+Shake Shack,$$,0.0,0.0,bcycle_lametro_4627,82,34.10185,-118.32514,12
+Stout,$$,0.0,0.0,bcycle_lametro_4627,463,34.10185,-118.32514,12
+BIBIBOP Asian Grill,$$,0.0,0.0,bcycle_lametro_4482,516,34.09437,-118.33101,8
+Fat Sal's Deli Hollywood,$$,0.0,0.0,bcycle_lametro_4482,656,34.09437,-118.33101,8
+Gwen,$$,0.0,0.0,bcycle_lametro_4482,456,34.09437,-118.33101,8
+Philz Coffee,$,4.5,366.0,bcycle_lametro_4482,390,34.09437,-118.33101,8
+Sassafras Saloon,$$,0.0,0.0,bcycle_lametro_4482,401,34.09437,-118.33101,8
+Stout,$$,0.0,0.0,bcycle_lametro_4482,602,34.09437,-118.33101,8
+Superba Food + Bread - Hollywood,$$,0.0,0.0,bcycle_lametro_4482,399,34.09437,-118.33101,8
+TAO Asian Bistro,$$$,4.0,1483.0,bcycle_lametro_4482,618,34.09437,-118.33101,8
+Tocaya Organica - Hollywood,$$,0.0,0.0,bcycle_lametro_4482,436,34.09437,-118.33101,8
+Veggie Grill,$$,0.0,0.0,bcycle_lametro_4482,450,34.09437,-118.33101,8
+BKK101 Thai Cuisine,$$,4.0,788.0,bcycle_lametro_4557,314,34.0118,-118.41944,6
+Copenhagen Pastry,$$,0.0,0.0,bcycle_lametro_4557,745,34.0118,-118.41944,6
+Cozy Inn,$$,0.0,0.0,bcycle_lametro_4557,639,34.0118,-118.41944,6
+Empanada's Place,$,4.5,862.0,bcycle_lametro_4557,73,34.0118,-118.41944,6
+Johnnie's Pastrami Restaurant,$$,3.5,2151.0,bcycle_lametro_4557,656,34.0118,-118.41944,6
+Maple Block Meat Co,$$,4.0,1699.0,bcycle_lametro_4557,527,34.0118,-118.41944,6
+Millcross Coffee,$$,0.0,0.0,bcycle_lametro_4557,797,34.0118,-118.41944,6
+Oldfield's Liquor Room,$$,0.0,0.0,bcycle_lametro_4557,858,34.0118,-118.41944,6
+Sara The Wine Bar,$$,4.5,517.0,bcycle_lametro_4557,442,34.0118,-118.41944,6
+Uzumaki,$$,4.5,644.0,bcycle_lametro_4557,770,34.0118,-118.41944,6
+BKK101 Thai Cuisine,$$,4.0,788.0,bcycle_lametro_4560,542,34.01737,-118.4206,6
+Baja California Tacos,$,4.0,552.0,bcycle_lametro_4560,971,34.01737,-118.4206,6
+Bigfoot Lodge West,$$,0.0,0.0,bcycle_lametro_4560,719,34.01737,-118.4206,6
+Empanada's Place,$,4.5,862.0,bcycle_lametro_4560,697,34.01737,-118.4206,6
+Fatburger,$$,0.0,0.0,bcycle_lametro_4560,610,34.01737,-118.4206,6
+Oldfield's Liquor Room,$$,0.0,0.0,bcycle_lametro_4560,818,34.01737,-118.4206,6
+Palms Ramen Yumeya,$$,4.0,488.0,bcycle_lametro_4560,280,34.01737,-118.4206,6
+Sara The Wine Bar,$$,4.5,517.0,bcycle_lametro_4560,936,34.01737,-118.4206,6
+Starbucks,$$,0.0,0.0,bcycle_lametro_4560,213,34.01737,-118.4206,6
+Tara's Himalayan Cuisine,$$,4.0,1206.0,bcycle_lametro_4560,925,34.01737,-118.4206,6
+BKK101 Thai Cuisine,$$,4.0,788.0,bcycle_lametro_4561,895,34.02006,-118.42268,4
+El Pollo Loco,$$,0.0,0.0,bcycle_lametro_4561,918,34.02006,-118.42268,4
+Fatburger,$$,0.0,0.0,bcycle_lametro_4561,946,34.02006,-118.42268,4
+Palms Ramen Yumeya,$$,4.0,488.0,bcycle_lametro_4561,100,34.02006,-118.42268,4
+Pizza Hut,$$,0.0,0.0,bcycle_lametro_4561,139,34.02006,-118.42268,4
+Starbucks,$$,0.0,0.0,bcycle_lametro_4561,154,34.02006,-118.42268,4
+The Coffee Bean and Tea Leaf,$$,0.0,0.0,bcycle_lametro_4561,84,34.02006,-118.42268,4
+BKK101 Thai Cuisine,$$,4.0,788.0,bcycle_lametro_4570,91,34.01376,-118.4178,6
+Bigfoot Lodge West,$$,0.0,0.0,bcycle_lametro_4570,477,34.01376,-118.4178,6
+Copenhagen Pastry,$$,0.0,0.0,bcycle_lametro_4570,731,34.01376,-118.4178,6
+Empanada's Place,$,4.5,862.0,bcycle_lametro_4570,332,34.01376,-118.4178,6
+Johnnie's Pastrami Restaurant,$$,3.5,2151.0,bcycle_lametro_4570,718,34.01376,-118.4178,6
+Maple Block Meat Co,$$,4.0,1699.0,bcycle_lametro_4570,579,34.01376,-118.4178,6
+Millcross Coffee,$$,0.0,0.0,bcycle_lametro_4570,755,34.01376,-118.4178,6
+Oldfield's Liquor Room,$$,0.0,0.0,bcycle_lametro_4570,616,34.01376,-118.4178,6
+Sara The Wine Bar,$$,4.5,517.0,bcycle_lametro_4570,460,34.01376,-118.4178,6
+Uzumaki,$$,4.5,644.0,bcycle_lametro_4570,741,34.01376,-118.4178,6
+Bacari PDR,$$,4.5,1749.0,bcycle_lametro_4543,305,33.95718,-118.45125,0
+Cafe Milan,$$,4.0,396.0,bcycle_lametro_4543,368,33.95718,-118.45125,0
+Caffe Pinguini,$$,0.0,0.0,bcycle_lametro_4543,166,33.95718,-118.45125,0
+Del Rey Deli Co,$$,0.0,0.0,bcycle_lametro_4543,811,33.95718,-118.45125,0
+Grain Whiskey Bar,$$,0.0,0.0,bcycle_lametro_4543,171,33.95718,-118.45125,0
+Hacienda Playa,$$,3.5,269.0,bcycle_lametro_4543,754,33.95718,-118.45125,0
+Harbor Room,$$,0.0,0.0,bcycle_lametro_4543,324,33.95718,-118.45125,0
+Playa Provisions,$$,4.0,1529.0,bcycle_lametro_4543,168,33.95718,-118.45125,0
+Señor G's,$$,0.0,0.0,bcycle_lametro_4543,578,33.95718,-118.45125,0
+The Shack,$,3.5,457.0,bcycle_lametro_4543,288,33.95718,-118.45125,0
+Bacari PDR,$$,4.5,1749.0,bcycle_lametro_4545,21,33.95879,-118.44828,3
+Cafe Milan,$$,4.0,396.0,bcycle_lametro_4545,78,33.95879,-118.44828,3
+Cantalinis Salerno Beach Restaurant,$$,0.0,0.0,bcycle_lametro_4545,39,33.95879,-118.44828,3
+Grain Whiskey Bar,$$,0.0,0.0,bcycle_lametro_4545,155,33.95879,-118.44828,3
+Hacienda Playa,$$,3.5,269.0,bcycle_lametro_4545,523,33.95879,-118.44828,3
+Harbor Room,$$,0.0,0.0,bcycle_lametro_4545,39,33.95879,-118.44828,3
+Playa Provisions,$$,4.0,1529.0,bcycle_lametro_4545,158,33.95879,-118.44828,3
+Prince O' Whales,$$,0.0,0.0,bcycle_lametro_4545,226,33.95879,-118.44828,3
+Señor G's,$$,0.0,0.0,bcycle_lametro_4545,257,33.95879,-118.44828,3
+The Shack,$,3.5,457.0,bcycle_lametro_4545,46,33.95879,-118.44828,3
+Badmaash,$$,0.0,0.0,bcycle_lametro_3016,326,34.0529,-118.24156,7
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3016,629,34.0529,-118.24156,7
+Daikokuya,$$,0.0,0.0,bcycle_lametro_3016,358,34.0529,-118.24156,7
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3016,791,34.0529,-118.24156,7
+Far Bar,$$,0.0,0.0,bcycle_lametro_3016,404,34.0529,-118.24156,7
+Fugetsu-Do,$$,0.0,0.0,bcycle_lametro_3016,316,34.0529,-118.24156,7
+Marugame Monzo,$$,4.5,4415.0,bcycle_lametro_3016,365,34.0529,-118.24156,7
+Redbird,$$$,4.0,1770.0,bcycle_lametro_3016,339,34.0529,-118.24156,7
+Shin-Sen-Gumi,$$,0.0,0.0,bcycle_lametro_3016,568,34.0529,-118.24156,7
+Wolf & Crane,$$,0.0,0.0,bcycle_lametro_3016,578,34.0529,-118.24156,7
+Badmaash,$$,0.0,0.0,bcycle_lametro_3046,317,34.05287,-118.24749,10
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_3046,367,34.05287,-118.24749,10
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3046,225,34.05287,-118.24749,10
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3046,436,34.05287,-118.24749,10
+KazuNori,$$,0.0,0.0,bcycle_lametro_3046,572,34.05287,-118.24749,10
+Maccheroni Republic,$$,4.5,3680.0,bcycle_lametro_3046,334,34.05287,-118.24749,10
+Otium,$$$,4.0,2288.0,bcycle_lametro_3046,378,34.05287,-118.24749,10
+Perch,$$$,4.0,9651.0,bcycle_lametro_3046,569,34.05287,-118.24749,10
+Redbird,$$$,4.0,1770.0,bcycle_lametro_3046,399,34.05287,-118.24749,10
+The Slipper Clutch,$$,0.0,0.0,bcycle_lametro_3046,367,34.05287,-118.24749,10
+Bagel Factory,$$,0.0,0.0,bcycle_lametro_4562,56,34.02697,-118.42821,10
+Baja Bud's,$,4.0,328.0,bcycle_lametro_4562,114,34.02697,-118.42821,10
+Boba Time,$$,0.0,0.0,bcycle_lametro_4562,120,34.02697,-118.42821,10
+El Pollo Loco,$,3.0,148.0,bcycle_lametro_4562,50,34.02697,-118.42821,10
+Galbi King,$$,3.5,705.0,bcycle_lametro_4562,263,34.02697,-118.42821,10
+Hiko Sushi,$$$,4.0,408.0,bcycle_lametro_4562,282,34.02697,-118.42821,10
+Primo's Donuts,$$,0.0,0.0,bcycle_lametro_4562,318,34.02697,-118.42821,10
+Starbucks,$$,0.0,0.0,bcycle_lametro_4562,55,34.02697,-118.42821,10
+Subway,$$,0.0,0.0,bcycle_lametro_4562,143,34.02697,-118.42821,10
+Baja Bud's,$,4.0,328.0,bcycle_lametro_4573,834,34.03047,-118.42098,3
+Burrata House,$$,4.5,571.0,bcycle_lametro_4573,937,34.03047,-118.42098,3
+C&M Cafe,$$,4.0,576.0,bcycle_lametro_4573,943,34.03047,-118.42098,3
+Niko Niko Sushi,$$,4.0,297.0,bcycle_lametro_4573,48,34.03047,-118.42098,3
+Phorage,$$,3.5,1010.0,bcycle_lametro_4573,769,34.03047,-118.42098,3
+Simpang Asia,$$,4.0,1995.0,bcycle_lametro_4573,866,34.03047,-118.42098,3
+The Doughroom,$$,4.0,803.0,bcycle_lametro_4573,937,34.03047,-118.42098,3
+The Irish Times Pub & Restaurant,$$,0.0,0.0,bcycle_lametro_4573,904,34.03047,-118.42098,3
+The Vegan Joint,$$,4.0,936.0,bcycle_lametro_4573,888,34.03047,-118.42098,3
+Tikifish,$$,0.0,0.0,bcycle_lametro_4573,767,34.03047,-118.42098,3
+Baja California Tacos,$,4.0,552.0,bcycle_lametro_4563,48,34.01745,-118.40957,5
+Bigfoot Lodge West,$$,0.0,0.0,bcycle_lametro_4563,386,34.01745,-118.40957,5
+C&M Cafe,$$,0.0,0.0,bcycle_lametro_4563,977,34.01745,-118.40957,5
+Copenhagen Pastry,$$,0.0,0.0,bcycle_lametro_4563,925,34.01745,-118.40957,5
+Millcross Coffee,$$,0.0,0.0,bcycle_lametro_4563,859,34.01745,-118.40957,5
+N/Naka,$$,0.0,0.0,bcycle_lametro_4563,890,34.01745,-118.40957,5
+Oldfield's Liquor Room,$$,0.0,0.0,bcycle_lametro_4563,246,34.01745,-118.40957,5
+Pampas Grill,$$,4.0,746.0,bcycle_lametro_4563,288,34.01745,-118.40957,5
+Robeks Fresh Juices & Smoothies,$$,0.0,0.0,bcycle_lametro_4563,319,34.01745,-118.40957,5
+Versailles Cuban Restaurant,$$,0.0,0.0,bcycle_lametro_4563,686,34.01745,-118.40957,5
+Banditos Tacos & Tequila,$$,0.0,0.0,bcycle_lametro_4454,800,34.0179,-118.29172,7
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_4454,853,34.0179,-118.29172,7
+Chipotle Mexican Grill,$,2.5,408.0,bcycle_lametro_4454,848,34.0179,-118.29172,7
+Kobunga,$$,0.0,0.0,bcycle_lametro_4454,958,34.0179,-118.29172,7
+Little Caesars Pizza,$$,0.0,0.0,bcycle_lametro_4454,702,34.0179,-118.29172,7
+McKay's,$$,0.0,0.0,bcycle_lametro_4454,987,34.0179,-118.29172,7
+Seeds Marketplace,$$,3.5,91.0,bcycle_lametro_4454,604,34.0179,-118.29172,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_4454,917,34.0179,-118.29172,7
+Taco Bell,$$,0.0,0.0,bcycle_lametro_4454,496,34.0179,-118.29172,7
+USC University Club,$$,0.0,0.0,bcycle_lametro_4454,931,34.0179,-118.29172,7
+Bar Bandini,$$,0.0,0.0,bcycle_lametro_4510,82,34.07735,-118.26455,5
+El Prado,$$,0.0,0.0,bcycle_lametro_4510,456,34.07735,-118.26455,5
+Larchmont Bungalow Cafe,$$,4.0,599.0,bcycle_lametro_4510,56,34.07735,-118.26455,5
+Masa of Echo Park Bakery & Cafe,$$,0.0,0.0,bcycle_lametro_4510,465,34.07735,-118.26455,5
+Mohawk Bend,$$,4.0,2534.0,bcycle_lametro_4510,40,34.07735,-118.26455,5
+Sage Organic Vegan Bistro,$$,0.0,0.0,bcycle_lametro_4510,556,34.07735,-118.26455,5
+Starbucks Reserve,$$,0.0,0.0,bcycle_lametro_4510,36,34.07735,-118.26455,5
+Taco Zone Truck,$$,0.0,0.0,bcycle_lametro_4510,374,34.07735,-118.26455,5
+Taix French Restaurant,$$$,4.0,893.0,bcycle_lametro_4510,286,34.07735,-118.26455,5
+The Semi-Tropic,$$,4.5,491.0,bcycle_lametro_4510,520,34.07735,-118.26455,5
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_3030,577,34.05194,-118.24353,8
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3030,423,34.05194,-118.24353,8
+Daikokuya,$$,0.0,0.0,bcycle_lametro_3030,388,34.05194,-118.24353,8
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3030,717,34.05194,-118.24353,8
+Fugetsu-Do,$$,0.0,0.0,bcycle_lametro_3030,341,34.05194,-118.24353,8
+KazuNori,$$,0.0,0.0,bcycle_lametro_3030,592,34.05194,-118.24353,8
+Maccheroni Republic,$$,4.5,3680.0,bcycle_lametro_3030,517,34.05194,-118.24353,8
+Marugame Monzo,$$,4.5,4415.0,bcycle_lametro_3030,387,34.05194,-118.24353,8
+Shin-Sen-Gumi,$$,0.0,0.0,bcycle_lametro_3030,579,34.05194,-118.24353,8
+Wolf & Crane,$$,0.0,0.0,bcycle_lametro_3030,570,34.05194,-118.24353,8
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_3027,197,34.04998,-118.24716,9
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3027,123,34.04998,-118.24716,9
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_3027,498,34.04998,-118.24716,9
+KazuNori,$$,0.0,0.0,bcycle_lametro_3027,253,34.04998,-118.24716,9
+Mezcalero,$$,0.0,0.0,bcycle_lametro_3027,419,34.04998,-118.24716,9
+Nickel Diner,$$,4.0,2533.0,bcycle_lametro_3027,467,34.04998,-118.24716,9
+Perch,$$$,4.0,9651.0,bcycle_lametro_3027,410,34.04998,-118.24716,9
+Precinct,$$,0.0,0.0,bcycle_lametro_3027,225,34.04998,-118.24716,9
+The Slipper Clutch,$$,0.0,0.0,bcycle_lametro_3027,203,34.04998,-118.24716,9
+The Wolves,$$,0.0,0.0,bcycle_lametro_3027,417,34.04998,-118.24716,9
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_3069,144,34.05088,-118.24825,11
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3069,27,34.05088,-118.24825,11
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3069,641,34.05088,-118.24825,11
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_3069,531,34.05088,-118.24825,11
+KazuNori,$$,0.0,0.0,bcycle_lametro_3069,359,34.05088,-118.24825,11
+La Cita Bar,$$,0.0,0.0,bcycle_lametro_3069,137,34.05088,-118.24825,11
+Maccheroni Republic,$$,4.5,3680.0,bcycle_lametro_3069,102,34.05088,-118.24825,11
+Perch,$$$,4.0,9651.0,bcycle_lametro_3069,364,34.05088,-118.24825,11
+Precinct,$$,0.0,0.0,bcycle_lametro_3069,177,34.05088,-118.24825,11
+The Slipper Clutch,$$,0.0,0.0,bcycle_lametro_3069,145,34.05088,-118.24825,11
+Bar Clacson,$$,0.0,0.0,bcycle_lametro_4491,302,34.04744,-118.24794,4
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4491,382,34.04744,-118.24794,4
+Cole's French Dip,$$,0.0,0.0,bcycle_lametro_4491,319,34.04744,-118.24794,4
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_4491,265,34.04744,-118.24794,4
+KazuNori,$$,0.0,0.0,bcycle_lametro_4491,54,34.04744,-118.24794,4
+Mezcalero,$$,0.0,0.0,bcycle_lametro_4491,277,34.04744,-118.24794,4
+Nickel Diner,$$,4.0,2533.0,bcycle_lametro_4491,182,34.04744,-118.24794,4
+Perch,$$$,4.0,9651.0,bcycle_lametro_4491,360,34.04744,-118.24794,4
+The Varnish,$$,0.0,0.0,bcycle_lametro_4491,322,34.04744,-118.24794,4
+The Wolves,$$,0.0,0.0,bcycle_lametro_4491,193,34.04744,-118.24794,4
+Bar Covell,$$,0.0,0.0,bcycle_lametro_4303,360,34.09801,-118.28707,6
+Boo’s Philly Cheesesteaks - Silverlake,$$,0.0,0.0,bcycle_lametro_4303,240,34.09801,-118.28707,6
+Dinosaur Coffee,$$,0.0,0.0,bcycle_lametro_4303,420,34.09801,-118.28707,6
+HomeState,$$,4.5,1330.0,bcycle_lametro_4303,350,34.09801,-118.28707,6
+Jay's Bar,$$,0.0,0.0,bcycle_lametro_4303,475,34.09801,-118.28707,6
+Kismet,$$,0.0,0.0,bcycle_lametro_4303,468,34.09801,-118.28707,6
+Spitz: Home of the Doner Kabab,$$,0.0,0.0,bcycle_lametro_4303,505,34.09801,-118.28707,6
+The Kitchen,$$,4.0,1529.0,bcycle_lametro_4303,343,34.09801,-118.28707,6
+Tiki Ti,$$,0.0,0.0,bcycle_lametro_4303,131,34.09801,-118.28707,6
+Wat Dong Moon Lek Noodle,$$,4.0,1104.0,bcycle_lametro_4303,346,34.09801,-118.28707,6
+Bar Covell,$$,0.0,0.0,bcycle_lametro_4457,28,34.10011,-118.28986,3
+Boo’s Philly Cheesesteaks - Silverlake,$$,0.0,0.0,bcycle_lametro_4457,537,34.10011,-118.28986,3
+Home,$$,0.0,0.0,bcycle_lametro_4457,393,34.10011,-118.28986,3
+HomeState,$$,4.5,1330.0,bcycle_lametro_4457,47,34.10011,-118.28986,3
+Kismet,$$,0.0,0.0,bcycle_lametro_4457,128,34.10011,-118.28986,3
+Maru Coffee,$$,0.0,0.0,bcycle_lametro_4457,751,34.10011,-118.28986,3
+Spitz: Home of the Doner Kabab,$$,0.0,0.0,bcycle_lametro_4457,345,34.10011,-118.28986,3
+The Dresden Restaurant,$$,0.0,0.0,bcycle_lametro_4457,364,34.10011,-118.28986,3
+The Punchbowl,$$,0.0,0.0,bcycle_lametro_4457,417,34.10011,-118.28986,3
+Tiki Ti,$$,0.0,0.0,bcycle_lametro_4457,475,34.10011,-118.28986,3
+Bar Covell,$$,0.0,0.0,bcycle_lametro_4301,163,34.09905,-118.2915,6
+Boo’s Philly Cheesesteaks - Silverlake,$$,0.0,0.0,bcycle_lametro_4301,539,34.09905,-118.2915,6
+Found Oyster,$$,0.0,0.0,bcycle_lametro_4301,580,34.09905,-118.2915,6
+HomeState,$$,4.5,1330.0,bcycle_lametro_4301,144,34.09905,-118.2915,6
+Kismet,$$,0.0,0.0,bcycle_lametro_4301,165,34.09905,-118.2915,6
+Saffy's,$$,0.0,0.0,bcycle_lametro_4301,517,34.09905,-118.2915,6
+Spitz: Home of the Doner Kabab,$$,0.0,0.0,bcycle_lametro_4301,533,34.09905,-118.2915,6
+The Dresden Restaurant,$$,0.0,0.0,bcycle_lametro_4301,443,34.09905,-118.2915,6
+The Punchbowl,$$,0.0,0.0,bcycle_lametro_4301,515,34.09905,-118.2915,6
+Tiki Ti,$$,0.0,0.0,bcycle_lametro_4301,552,34.09905,-118.2915,6
+Bar Flores,$$,0.0,0.0,bcycle_lametro_4220,254,34.07483,-118.25873,6
+El Prado,$$,0.0,0.0,bcycle_lametro_4220,335,34.07483,-118.25873,6
+Hey Hey,$$,0.0,0.0,bcycle_lametro_4220,274,34.07483,-118.25873,6
+Honey Hi,$$,4.5,322.0,bcycle_lametro_4220,243,34.07483,-118.25873,6
+Lowboy,$$,0.0,0.0,bcycle_lametro_4220,243,34.07483,-118.25873,6
+Masa of Echo Park Bakery & Cafe,$$,0.0,0.0,bcycle_lametro_4220,320,34.07483,-118.25873,6
+Ostrich Farm,$$,0.0,0.0,bcycle_lametro_4220,304,34.07483,-118.25873,6
+Sage Organic Vegan Bistro,$$,0.0,0.0,bcycle_lametro_4220,258,34.07483,-118.25873,6
+The Echo,$$,0.0,0.0,bcycle_lametro_4220,343,34.07483,-118.25873,6
+Woodcat Coffee Bar,$$,0.0,0.0,bcycle_lametro_4220,270,34.07483,-118.25873,6
+Bar Flores,$$,0.0,0.0,bcycle_lametro_4494,52,34.07598,-118.25601,8
+El Prado,$$,0.0,0.0,bcycle_lametro_4494,386,34.07598,-118.25601,8
+Hey Hey,$$,0.0,0.0,bcycle_lametro_4494,94,34.07598,-118.25601,8
+Lowboy,$$,4.0,289.0,bcycle_lametro_4494,69,34.07598,-118.25601,8
+Masa of Echo Park Bakery & Cafe,$$,0.0,0.0,bcycle_lametro_4494,371,34.07598,-118.25601,8
+Sage Organic Vegan Bistro,$$,0.0,0.0,bcycle_lametro_4494,264,34.07598,-118.25601,8
+Taco Zone Truck,$$,0.0,0.0,bcycle_lametro_4494,683,34.07598,-118.25601,8
+The Semi-Tropic,$$,4.5,491.0,bcycle_lametro_4494,572,34.07598,-118.25601,8
+The Short Stop,$$,0.0,0.0,bcycle_lametro_4494,225,34.07598,-118.25601,8
+Woodcat Coffee Bar,$$,0.0,0.0,bcycle_lametro_4494,39,34.07598,-118.25601,8
+Bar Flores,$$,0.0,0.0,bcycle_lametro_4445,537,34.07364,-118.25157,11
+Eightfold Coffee,$$,0.0,0.0,bcycle_lametro_4445,277,34.07364,-118.25157,11
+Guisados,$$,4.5,2360.0,bcycle_lametro_4445,389,34.07364,-118.25157,11
+Hey Hey,$$,0.0,0.0,bcycle_lametro_4445,575,34.07364,-118.25157,11
+Hot Dog Lady,$,4.5,65.0,bcycle_lametro_4445,299,34.07364,-118.25157,11
+Lowboy,$$,0.0,0.0,bcycle_lametro_4445,553,34.07364,-118.25157,11
+Ototo,$$,0.0,0.0,bcycle_lametro_4445,110,34.07364,-118.25157,11
+Sage Organic Vegan Bistro,$$,0.0,0.0,bcycle_lametro_4445,748,34.07364,-118.25157,11
+The Short Stop,$$,0.0,0.0,bcycle_lametro_4445,268,34.07364,-118.25157,11
+Woodcat Coffee Bar,$$,0.0,0.0,bcycle_lametro_4445,522,34.07364,-118.25157,11
+Barbrix,$$,0.0,0.0,bcycle_lametro_4478,65,34.10424,-118.2737,6
+Blair's Restaurant,$$,4.0,580.0,bcycle_lametro_4478,694,34.10424,-118.2737,6
+Hyperion Public,$$,4.0,908.0,bcycle_lametro_4478,156,34.10424,-118.2737,6
+Magpies Softserve,$$,0.0,0.0,bcycle_lametro_4478,334,34.10424,-118.2737,6
+Say Cheese,$$,4.5,340.0,bcycle_lametro_4478,470,34.10424,-118.2737,6
+Speranza,$$,4.0,639.0,bcycle_lametro_4478,161,34.10424,-118.2737,6
+Tenants of the Trees,$$,0.0,0.0,bcycle_lametro_4478,499,34.10424,-118.2737,6
+The Fix Burger,$$,4.5,815.0,bcycle_lametro_4478,89,34.10424,-118.2737,6
+The Friend,$$,0.0,0.0,bcycle_lametro_4478,221,34.10424,-118.2737,6
+Tomato Pie Pizza Joint,$$,4.0,1170.0,bcycle_lametro_4478,17,34.10424,-118.2737,6
+Barbrix,$$,0.0,0.0,bcycle_lametro_4455,590,34.10936,-118.27181,6
+Blair's Restaurant,$$,4.0,580.0,bcycle_lametro_4455,355,34.10936,-118.27181,6
+Magpies Softserve,$$,0.0,0.0,bcycle_lametro_4455,276,34.10936,-118.27181,6
+Mixto Comida Latina,$$,4.0,755.0,bcycle_lametro_4455,61,34.10936,-118.27181,6
+Pinkberry,$$,0.0,0.0,bcycle_lametro_4455,48,34.10936,-118.27181,6
+Say Cheese,$$,4.5,340.0,bcycle_lametro_4455,136,34.10936,-118.27181,6
+Speranza,$$,4.0,639.0,bcycle_lametro_4455,435,34.10936,-118.27181,6
+Square One Silver Lake,$$,0.0,0.0,bcycle_lametro_4455,352,34.10936,-118.27181,6
+Tenants of the Trees,$$,0.0,0.0,bcycle_lametro_4455,114,34.10936,-118.27181,6
+The Friend,$$,0.0,0.0,bcycle_lametro_4455,375,34.10936,-118.27181,6
+Barrique,$$$,4.5,689.0,bcycle_lametro_4214,682,33.99556,-118.48155,3
+Cafe Gratitude,$$,4.0,1647.0,bcycle_lametro_4214,769,33.99556,-118.48155,3
+Espresso Cielo,$$,0.0,0.0,bcycle_lametro_4214,327,33.99556,-118.48155,3
+Gjusta,$$,3.5,1973.0,bcycle_lametro_4214,656,33.99556,-118.48155,3
+Sunny Blue,$,4.5,1444.0,bcycle_lametro_4214,532,33.99556,-118.48155,3
+The Library Alehouse,$$,4.0,1371.0,bcycle_lametro_4214,425,33.99556,-118.48155,3
+The Rose Cafe & Market,$$,0.0,0.0,bcycle_lametro_4214,419,33.99556,-118.48155,3
+The Waterfront Venice,$$,4.0,541.0,bcycle_lametro_4214,97,33.99556,-118.48155,3
+The Win-Dow at American Beauty,$,4.5,530.0,bcycle_lametro_4214,733,33.99556,-118.48155,3
+Venice Ale House,$$,3.5,1033.0,bcycle_lametro_4214,146,33.99556,-118.48155,3
+Barrique,$$$,4.5,689.0,bcycle_lametro_4209,424,33.99624,-118.47745,9
+Cafe Gratitude,$$,4.0,1647.0,bcycle_lametro_4209,396,33.99624,-118.47745,9
+Flake,$$,4.5,1249.0,bcycle_lametro_4209,416,33.99624,-118.47745,9
+Gjusta,$$,3.5,1973.0,bcycle_lametro_4209,304,33.99624,-118.47745,9
+Jeni's Splendid Ice Creams,$$,0.0,0.0,bcycle_lametro_4209,477,33.99624,-118.47745,9
+La Fiesta Brava,$$,4.5,521.0,bcycle_lametro_4209,48,33.99624,-118.47745,9
+The Rose Cafe & Market,$$,0.0,0.0,bcycle_lametro_4209,34,33.99624,-118.47745,9
+The Waterfront Venice,$$,0.0,0.0,bcycle_lametro_4209,329,33.99624,-118.47745,9
+The Win-Dow at American Beauty,$,4.5,530.0,bcycle_lametro_4209,362,33.99624,-118.47745,9
+Venice Beach Wines,$$,0.0,0.0,bcycle_lametro_4209,475,33.99624,-118.47745,9
+Baskin-Robbins,$$,0.0,0.0,bcycle_lametro_4247,71,34.03364,-118.29131,4
+Ebaes,$$,4.0,939.0,bcycle_lametro_4247,697,34.03364,-118.29131,4
+Everytable,$,4.5,330.0,bcycle_lametro_4247,736,34.03364,-118.29131,4
+Gabriella's Pizza,$$,0.0,0.0,bcycle_lametro_4247,945,34.03364,-118.29131,4
+Jack In The Box,$$,0.0,0.0,bcycle_lametro_4247,56,34.03364,-118.29131,4
+Manas Indian Cuisine,$$,3.5,572.0,bcycle_lametro_4247,535,34.03364,-118.29131,4
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4247,696,34.03364,-118.29131,4
+Study Hall,$$,0.0,0.0,bcycle_lametro_4247,857,34.03364,-118.29131,4
+Tacos El Unico,$$,0.0,0.0,bcycle_lametro_4247,71,34.03364,-118.29131,4
+With Love Cmac,$$,0.0,0.0,bcycle_lametro_4247,546,34.03364,-118.29131,4
+Bavel,$$$,4.5,2100.0,bcycle_lametro_3054,412,34.03922,-118.23649,6
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_3054,359,34.03922,-118.23649,6
+Everson Rocye Bar,$$,0.0,0.0,bcycle_lametro_3054,640,34.03922,-118.23649,6
+Girl & The Goat LA,$$,0.0,0.0,bcycle_lametro_3054,318,34.03922,-118.23649,6
+Officine Brera,$$,0.0,0.0,bcycle_lametro_3054,182,34.03922,-118.23649,6
+Resident,$$,0.0,0.0,bcycle_lametro_3054,399,34.03922,-118.23649,6
+The Factory Kitchen,$$$,4.0,1500.0,bcycle_lametro_3054,37,34.03922,-118.23649,6
+Urth Caffé,$$,0.0,0.0,bcycle_lametro_3054,321,34.03922,-118.23649,6
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3054,427,34.03922,-118.23649,6
+Zinc Café & Market,$$,0.0,0.0,bcycle_lametro_3054,356,34.03922,-118.23649,6
+Bay Cities,$$,0.0,0.0,bcycle_lametro_4215,433,34.01431,-118.49134,13
+Go Greek Yogurt,$$,0.0,0.0,bcycle_lametro_4215,545,34.01431,-118.49134,13
+Harvelles Blues Club,$$,0.0,0.0,bcycle_lametro_4215,324,34.01431,-118.49134,13
+Mercado,$$,0.0,0.0,bcycle_lametro_4215,371,34.01431,-118.49134,13
+Philz Coffee,$,4.5,1845.0,bcycle_lametro_4215,453,34.01431,-118.49134,13
+SUGARFISH | Santa Monica,$$,0.0,0.0,bcycle_lametro_4215,565,34.01431,-118.49134,13
+Tar & Roses,$$$,4.5,2520.0,bcycle_lametro_4215,441,34.01431,-118.49134,13
+The Cheesecake Factory,$$,0.0,0.0,bcycle_lametro_4215,266,34.01431,-118.49134,13
+The Misfit Bar & Restaurant,$$,0.0,0.0,bcycle_lametro_4215,498,34.01431,-118.49134,13
+True Food Kitchen,$$,4.0,2641.0,bcycle_lametro_4215,324,34.01431,-118.49134,13
+Bea Bea's,$$,4.0,4256.0,bcycle_lametro_4605,571,34.152,-118.3506,8
+Bob's Big Boy,$$,0.0,0.0,bcycle_lametro_4605,416,34.152,-118.3506,8
+Forman's Tavern,$$,0.0,0.0,bcycle_lametro_4605,164,34.152,-118.3506,8
+Hungry Crowd,$$,5.0,688.0,bcycle_lametro_4605,142,34.152,-118.3506,8
+Kreation Organic Juicery,$$,0.0,0.0,bcycle_lametro_4605,81,34.152,-118.3506,8
+Lemonade,$$,4.0,526.0,bcycle_lametro_4605,265,34.152,-118.3506,8
+Sushi Yuzu,$$$,4.0,1326.0,bcycle_lametro_4605,74,34.152,-118.3506,8
+SweetSalt Food Shop,$$,0.0,0.0,bcycle_lametro_4605,271,34.152,-118.3506,8
+The Coffee Bean and Tea Leaf,$$,0.0,0.0,bcycle_lametro_4605,89,34.152,-118.3506,8
+The Counter Custom Burgers,$$,0.0,0.0,bcycle_lametro_4605,104,34.152,-118.3506,8
+Belles Beach House,$$,4.5,640.0,bcycle_lametro_4211,367,33.98493,-118.46996,4
+Eggslut,$$,4.0,971.0,bcycle_lametro_4211,337,33.98493,-118.46996,4
+Great White,$$,4.0,1004.0,bcycle_lametro_4211,354,33.98493,-118.46996,4
+Intelligentsia Coffee,$$,0.0,0.0,bcycle_lametro_4211,742,33.98493,-118.46996,4
+James' Beach,$$,0.0,0.0,bcycle_lametro_4211,29,33.98493,-118.46996,4
+Menotti's Coffee Stop,$$,0.0,0.0,bcycle_lametro_4211,356,33.98493,-118.46996,4
+Ospi,$$$,4.5,664.0,bcycle_lametro_4211,26,33.98493,-118.46996,4
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4211,743,33.98493,-118.46996,4
+Teddy's Red Tacos,$$,0.0,0.0,bcycle_lametro_4211,360,33.98493,-118.46996,4
+Tocaya Organica,$$,0.0,0.0,bcycle_lametro_4211,246,33.98493,-118.46996,4
+Belles Beach House,$$,4.5,640.0,bcycle_lametro_4212,183,33.98813,-118.47174,6
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4212,437,33.98813,-118.47174,6
+Eggslut,$$,4.0,971.0,bcycle_lametro_4212,86,33.98813,-118.47174,6
+Felix,$$,0.0,0.0,bcycle_lametro_4212,453,33.98813,-118.47174,6
+Great White,$$,4.0,1004.0,bcycle_lametro_4212,59,33.98813,-118.47174,6
+Menotti's Coffee Stop,$$,0.0,0.0,bcycle_lametro_4212,124,33.98813,-118.47174,6
+Ospi,$$$,4.5,664.0,bcycle_lametro_4212,372,33.98813,-118.47174,6
+Teddy's Red Tacos,$$,0.0,0.0,bcycle_lametro_4212,128,33.98813,-118.47174,6
+The Butcher's Daughter,$$,4.0,1847.0,bcycle_lametro_4212,450,33.98813,-118.47174,6
+Tocaya Organica,$$,0.0,0.0,bcycle_lametro_4212,165,33.98813,-118.47174,6
+Belles Beach House,$$,4.5,640.0,bcycle_lametro_4210,323,33.98434,-118.47155,8
+Eggslut,$$,4.0,971.0,bcycle_lametro_4210,344,33.98434,-118.47155,8
+Great White,$$,4.0,1004.0,bcycle_lametro_4210,368,33.98434,-118.47155,8
+Hinano Cafe,$$,0.0,0.0,bcycle_lametro_4210,710,33.98434,-118.47155,8
+James' Beach,$$,0.0,0.0,bcycle_lametro_4210,131,33.98434,-118.47155,8
+Menotti's Coffee Stop,$$,0.0,0.0,bcycle_lametro_4210,340,33.98434,-118.47155,8
+Ospi,$$$,4.5,664.0,bcycle_lametro_4210,143,33.98434,-118.47155,8
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4210,877,33.98434,-118.47155,8
+Teddy's Red Tacos,$$,0.0,0.0,bcycle_lametro_4210,341,33.98434,-118.47155,8
+Tocaya Organica,$$,0.0,0.0,bcycle_lametro_4210,255,33.98434,-118.47155,8
+Bhan Kanom Thai,$,4.0,767.0,bcycle_lametro_4509,308,34.10164,-118.30917,7
+Friends & Family,$$,0.0,0.0,bcycle_lametro_4509,624,34.10164,-118.30917,7
+Harvard and Stone,$$,0.0,0.0,bcycle_lametro_4509,439,34.10164,-118.30917,7
+Hollywood Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4509,392,34.10164,-118.30917,7
+Jitlada Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4509,579,34.10164,-118.30917,7
+Leo's Taco Truck,$$,0.0,0.0,bcycle_lametro_4509,380,34.10164,-118.30917,7
+Pa Ord Noodle #3,$$,0.0,0.0,bcycle_lametro_4509,312,34.10164,-118.30917,7
+Ruen Pair Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4509,331,34.10164,-118.30917,7
+Sanamluang Café,$$,0.0,0.0,bcycle_lametro_4509,562,34.10164,-118.30917,7
+Thai Patio,$$,3.5,1486.0,bcycle_lametro_4509,304,34.10164,-118.30917,7
+Bianca Restaurant,$$,0.0,0.0,bcycle_lametro_4548,483,34.02683,-118.39352,3
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4548,542,34.02683,-118.39352,3
+Cava,$$,0.0,0.0,bcycle_lametro_4548,195,34.02683,-118.39352,3
+Cerveteca Taco & Torta Joint,$$,0.0,0.0,bcycle_lametro_4548,251,34.02683,-118.39352,3
+In-N-Out Burger,$$,0.0,0.0,bcycle_lametro_4548,71,34.02683,-118.39352,3
+K-ZO Restaurant,$$,0.0,0.0,bcycle_lametro_4548,157,34.02683,-118.39352,3
+MOD Pizza,$$,4.0,392.0,bcycle_lametro_4548,102,34.02683,-118.39352,3
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4548,274,34.02683,-118.39352,3
+Seventy7 Lounge,$$,0.0,0.0,bcycle_lametro_4548,297,34.02683,-118.39352,3
+Tender Greens,$$,4.0,2211.0,bcycle_lametro_4548,422,34.02683,-118.39352,3
+Bigfoot Lodge West,$$,0.0,0.0,bcycle_lametro_4559,779,34.02199,-118.4165,5
+C&M Cafe,$$,4.0,576.0,bcycle_lametro_4559,584,34.02199,-118.4165,5
+Coffee Commissary,$$,0.0,0.0,bcycle_lametro_4559,887,34.02199,-118.4165,5
+Lobster & Beer,$$,4.0,1120.0,bcycle_lametro_4559,902,34.02199,-118.4165,5
+Mr. Sate,$$,4.5,327.0,bcycle_lametro_4559,901,34.02199,-118.4165,5
+N/Naka,$$,0.0,0.0,bcycle_lametro_4559,530,34.02199,-118.4165,5
+Oldfield's Liquor Room,$$,0.0,0.0,bcycle_lametro_4559,770,34.02199,-118.4165,5
+Overland Cafe,$$,0.0,0.0,bcycle_lametro_4559,602,34.02199,-118.4165,5
+Simpang Asia,$$,4.0,1995.0,bcycle_lametro_4559,898,34.02199,-118.4165,5
+The Doughroom,$$,4.0,803.0,bcycle_lametro_4559,525,34.02199,-118.4165,5
+Bilgewater Brew,$$,0.0,0.0,bcycle_lametro_4546,413,34.0314,-118.45363,7
+Bondi Harvest,$$,0.0,0.0,bcycle_lametro_4546,841,34.0314,-118.45363,7
+Don Antonio's,$$,3.5,1342.0,bcycle_lametro_4546,607,34.0314,-118.45363,7
+Habayit,$$,4.5,242.0,bcycle_lametro_4546,437,34.0314,-118.45363,7
+Kiff Kafe,$$,4.5,205.0,bcycle_lametro_4546,331,34.0314,-118.45363,7
+Lares Restaurant,$$,4.0,1259.0,bcycle_lametro_4546,886,34.0314,-118.45363,7
+Mogu Mogu,$$,0.0,0.0,bcycle_lametro_4546,912,34.0314,-118.45363,7
+Upper West,$$,4.0,1955.0,bcycle_lametro_4546,478,34.0314,-118.45363,7
+Viet Noodle Bar,$$,4.0,437.0,bcycle_lametro_4546,571,34.0314,-118.45363,7
+Yabu Soba,$$,0.0,0.0,bcycle_lametro_4546,540,34.0314,-118.45363,7
+Bird's Nest Cafe L,$$,0.0,0.0,bcycle_lametro_4479,421,34.0315,-118.28874,3
+Cava,$$,0.0,0.0,bcycle_lametro_4479,818,34.0315,-118.28874,3
+Dulce,$,4.5,333.0,bcycle_lametro_4479,756,34.0315,-118.28874,3
+Ebaes,$$,4.0,939.0,bcycle_lametro_4479,573,34.0315,-118.28874,3
+Everytable,$,4.5,330.0,bcycle_lametro_4479,636,34.0315,-118.28874,3
+Kobunga,$$,0.0,0.0,bcycle_lametro_4479,789,34.0315,-118.28874,3
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4479,561,34.0315,-118.28874,3
+Study Hall,$$,0.0,0.0,bcycle_lametro_4479,523,34.0315,-118.28874,3
+Tacos El Unico,$$,0.0,0.0,bcycle_lametro_4479,283,34.0315,-118.28874,3
+With Love Cmac,$$,0.0,0.0,bcycle_lametro_4479,831,34.0315,-118.28874,3
+Birdies,$$,4.0,2175.0,bcycle_lametro_3010,656,34.03705,-118.25487,7
+Cabra,$$$,4.5,335.0,bcycle_lametro_3010,452,34.03705,-118.25487,7
+Cara Cara,$$,0.0,0.0,bcycle_lametro_3010,455,34.03705,-118.25487,7
+Dama,$$,0.0,0.0,bcycle_lametro_3010,257,34.03705,-118.25487,7
+Poppy + Rose,$$,4.0,3063.0,bcycle_lametro_3010,598,34.03705,-118.25487,7
+Pressed Juicery,$$,0.0,0.0,bcycle_lametro_3010,423,34.03705,-118.25487,7
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_3010,574,34.03705,-118.25487,7
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3010,591,34.03705,-118.25487,7
+Upstairs Rooftop Lounge at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3010,565,34.03705,-118.25487,7
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3010,573,34.03705,-118.25487,7
+Birdies,$$,4.0,2175.0,bcycle_lametro_3076,498,34.0406,-118.25384,11
+Cabra,$$,0.0,0.0,bcycle_lametro_3076,444,34.0406,-118.25384,11
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3076,449,34.0406,-118.25384,11
+Il Caffe,$$,0.0,0.0,bcycle_lametro_3076,289,34.0406,-118.25384,11
+Poppy + Rose,$$,4.0,3063.0,bcycle_lametro_3076,358,34.0406,-118.25384,11
+Shibumi,$$,0.0,0.0,bcycle_lametro_3076,453,34.0406,-118.25384,11
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_3076,200,34.0406,-118.25384,11
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3076,334,34.0406,-118.25384,11
+Upstairs Rooftop Lounge at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3076,315,34.0406,-118.25384,11
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3076,188,34.0406,-118.25384,11
+Birdies,$$,4.0,2175.0,bcycle_lametro_4217,184,34.04031,-118.25827,7
+Cabra,$$$,4.5,335.0,bcycle_lametro_4217,69,34.04031,-118.25827,7
+Cara Cara,$$,0.0,0.0,bcycle_lametro_4217,120,34.04031,-118.25827,7
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_4217,189,34.04031,-118.25827,7
+Il Caffe,$$,0.0,0.0,bcycle_lametro_4217,327,34.04031,-118.25827,7
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_4217,702,34.04031,-118.25827,7
+Shibumi,$$,0.0,0.0,bcycle_lametro_4217,481,34.04031,-118.25827,7
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_4217,588,34.04031,-118.25827,7
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_4217,226,34.04031,-118.25827,7
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_4217,404,34.04031,-118.25827,7
+Birdies,$$,4.0,2175.0,bcycle_lametro_3019,396,34.03861,-118.26086,8
+Cabra,$$$,4.5,335.0,bcycle_lametro_3019,246,34.03861,-118.26086,8
+Cara Cara,$$,0.0,0.0,bcycle_lametro_3019,195,34.03861,-118.26086,8
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3019,440,34.03861,-118.26086,8
+Cow Cafe,$$,0.0,0.0,bcycle_lametro_3019,311,34.03861,-118.26086,8
+First Draft,$$,0.0,0.0,bcycle_lametro_3019,194,34.03861,-118.26086,8
+Pine & Crane DTLA,$$,0.0,0.0,bcycle_lametro_3019,265,34.03861,-118.26086,8
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3019,522,34.03861,-118.26086,8
+Upstairs Rooftop Lounge at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3019,511,34.03861,-118.26086,8
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3019,707,34.03861,-118.26086,8
+Birdies,$$,4.0,2175.0,bcycle_lametro_3056,760,34.03746,-118.26538,8
+Cabra,$$$,4.5,335.0,bcycle_lametro_3056,677,34.03746,-118.26538,8
+Cara Cara,$$,0.0,0.0,bcycle_lametro_3056,629,34.03746,-118.26538,8
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3056,817,34.03746,-118.26538,8
+Cow Cafe,$$,4.5,173.0,bcycle_lametro_3056,180,34.03746,-118.26538,8
+First Draft,$$,0.0,0.0,bcycle_lametro_3056,243,34.03746,-118.26538,8
+Pine & Crane DTLA,$$,4.5,241.0,bcycle_lametro_3056,439,34.03746,-118.26538,8
+Santee Falafel,$$,0.0,0.0,bcycle_lametro_3056,683,34.03746,-118.26538,8
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_3056,575,34.03746,-118.26538,8
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3056,924,34.03746,-118.26538,8
+Birdies,$$,4.0,2175.0,bcycle_lametro_3075,264,34.04211,-118.25619,12
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3075,566,34.04211,-118.25619,12
+Cabra,$$,0.0,0.0,bcycle_lametro_3075,342,34.04211,-118.25619,12
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3075,204,34.04211,-118.25619,12
+Golden Gopher,$$,0.0,0.0,bcycle_lametro_3075,317,34.04211,-118.25619,12
+Shake Shack,$$,0.0,0.0,bcycle_lametro_3075,277,34.04211,-118.25619,12
+Shibumi,$$,0.0,0.0,bcycle_lametro_3075,237,34.04211,-118.25619,12
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_3075,380,34.04211,-118.25619,12
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3075,76,34.04211,-118.25619,12
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3075,154,34.04211,-118.25619,12
+Birdies,$$,4.0,2175.0,bcycle_lametro_3047,708,34.03998,-118.2664,12
+Cabra,$$,0.0,0.0,bcycle_lametro_3047,722,34.03998,-118.2664,12
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3047,769,34.03998,-118.2664,12
+Cow Cafe,$$,0.0,0.0,bcycle_lametro_3047,240,34.03998,-118.2664,12
+First Draft,$$,0.0,0.0,bcycle_lametro_3047,370,34.03998,-118.2664,12
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3047,977,34.03998,-118.2664,12
+Pine & Crane DTLA,$$,4.5,241.0,bcycle_lametro_3047,368,34.03998,-118.2664,12
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_3047,362,34.03998,-118.2664,12
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3047,894,34.03998,-118.2664,12
+Yard House,$$,3.5,2947.0,bcycle_lametro_3047,613,34.03998,-118.2664,12
+Birdies,$$,4.0,2175.0,bcycle_lametro_3033,313,34.04099,-118.2558,8
+Cabra,$$,0.0,0.0,bcycle_lametro_3033,289,34.04099,-118.2558,8
+Cara Cara,$$,0.0,0.0,bcycle_lametro_3033,340,34.04099,-118.2558,8
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_3033,265,34.04099,-118.2558,8
+Il Caffe,$$,0.0,0.0,bcycle_lametro_3033,172,34.04099,-118.2558,8
+Shibumi,$$,0.0,0.0,bcycle_lametro_3033,362,34.04099,-118.2558,8
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_3033,349,34.04099,-118.2558,8
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3033,163,34.04099,-118.2558,8
+Upstairs Rooftop Lounge at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3033,140,34.04099,-118.2558,8
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3033,179,34.04099,-118.2558,8
+Blackwood Coffee Bar,$$,0.0,0.0,bcycle_lametro_4526,690,34.10338,-118.34919,8
+Bossa Nova Brazilian Cuisine,$$,0.0,0.0,bcycle_lametro_4526,623,34.10338,-118.34919,8
+El Compadre,$$$$,3.5,1854.0,bcycle_lametro_4526,670,34.10338,-118.34919,8
+Electric Owl,$$,0.0,0.0,bcycle_lametro_4526,702,34.10338,-118.34919,8
+In-N-Out Burger,$,4.0,1845.0,bcycle_lametro_4526,895,34.10338,-118.34919,8
+Mashti Malone's,$$,0.0,0.0,bcycle_lametro_4526,662,34.10338,-118.34919,8
+Moun Of Tunis Restaurant,$$,0.0,0.0,bcycle_lametro_4526,647,34.10338,-118.34919,8
+Pink Pepper,$$,0.0,0.0,bcycle_lametro_4526,484,34.10338,-118.34919,8
+The Magic Castle,$$$$,4.0,2607.0,bcycle_lametro_4526,703,34.10338,-118.34919,8
+Yamashiro,$$,0.0,0.0,bcycle_lametro_4526,706,34.10338,-118.34919,8
+Blaze Pizza,$$,3.5,510.0,bcycle_lametro_4266,375,34.02629,-118.27769,7
+Cava,$$,0.0,0.0,bcycle_lametro_4266,649,34.02629,-118.27769,7
+Dulce,$,4.5,333.0,bcycle_lametro_4266,706,34.02629,-118.27769,7
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4266,166,34.02629,-118.27769,7
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4266,183,34.02629,-118.27769,7
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4266,366,34.02629,-118.27769,7
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4266,284,34.02629,-118.27769,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_4266,239,34.02629,-118.27769,7
+USC University Club,$$,0.0,0.0,bcycle_lametro_4266,663,34.02629,-118.27769,7
+Blaze Pizza,$$,3.5,510.0,bcycle_lametro_4245,379,34.02404,-118.28341,7
+Cava,$$,4.0,341.0,bcycle_lametro_4245,150,34.02404,-118.28341,7
+Chichen Itza Restaurant,$$,4.5,1375.0,bcycle_lametro_4245,857,34.02404,-118.28341,7
+Dulce,$,4.5,333.0,bcycle_lametro_4245,223,34.02404,-118.28341,7
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4245,518,34.02404,-118.28341,7
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4245,766,34.02404,-118.28341,7
+Holbox,$$,5.0,729.0,bcycle_lametro_4245,857,34.02404,-118.28341,7
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4245,931,34.02404,-118.28341,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_4245,484,34.02404,-118.28341,7
+USC University Club,$$,0.0,0.0,bcycle_lametro_4245,167,34.02404,-118.28341,7
+Blaze Pizza,$$,3.5,510.0,bcycle_lametro_4249,364,34.0203,-118.28118,7
+Cava,$$,4.0,341.0,bcycle_lametro_4249,608,34.0203,-118.28118,7
+Chichen Itza Restaurant,$$,4.5,1375.0,bcycle_lametro_4249,399,34.0203,-118.28118,7
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_4249,427,34.0203,-118.28118,7
+Dulce,$,4.5,333.0,bcycle_lametro_4249,673,34.0203,-118.28118,7
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4249,586,34.0203,-118.28118,7
+Holbox,$$,5.0,729.0,bcycle_lametro_4249,399,34.0203,-118.28118,7
+Seeds Marketplace,$$,0.0,0.0,bcycle_lametro_4249,443,34.0203,-118.28118,7
+Thai Corner Food Express,$$,0.0,0.0,bcycle_lametro_4249,395,34.0203,-118.28118,7
+USC University Club,$$,0.0,0.0,bcycle_lametro_4249,315,34.0203,-118.28118,7
+Blaze Pizza,$$,3.5,510.0,bcycle_lametro_4246,57,34.02371,-118.27917,7
+Chichen Itza Restaurant,$$,4.5,1375.0,bcycle_lametro_4246,694,34.02371,-118.27917,7
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4246,171,34.02371,-118.27917,7
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4246,465,34.02371,-118.27917,7
+Holbox,$$,5.0,729.0,bcycle_lametro_4246,691,34.02371,-118.27917,7
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4246,677,34.02371,-118.27917,7
+La Taquiza,$$,0.0,0.0,bcycle_lametro_4246,156,34.02371,-118.27917,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_4246,333,34.02371,-118.27917,7
+USC University Club,$$,0.0,0.0,bcycle_lametro_4246,401,34.02371,-118.27917,7
+Blaze Pizza,$$,0.0,0.0,bcycle_lametro_4273,522,34.02586,-118.2841,9
+Cava,$$,4.0,341.0,bcycle_lametro_4273,105,34.02586,-118.2841,9
+Dulce,$,4.5,333.0,bcycle_lametro_4273,123,34.02586,-118.2841,9
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4273,586,34.02586,-118.2841,9
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4273,771,34.02586,-118.2841,9
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4273,893,34.02586,-118.2841,9
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4273,958,34.02586,-118.2841,9
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4273,822,34.02586,-118.2841,9
+Study Hall,$$,0.0,0.0,bcycle_lametro_4273,299,34.02586,-118.2841,9
+USC University Club,$$,0.0,0.0,bcycle_lametro_4273,377,34.02586,-118.2841,9
+Blaze Pizza,$$,0.0,0.0,bcycle_lametro_4448,969,34.03027,-118.27319,6
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4448,744,34.03027,-118.27319,6
+Etchea,$$,0.0,0.0,bcycle_lametro_4448,76,34.03027,-118.27319,6
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4448,451,34.03027,-118.27319,6
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4448,239,34.03027,-118.27319,6
+Mal's Cafe,$$,0.0,0.0,bcycle_lametro_4448,421,34.03027,-118.27319,6
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4448,321,34.03027,-118.27319,6
+Spudnuts Donuts,$$,0.0,0.0,bcycle_lametro_4448,758,34.03027,-118.27319,6
+Starbucks,$$,0.0,0.0,bcycle_lametro_4448,589,34.03027,-118.27319,6
+Blaze Pizza,$$,0.0,0.0,bcycle_lametro_4613,314,34.06975,-118.44535,7
+Broxton Brewery & Public House,$$,0.0,0.0,bcycle_lametro_4613,967,34.06975,-118.44535,7
+Cava,$$,4.0,601.0,bcycle_lametro_4613,963,34.06975,-118.44535,7
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_4613,693,34.06975,-118.44535,7
+Diddy Riese Cookies,$$,0.0,0.0,bcycle_lametro_4613,794,34.06975,-118.44535,7
+Fat Sal's Deli,$$,4.0,1404.0,bcycle_lametro_4613,840,34.06975,-118.44535,7
+In-N-Out Burger,$,4.0,890.0,bcycle_lametro_4613,780,34.06975,-118.44535,7
+Lamonica's New York Pizza,$$,0.0,0.0,bcycle_lametro_4613,994,34.06975,-118.44535,7
+Plateia,$$,4.0,210.0,bcycle_lametro_4613,44,34.06975,-118.44535,7
+The Boiling Crab,$$$,3.5,970.0,bcycle_lametro_4613,997,34.06975,-118.44535,7
+Blaze Pizza,$,4.5,30.0,bcycle_lametro_4614,629,34.07365,-118.43984,10
+Bruin Buzz,$$,0.0,0.0,bcycle_lametro_4614,553,34.07365,-118.43984,10
+Jamba,$$,0.0,0.0,bcycle_lametro_4614,535,34.07365,-118.43984,10
+Lu Valle Commons,$$,0.0,0.0,bcycle_lametro_4614,43,34.07365,-118.43984,10
+Plateia,$$,4.0,210.0,bcycle_lametro_4614,698,34.07365,-118.43984,10
+Taco Bell,$$,0.0,0.0,bcycle_lametro_4614,553,34.07365,-118.43984,10
+The Greenhouse,$$,0.0,0.0,bcycle_lametro_4614,550,34.07365,-118.43984,10
+UCLA Kerckhoff Coffee House,$$,0.0,0.0,bcycle_lametro_4614,468,34.07365,-118.43984,10
+Veggie Grill,$$,4.0,63.0,bcycle_lametro_4614,534,34.07365,-118.43984,10
+Wetzel's Pretzels,$$,0.0,0.0,bcycle_lametro_4614,520,34.07365,-118.43984,10
+Blaze Pizza,$$,3.5,510.0,bcycle_lametro_4441,437,34.02662,-118.28181,4
+Cava,$$,4.0,341.0,bcycle_lametro_4441,311,34.02662,-118.28181,4
+Dulce,$,4.5,333.0,bcycle_lametro_4441,349,34.02662,-118.28181,4
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4441,416,34.02662,-118.28181,4
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4441,553,34.02662,-118.28181,4
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4441,666,34.02662,-118.28181,4
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4441,892,34.02662,-118.28181,4
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4441,595,34.02662,-118.28181,4
+Starbucks,$$,0.0,0.0,bcycle_lametro_4441,391,34.02662,-118.28181,4
+USC University Club,$$,0.0,0.0,bcycle_lametro_4441,474,34.02662,-118.28181,4
+Blaze Pizza,$,4.5,30.0,bcycle_lametro_4643,804,34.07262,-118.44944,13
+Bruin Cafe,$,3.5,72.0,bcycle_lametro_4643,58,34.07262,-118.44944,13
+Feast At Rieber,$,4.0,69.0,bcycle_lametro_4643,201,34.07262,-118.44944,13
+Jamba,$$,0.0,0.0,bcycle_lametro_4643,511,34.07262,-118.44944,13
+Plateia,$$,4.0,210.0,bcycle_lametro_4643,521,34.07262,-118.44944,13
+The Greenhouse,$$,0.0,0.0,bcycle_lametro_4643,531,34.07262,-118.44944,13
+UCLA Dining Commons,$$,0.0,0.0,bcycle_lametro_4643,783,34.07262,-118.44944,13
+UCLA Kerckhoff Coffee House,$$,0.0,0.0,bcycle_lametro_4643,609,34.07262,-118.44944,13
+Veggie Grill,$$,4.0,63.0,bcycle_lametro_4643,545,34.07262,-118.44944,13
+Wetzel's Pretzels,$$,0.0,0.0,bcycle_lametro_4643,549,34.07262,-118.44944,13
+Blaze Pizza,$$,3.5,510.0,bcycle_lametro_4443,131,34.02209,-118.27979,7
+Cava,$$,4.0,341.0,bcycle_lametro_4443,545,34.02209,-118.27979,7
+Chichen Itza Restaurant,$$,4.5,1375.0,bcycle_lametro_4443,525,34.02209,-118.27979,7
+Dulce,$,4.5,333.0,bcycle_lametro_4443,619,34.02209,-118.27979,7
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4443,349,34.02209,-118.27979,7
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4443,642,34.02209,-118.27979,7
+Holbox,$$,5.0,729.0,bcycle_lametro_4443,523,34.02209,-118.27979,7
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4443,860,34.02209,-118.27979,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_4443,275,34.02209,-118.27979,7
+USC University Club,$$,0.0,0.0,bcycle_lametro_4443,326,34.02209,-118.27979,7
+Blue Bottle Coffee,$$,0.0,0.0,bcycle_lametro_4213,646,33.99537,-118.4648,6
+Camp Pho,$$,0.0,0.0,bcycle_lametro_4213,458,33.99537,-118.4648,6
+Felix,$$,0.0,0.0,bcycle_lametro_4213,735,33.99537,-118.4648,6
+Gjelina,$$$,3.5,5083.0,bcycle_lametro_4213,536,33.99537,-118.4648,6
+Intelligentsia Coffee,$$,0.0,0.0,bcycle_lametro_4213,511,33.99537,-118.4648,6
+Salt & Straw,$$,0.0,0.0,bcycle_lametro_4213,524,33.99537,-118.4648,6
+Tacos El Primo,$$,0.0,0.0,bcycle_lametro_4213,419,33.99537,-118.4648,6
+The Butcher's Daughter,$$,4.0,1847.0,bcycle_lametro_4213,583,33.99537,-118.4648,6
+Wanderlust Creamery,$$,0.0,0.0,bcycle_lametro_4213,505,33.99537,-118.4648,6
+Wurstküche,$$,0.0,0.0,bcycle_lametro_4213,490,33.99537,-118.4648,6
+Boba Guys,$$,0.0,0.0,bcycle_lametro_4293,603,34.06228,-118.27152,5
+Brooklyn Bagel Bakery,$$,0.0,0.0,bcycle_lametro_4293,590,34.06228,-118.27152,5
+Crawfords,$$,0.0,0.0,bcycle_lametro_4293,960,34.06228,-118.27152,5
+Gigi's Cafe Cubano,$$,0.0,0.0,bcycle_lametro_4293,955,34.06228,-118.27152,5
+Gus's Drive In,$$,3.5,512.0,bcycle_lametro_4293,416,34.06228,-118.27152,5
+Langer's,$$,0.0,0.0,bcycle_lametro_4293,815,34.06228,-118.27152,5
+Original Tommy's,$,4.0,1465.0,bcycle_lametro_4293,923,34.06228,-118.27152,5
+Starbucks,$$,0.0,0.0,bcycle_lametro_4293,112,34.06228,-118.27152,5
+Thai Express,$$,0.0,0.0,bcycle_lametro_4293,86,34.06228,-118.27152,5
+Boomtown Brewery,$$,0.0,0.0,bcycle_lametro_3014,756,34.05661,-118.23721,13
+Fugetsu-Do,$$,0.0,0.0,bcycle_lametro_3014,773,34.05661,-118.23721,13
+Hop Li Seafood Restaurant,$$,0.0,0.0,bcycle_lametro_3014,772,34.05661,-118.23721,13
+Little Jewel of New Orleans,$$,4.0,1936.0,bcycle_lametro_3014,392,34.05661,-118.23721,13
+Marugame Monzo,$$,4.5,4415.0,bcycle_lametro_3014,804,34.05661,-118.23721,13
+Mr Churro,$,4.0,541.0,bcycle_lametro_3014,105,34.05661,-118.23721,13
+Redbird,$$$,4.0,1770.0,bcycle_lametro_3014,913,34.05661,-118.23721,13
+Shin-Sen-Gumi,$$,0.0,0.0,bcycle_lametro_3014,952,34.05661,-118.23721,13
+The Original Philippe,$$,0.0,0.0,bcycle_lametro_3014,335,34.05661,-118.23721,13
+Traxx Bar,$$,0.0,0.0,bcycle_lametro_3014,72,34.05661,-118.23721,13
+Boomtown Brewery,$$,0.0,0.0,bcycle_lametro_4511,625,34.05628,-118.23177,9
+Chimney Coffee House,$$,0.0,0.0,bcycle_lametro_4511,821,34.05628,-118.23177,9
+Homage Brewing,$$,0.0,0.0,bcycle_lametro_4511,934,34.05628,-118.23177,9
+Little Jewel of New Orleans,$$,4.0,1936.0,bcycle_lametro_4511,728,34.05628,-118.23177,9
+Mr Churro,$,4.0,541.0,bcycle_lametro_4511,547,34.05628,-118.23177,9
+Oriel Chinatown,$$,0.0,0.0,bcycle_lametro_4511,837,34.05628,-118.23177,9
+Starbucks,$$,0.0,0.0,bcycle_lametro_4511,828,34.05628,-118.23177,9
+The Moroccan Lounge,$$,0.0,0.0,bcycle_lametro_4511,864,34.05628,-118.23177,9
+The Original Philippe,$$,0.0,0.0,bcycle_lametro_4511,609,34.05628,-118.23177,9
+Traxx Bar,$$,0.0,0.0,bcycle_lametro_4511,443,34.05628,-118.23177,9
+Boo’s Philly Cheesesteaks - Silverlake,$$,0.0,0.0,bcycle_lametro_4302,546,34.09249,-118.29144,3
+DeSano Pizza Bakery,$$,4.5,1629.0,bcycle_lametro_4302,611,34.09249,-118.29144,3
+Dinosaur Coffee,$$,0.0,0.0,bcycle_lametro_4302,766,34.09249,-118.29144,3
+Found Oyster,$$,4.5,253.0,bcycle_lametro_4302,512,34.09249,-118.29144,3
+HomeState,$$,4.5,1330.0,bcycle_lametro_4302,819,34.09249,-118.29144,3
+Kismet,$$,0.0,0.0,bcycle_lametro_4302,892,34.09249,-118.29144,3
+Lutong Bahay,$$,0.0,0.0,bcycle_lametro_4302,288,34.09249,-118.29144,3
+Marouch Lebanese Restaurant,$$,0.0,0.0,bcycle_lametro_4302,486,34.09249,-118.29144,3
+Saffy's,$$$,4.5,241.0,bcycle_lametro_4302,489,34.09249,-118.29144,3
+Wat Dong Moon Lek Noodle,$$,4.0,1104.0,bcycle_lametro_4302,684,34.09249,-118.29144,3
+Boo’s Philly Cheesesteaks - Silverlake,$$,0.0,0.0,bcycle_lametro_4439,547,34.09097,-118.28625,7
+Dinosaur Coffee,$$,0.0,0.0,bcycle_lametro_4439,531,34.09097,-118.28625,7
+Eagle LA,$$,0.0,0.0,bcycle_lametro_4439,214,34.09097,-118.28625,7
+Intelligentsia,$$,0.0,0.0,bcycle_lametro_4439,565,34.09097,-118.28625,7
+Jay's Bar,$$,0.0,0.0,bcycle_lametro_4439,561,34.09097,-118.28625,7
+Lutong Bahay,$$,0.0,0.0,bcycle_lametro_4439,519,34.09097,-118.28625,7
+Sqirl,$$,4.0,2256.0,bcycle_lametro_4439,722,34.09097,-118.28625,7
+The Kitchen,$$,4.0,1529.0,bcycle_lametro_4439,560,34.09097,-118.28625,7
+The Virgil,$$,0.0,0.0,bcycle_lametro_4439,75,34.09097,-118.28625,7
+Wat Dong Moon Lek Noodle,$$,4.0,1104.0,bcycle_lametro_4439,512,34.09097,-118.28625,7
+Bossa Nova Brazilian Cuisine,$$,0.0,0.0,bcycle_lametro_4525,509,34.10038,-118.3418,5
+California Pizza Kitchen,$$,0.0,0.0,bcycle_lametro_4525,359,34.10038,-118.3418,5
+Hard Rock Cafe,$$,0.0,0.0,bcycle_lametro_4525,224,34.10038,-118.3418,5
+In-N-Out Burger,$,4.0,1845.0,bcycle_lametro_4525,234,34.10038,-118.3418,5
+L'Antica Pizzeria Da Michele,$$$,4.5,1686.0,bcycle_lametro_4525,426,34.10038,-118.3418,5
+Mashti Malone's,$$,0.0,0.0,bcycle_lametro_4525,317,34.10038,-118.3418,5
+Musso & Frank Grill,$$$,4.0,2070.0,bcycle_lametro_4525,610,34.10038,-118.3418,5
+Pink Pepper,$$,0.0,0.0,bcycle_lametro_4525,291,34.10038,-118.3418,5
+Tacos El Gavilan,$$,0.0,0.0,bcycle_lametro_4525,341,34.10038,-118.3418,5
+The Magic Castle,$$$$,4.0,2607.0,bcycle_lametro_4525,458,34.10038,-118.3418,5
+Botanica,$$,0.0,0.0,bcycle_lametro_4476,757,34.08252,-118.27272,5
+Cafe Tropical,$$,0.0,0.0,bcycle_lametro_4476,74,34.08252,-118.27272,5
+Dayglow,$$,0.0,0.0,bcycle_lametro_4476,402,34.08252,-118.27272,5
+Lark Cake Shop,$$,0.0,0.0,bcycle_lametro_4476,617,34.08252,-118.27272,5
+Millie's Cafe,$$,4.0,1265.0,bcycle_lametro_4476,842,34.08252,-118.27272,5
+Muddy Paw Coffee Company,$$,0.0,0.0,bcycle_lametro_4476,558,34.08252,-118.27272,5
+Night + Market Song,$$,4.0,1211.0,bcycle_lametro_4476,565,34.08252,-118.27272,5
+Osen Izakaya,$$,0.0,0.0,bcycle_lametro_4476,84,34.08252,-118.27272,5
+The Thirsty Crow,$$,0.0,0.0,bcycle_lametro_4476,161,34.08252,-118.27272,5
+Wood Handcrafted Pizza,$$,0.0,0.0,bcycle_lametro_4476,51,34.08252,-118.27272,5
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_4578,576,34.04298,-118.25295,4
+Cole's French Dip,$$,0.0,0.0,bcycle_lametro_4578,381,34.04298,-118.25295,4
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_4578,448,34.04298,-118.25295,4
+Il Caffe,$$,0.0,0.0,bcycle_lametro_4578,280,34.04298,-118.25295,4
+Poppy + Rose,$$,4.0,3063.0,bcycle_lametro_4578,385,34.04298,-118.25295,4
+Shibumi,$$,0.0,0.0,bcycle_lametro_4578,319,34.04298,-118.25295,4
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_4578,164,34.04298,-118.25295,4
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_4578,387,34.04298,-118.25295,4
+Upstairs Rooftop Lounge at Ace Hotel,$$,0.0,0.0,bcycle_lametro_4578,386,34.04298,-118.25295,4
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_4578,168,34.04298,-118.25295,4
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3063,279,34.04804,-118.25374,9
+Donut Friend,$$,0.0,0.0,bcycle_lametro_3063,184,34.04804,-118.25374,9
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_3063,335,34.04804,-118.25374,9
+Little Sister,$$,4.0,1753.0,bcycle_lametro_3063,243,34.04804,-118.25374,9
+Perch,$$$,4.0,9651.0,bcycle_lametro_3063,234,34.04804,-118.25374,9
+Pitchoun,$$,0.0,0.0,bcycle_lametro_3063,58,34.04804,-118.25374,9
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3063,306,34.04804,-118.25374,9
+Tender Greens,$$,0.0,0.0,bcycle_lametro_3063,78,34.04804,-118.25374,9
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3063,171,34.04804,-118.25374,9
+Veggie Grill,$$,0.0,0.0,bcycle_lametro_3063,112,34.04804,-118.25374,9
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_4516,252,34.04585,-118.2544,3
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_4516,357,34.04585,-118.2544,3
+Little Sister,$$,4.0,1753.0,bcycle_lametro_4516,215,34.04585,-118.2544,3
+Seven Grand,$$,0.0,0.0,bcycle_lametro_4516,183,34.04585,-118.2544,3
+Shibumi,$$,0.0,0.0,bcycle_lametro_4516,235,34.04585,-118.2544,3
+Sugarfish,$$,0.0,0.0,bcycle_lametro_4516,286,34.04585,-118.2544,3
+Tender Greens,$$,0.0,0.0,bcycle_lametro_4516,271,34.04585,-118.2544,3
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_4516,484,34.04585,-118.2544,3
+The Water Grill,$$,0.0,0.0,bcycle_lametro_4516,370,34.04585,-118.2544,3
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_4516,405,34.04585,-118.2544,3
+Bottega Louie,$$,4.0,18069.0,bcycle_lametro_3052,851,34.0511,-118.26456,6
+Brasil Kiss Coffeebar,$$,0.0,0.0,bcycle_lametro_3052,222,34.0511,-118.26456,6
+Fogo De Chao,$$,0.0,0.0,bcycle_lametro_3052,485,34.0511,-118.26456,6
+Monty Bar,$$,0.0,0.0,bcycle_lametro_3052,206,34.0511,-118.26456,6
+Philz Coffee,$,4.5,1021.0,bcycle_lametro_3052,695,34.0511,-118.26456,6
+Spire 73,$$,0.0,0.0,bcycle_lametro_3052,435,34.0511,-118.26456,6
+Starbucks,$$,0.0,0.0,bcycle_lametro_3052,161,34.0511,-118.26456,6
+Sugarfish,$$,0.0,0.0,bcycle_lametro_3052,816,34.0511,-118.26456,6
+The Water Grill,$$,0.0,0.0,bcycle_lametro_3052,902,34.0511,-118.26456,6
+Yard House,$$,3.5,2947.0,bcycle_lametro_3052,636,34.0511,-118.26456,6
+Brasil Kiss Coffeebar,$,4.0,297.0,bcycle_lametro_4315,842,34.05403,-118.27092,5
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_4315,710,34.05403,-118.27092,5
+Jersey Mike's,$$,0.0,0.0,bcycle_lametro_4315,208,34.05403,-118.27092,5
+Langer's,$$,0.0,0.0,bcycle_lametro_4315,593,34.05403,-118.27092,5
+Los Molcajetes,$,4.0,150.0,bcycle_lametro_4315,373,34.05403,-118.27092,5
+Monty Bar,$$,0.0,0.0,bcycle_lametro_4315,467,34.05403,-118.27092,5
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_4315,372,34.05403,-118.27092,5
+Seoul Garden Restaurant,$$,4.0,575.0,bcycle_lametro_4315,703,34.05403,-118.27092,5
+Shabuya,$$,4.0,865.0,bcycle_lametro_4315,728,34.05403,-118.27092,5
+Starbucks,$$,0.0,0.0,bcycle_lametro_4315,736,34.05403,-118.27092,5
+Bravo Pizza and Chicken,$$,0.0,0.0,bcycle_lametro_4599,450,34.16875,-118.36187,5
+Fatburger,$$,0.0,0.0,bcycle_lametro_4599,894,34.16875,-118.36187,5
+Kahuna Tiki,$$,4.0,820.0,bcycle_lametro_4599,1002,34.16875,-118.36187,5
+Moby's Coffee & Tea Company,$$,0.0,0.0,bcycle_lametro_4599,565,34.16875,-118.36187,5
+Tequilas Cantina & Grill,$$,0.0,0.0,bcycle_lametro_4599,851,34.16875,-118.36187,5
+The Bullet,$$,0.0,0.0,bcycle_lametro_4599,385,34.16875,-118.36187,5
+The Juice Parlor,$$,4.5,365.0,bcycle_lametro_4599,538,34.16875,-118.36187,5
+The Magnolia Grille,$$,4.0,405.0,bcycle_lametro_4599,480,34.16875,-118.36187,5
+The Other Door,$$,0.0,0.0,bcycle_lametro_4599,462,34.16875,-118.36187,5
+Tom's Famous Family Restaurant,$$,0.0,0.0,bcycle_lametro_4599,354,34.16875,-118.36187,5
+Bravo Pizza and Chicken,$$,0.0,0.0,bcycle_lametro_4597,535,34.16522,-118.35515,5
+Cahuenga General Store,$,4.5,207.0,bcycle_lametro_4597,816,34.16522,-118.35515,5
+Century Dragon,$$,4.0,482.0,bcycle_lametro_4597,760,34.16522,-118.35515,5
+Fiesta Taco,$$,0.0,0.0,bcycle_lametro_4597,856,34.16522,-118.35515,5
+Porto's Bakery & Cafe,$,4.5,11321.0,bcycle_lametro_4597,825,34.16522,-118.35515,5
+Tequilas Cantina & Grill,$$,3.5,565.0,bcycle_lametro_4597,157,34.16522,-118.35515,5
+The Bullet,$$,0.0,0.0,bcycle_lametro_4597,882,34.16522,-118.35515,5
+The Magnolia Grille,$$,4.0,405.0,bcycle_lametro_4597,503,34.16522,-118.35515,5
+The Other Door,$$,0.0,0.0,bcycle_lametro_4597,866,34.16522,-118.35515,5
+The Snug,$$,0.0,0.0,bcycle_lametro_4597,365,34.16522,-118.35515,5
+Bravo Pizza and Chicken,$$,0.0,0.0,bcycle_lametro_4602,246,34.16495,-118.36363,3
+Dog Haus,$$,0.0,0.0,bcycle_lametro_4602,935,34.16495,-118.36363,3
+Firehouse Subs,$$,0.0,0.0,bcycle_lametro_4602,941,34.16495,-118.36363,3
+Idle Hour Bar,$$,0.0,0.0,bcycle_lametro_4602,943,34.16495,-118.36363,3
+Moby's Coffee & Tea Company,$$,0.0,0.0,bcycle_lametro_4602,1009,34.16495,-118.36363,3
+Republic of Pie,$$,0.0,0.0,bcycle_lametro_4602,875,34.16495,-118.36363,3
+Teapop,$$,0.0,0.0,bcycle_lametro_4602,648,34.16495,-118.36363,3
+The Bullet,$$,0.0,0.0,bcycle_lametro_4602,837,34.16495,-118.36363,3
+The Fat Dog,$$,4.0,723.0,bcycle_lametro_4602,782,34.16495,-118.36363,3
+The Magnolia Grille,$$,4.0,405.0,bcycle_lametro_4602,284,34.16495,-118.36363,3
+Broxton Brewery & Public House,$$,0.0,0.0,bcycle_lametro_4644,409,34.06186,-118.45002,8
+Cava,$$,4.0,601.0,bcycle_lametro_4644,353,34.06186,-118.45002,8
+Espresso Profeta,$$,0.0,0.0,bcycle_lametro_4644,579,34.06186,-118.45002,8
+Fat Sal's Deli,$$,4.0,1404.0,bcycle_lametro_4644,197,34.06186,-118.45002,8
+In-N-Out Burger,$,4.0,890.0,bcycle_lametro_4644,225,34.06186,-118.45002,8
+Kazunori,$$,0.0,0.0,bcycle_lametro_4644,415,34.06186,-118.45002,8
+Northern Cafe,$$,0.0,0.0,bcycle_lametro_4644,306,34.06186,-118.45002,8
+Poke Me,$$,4.0,715.0,bcycle_lametro_4644,763,34.06186,-118.45002,8
+Tender Greens,$$,0.0,0.0,bcycle_lametro_4644,541,34.06186,-118.45002,8
+The Boiling Crab,$$$,3.5,970.0,bcycle_lametro_4644,516,34.06186,-118.45002,8
+Broxton Brewery & Public House,$$,0.0,0.0,bcycle_lametro_4528,120,34.06097,-118.44437,6
+Cava,$$,4.0,601.0,bcycle_lametro_4528,177,34.06097,-118.44437,6
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_4528,291,34.06097,-118.44437,6
+Espresso Profeta,$$,0.0,0.0,bcycle_lametro_4528,75,34.06097,-118.44437,6
+In-N-Out Burger,$,4.0,890.0,bcycle_lametro_4528,415,34.06097,-118.44437,6
+Kazunori,$$,0.0,0.0,bcycle_lametro_4528,201,34.06097,-118.44437,6
+Northern Cafe,$$,0.0,0.0,bcycle_lametro_4528,230,34.06097,-118.44437,6
+Poke Me,$$,4.0,715.0,bcycle_lametro_4528,354,34.06097,-118.44437,6
+Tender Greens,$$,0.0,0.0,bcycle_lametro_4528,44,34.06097,-118.44437,6
+The Boiling Crab,$$$,3.5,970.0,bcycle_lametro_4528,26,34.06097,-118.44437,6
+Broxton Brewery & Public House,$$,0.0,0.0,bcycle_lametro_4487,164,34.06211,-118.44692,12
+Cava,$$,4.0,601.0,bcycle_lametro_4487,124,34.06211,-118.44692,12
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_4487,225,34.06211,-118.44692,12
+Espresso Profeta,$$,0.0,0.0,bcycle_lametro_4487,332,34.06211,-118.44692,12
+Fat Sal's Deli,$$,4.0,1404.0,bcycle_lametro_4487,111,34.06211,-118.44692,12
+In-N-Out Burger,$,4.0,890.0,bcycle_lametro_4487,153,34.06211,-118.44692,12
+Kazunori,$$,0.0,0.0,bcycle_lametro_4487,252,34.06211,-118.44692,12
+Northern Cafe,$$,0.0,0.0,bcycle_lametro_4487,128,34.06211,-118.44692,12
+Tender Greens,$$,0.0,0.0,bcycle_lametro_4487,292,34.06211,-118.44692,12
+The Boiling Crab,$$$,3.5,970.0,bcycle_lametro_4487,261,34.06211,-118.44692,12
+Bumsan Organic Milk Bar,$$,0.0,0.0,bcycle_lametro_4523,495,34.06875,-118.30928,7
+Document Coffee Bar,$$,0.0,0.0,bcycle_lametro_4523,848,34.06875,-118.30928,7
+Feng Mao,$$,0.0,0.0,bcycle_lametro_4523,211,34.06875,-118.30928,7
+Gol Tong Chicken,$$,5.0,1787.0,bcycle_lametro_4523,154,34.06875,-118.30928,7
+Han Bat Sul Lung Tang,$$,4.5,2642.0,bcycle_lametro_4523,364,34.06875,-118.30928,7
+Jangchungdong Pork Feet,$$,0.0,0.0,bcycle_lametro_4523,255,34.06875,-118.30928,7
+Jinsol Gukbap,$$,0.0,0.0,bcycle_lametro_4523,199,34.06875,-118.30928,7
+Mister Bossam,$$,0.0,0.0,bcycle_lametro_4523,103,34.06875,-118.30928,7
+Monty's Good Burger,$$,4.5,2411.0,bcycle_lametro_4523,439,34.06875,-118.30928,7
+Ubatuba Acai,$$,0.0,0.0,bcycle_lametro_4523,538,34.06875,-118.30928,7
+Burgerlords,$$,0.0,0.0,bcycle_lametro_3078,193,34.06428,-118.23894,4
+General Lee's,$$,0.0,0.0,bcycle_lametro_3078,208,34.06428,-118.23894,4
+Highland Park Brewery,$$,0.0,0.0,bcycle_lametro_3078,535,34.06428,-118.23894,4
+Hop Li Seafood Restaurant,$$,0.0,0.0,bcycle_lametro_3078,198,34.06428,-118.23894,4
+Little Jewel of New Orleans,$$,4.0,1936.0,bcycle_lametro_3078,475,34.06428,-118.23894,4
+Melody Lounge,$$,0.0,0.0,bcycle_lametro_3078,163,34.06428,-118.23894,4
+Oriel Chinatown,$$,0.0,0.0,bcycle_lametro_3078,291,34.06428,-118.23894,4
+Pho 87,$$,4.0,1646.0,bcycle_lametro_3078,453,34.06428,-118.23894,4
+Phoenix Bakery,$$,0.0,0.0,bcycle_lametro_3078,275,34.06428,-118.23894,4
+The Original Philippe,$$,0.0,0.0,bcycle_lametro_3078,547,34.06428,-118.23894,4
+Burgerlords,$$,0.0,0.0,bcycle_lametro_3066,234,34.06339,-118.23616,12
+Chimney Coffee House,$$,4.0,738.0,bcycle_lametro_3066,311,34.06339,-118.23616,12
+Highland Park Brewery,$$,0.0,0.0,bcycle_lametro_3066,370,34.06339,-118.23616,12
+Homage Brewing,$$,0.0,0.0,bcycle_lametro_3066,371,34.06339,-118.23616,12
+Little Jewel of New Orleans,$$,4.0,1936.0,bcycle_lametro_3066,419,34.06339,-118.23616,12
+Melody Lounge,$$,0.0,0.0,bcycle_lametro_3066,304,34.06339,-118.23616,12
+Oriel Chinatown,$$,4.5,179.0,bcycle_lametro_3066,67,34.06339,-118.23616,12
+Pho 87,$$,4.0,1646.0,bcycle_lametro_3066,433,34.06339,-118.23616,12
+Phoenix Bakery,$$,0.0,0.0,bcycle_lametro_3066,267,34.06339,-118.23616,12
+The Original Philippe,$$,0.0,0.0,bcycle_lametro_3066,426,34.06339,-118.23616,12
+Burgerlords,$$,0.0,0.0,bcycle_lametro_3026,829,34.06318,-118.24588,6
+Dorothy Chandler Pavilion,$$,0.0,0.0,bcycle_lametro_3026,779,34.06318,-118.24588,6
+Guisados,$$,4.5,2360.0,bcycle_lametro_3026,891,34.06318,-118.24588,6
+Hop Li Seafood Restaurant,$$,0.0,0.0,bcycle_lametro_3026,498,34.06318,-118.24588,6
+Little Jewel of New Orleans,$$,4.0,1936.0,bcycle_lametro_3026,783,34.06318,-118.24588,6
+Longs Family Pastry,$$,0.0,0.0,bcycle_lametro_3026,810,34.06318,-118.24588,6
+Melody Lounge,$$,0.0,0.0,bcycle_lametro_3026,761,34.06318,-118.24588,6
+Oriel Chinatown,$$,0.0,0.0,bcycle_lametro_3026,880,34.06318,-118.24588,6
+Phoenix Bakery,$$,0.0,0.0,bcycle_lametro_3026,905,34.06318,-118.24588,6
+The Original Philippe,$$,0.0,0.0,bcycle_lametro_3026,907,34.06318,-118.24588,6
+Burgerlords,$$,0.0,0.0,bcycle_lametro_3065,536,34.06056,-118.23833,7
+Highland Park Brewery,$$,0.0,0.0,bcycle_lametro_3065,740,34.06056,-118.23833,7
+Hop Li Seafood Restaurant,$$,0.0,0.0,bcycle_lametro_3065,336,34.06056,-118.23833,7
+Little Jewel of New Orleans,$$,4.0,1936.0,bcycle_lametro_3065,58,34.06056,-118.23833,7
+Mr Churro,$$,0.0,0.0,bcycle_lametro_3065,346,34.06056,-118.23833,7
+Oriel Chinatown,$$,0.0,0.0,bcycle_lametro_3065,309,34.06056,-118.23833,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_3065,265,34.06056,-118.23833,7
+The Original Philippe,$$,0.0,0.0,bcycle_lametro_3065,159,34.06056,-118.23833,7
+Won Kok Restaurant,$$,3.5,1488.0,bcycle_lametro_3065,172,34.06056,-118.23833,7
+Yang Chow Restaurant,$$,0.0,0.0,bcycle_lametro_3065,264,34.06056,-118.23833,7
+Burgers Never Say Die,$$,4.0,1066.0,bcycle_lametro_4483,94,34.1007,-118.25912,4
+Edendale,$$,4.0,615.0,bcycle_lametro_4483,980,34.1007,-118.25912,4
+Gingergrass,$$,3.5,1095.0,bcycle_lametro_4483,61,34.1007,-118.25912,4
+Ivanhoe Restaurant & Bar,$$,4.0,839.0,bcycle_lametro_4483,634,34.1007,-118.25912,4
+Michelangelo Ristorante,$$,4.0,919.0,bcycle_lametro_4483,821,34.1007,-118.25912,4
+Modern Eats,$$,4.0,524.0,bcycle_lametro_4483,516,34.1007,-118.25912,4
+Red Lion Tavern,$$,4.0,1811.0,bcycle_lametro_4483,157,34.1007,-118.25912,4
+Rick's Drive In and OUT,$$,0.0,0.0,bcycle_lametro_4483,651,34.1007,-118.25912,4
+Salazar,$$,3.5,1170.0,bcycle_lametro_4483,873,34.1007,-118.25912,4
+Zebulon Café Concert,$$,0.0,0.0,bcycle_lametro_4483,834,34.1007,-118.25912,4
+Burrata House,$$,4.5,571.0,bcycle_lametro_4572,40,34.02948,-118.41047,6
+C&M Cafe,$$,4.0,576.0,bcycle_lametro_4572,428,34.02948,-118.41047,6
+Coffee Commissary,$$,0.0,0.0,bcycle_lametro_4572,254,34.02948,-118.41047,6
+Lobster & Beer,$$,4.0,1120.0,bcycle_lametro_4572,341,34.02948,-118.41047,6
+Lokal Sandwich Shop,$$,4.5,466.0,bcycle_lametro_4572,134,34.02948,-118.41047,6
+N/Naka,$$,0.0,0.0,bcycle_lametro_4572,505,34.02948,-118.41047,6
+Simpang Asia,$$,4.0,1995.0,bcycle_lametro_4572,125,34.02948,-118.41047,6
+The Garage,$$,0.0,0.0,bcycle_lametro_4572,212,34.02948,-118.41047,6
+The Irish Times Pub & Restaurant,$$,0.0,0.0,bcycle_lametro_4572,71,34.02948,-118.41047,6
+The Vegan Joint,$$,4.0,936.0,bcycle_lametro_4572,144,34.02948,-118.41047,6
+Buss Stop Bar,$$,0.0,0.0,bcycle_lametro_4300,924,34.04887,-118.2743,6
+Langer's,$$,0.0,0.0,bcycle_lametro_4300,860,34.04887,-118.2743,6
+Los Molcajetes,$$,0.0,0.0,bcycle_lametro_4300,501,34.04887,-118.2743,6
+Metropole Bar & Kitchen,$$,0.0,0.0,bcycle_lametro_4300,911,34.04887,-118.2743,6
+Monty Bar,$$,0.0,0.0,bcycle_lametro_4300,770,34.04887,-118.2743,6
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_4300,283,34.04887,-118.2743,6
+Seoul Garden Restaurant,$$,4.0,575.0,bcycle_lametro_4300,356,34.04887,-118.2743,6
+Shabuya,$$,4.0,865.0,bcycle_lametro_4300,452,34.04887,-118.2743,6
+Subway,$$,0.0,0.0,bcycle_lametro_4300,620,34.04887,-118.2743,6
+Yard House,$$,3.5,2947.0,bcycle_lametro_4300,859,34.04887,-118.2743,6
+Buss Stop Bar,$$,0.0,0.0,bcycle_lametro_4449,713,34.04557,-118.27419,7
+El Cholo,$$,0.0,0.0,bcycle_lametro_4449,963,34.04557,-118.27419,7
+Hyde Lounge La13299516,$$,0.0,0.0,bcycle_lametro_4449,711,34.04557,-118.27419,7
+It's Boba Time,$$,0.0,0.0,bcycle_lametro_4449,887,34.04557,-118.27419,7
+Monty Bar,$$,0.0,0.0,bcycle_lametro_4449,973,34.04557,-118.27419,7
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_4449,637,34.04557,-118.27419,7
+Seoul Garden Restaurant,$$,4.0,575.0,bcycle_lametro_4449,647,34.04557,-118.27419,7
+Shabuya,$$,4.0,865.0,bcycle_lametro_4449,742,34.04557,-118.27419,7
+The Palm Los Angeles,$$,0.0,0.0,bcycle_lametro_4449,1007,34.04557,-118.27419,7
+Yard House,$$,3.5,2947.0,bcycle_lametro_4449,762,34.04557,-118.27419,7
+C & O Cucina,$$,0.0,0.0,bcycle_lametro_4205,589,33.99377,-118.45367,6
+Deus Ex Machina Motorc,$$,0.0,0.0,bcycle_lametro_4205,95,33.99377,-118.45367,6
+Double Zero,$$,4.0,406.0,bcycle_lametro_4205,526,33.99377,-118.45367,6
+Firestone Walker - The Propagator,$$,0.0,0.0,bcycle_lametro_4205,632,33.99377,-118.45367,6
+In-N-Out Burger,$,4.0,745.0,bcycle_lametro_4205,729,33.99377,-118.45367,6
+Night + Market Sahm,$$,0.0,0.0,bcycle_lametro_4205,513,33.99377,-118.45367,6
+Old Lightning,$$,0.0,0.0,bcycle_lametro_4205,627,33.99377,-118.45367,6
+Scopa Italian Roots,$$$,4.0,1489.0,bcycle_lametro_4205,620,33.99377,-118.45367,6
+Superba Food + Bread,$$,4.0,1069.0,bcycle_lametro_4205,376,33.99377,-118.45367,6
+The Lincoln,$$,0.0,0.0,bcycle_lametro_4205,545,33.99377,-118.45367,6
+C & O Cucina,$$,0.0,0.0,bcycle_lametro_4204,149,33.98842,-118.45163,9
+Deus Ex Machina Motorc,$$,0.0,0.0,bcycle_lametro_4204,672,33.98842,-118.45163,9
+Firestone Walker - The Propagator,$$,0.0,0.0,bcycle_lametro_4204,315,33.98842,-118.45163,9
+In-N-Out Burger,$,4.0,745.0,bcycle_lametro_4204,616,33.98842,-118.45163,9
+Night + Market Sahm,$$,0.0,0.0,bcycle_lametro_4204,432,33.98842,-118.45163,9
+Nueva,$$,4.0,253.0,bcycle_lametro_4204,27,33.98842,-118.45163,9
+Scopa Italian Roots,$$$,4.0,1489.0,bcycle_lametro_4204,9,33.98842,-118.45163,9
+Sinners & Saints Desserts,$$,0.0,0.0,bcycle_lametro_4204,411,33.98842,-118.45163,9
+The Lincoln,$$,0.0,0.0,bcycle_lametro_4204,452,33.98842,-118.45163,9
+The Little Friend,$$,0.0,0.0,bcycle_lametro_4204,38,33.98842,-118.45163,9
+C&M Cafe,$$,0.0,0.0,bcycle_lametro_4576,729,34.02258,-118.40551,6
+Conservatory for Coffee Tea & Coca,$$,0.0,0.0,bcycle_lametro_4576,600,34.02258,-118.40551,6
+Gloria's Cafe,$$,4.0,1732.0,bcycle_lametro_4576,287,34.02258,-118.40551,6
+Go Get Em Tiger,$$,0.0,0.0,bcycle_lametro_4576,706,34.02258,-118.40551,6
+Mayura Indian Restaurant,$$,4.0,1521.0,bcycle_lametro_4576,320,34.02258,-118.40551,6
+N/Naka,$$,0.0,0.0,bcycle_lametro_4576,678,34.02258,-118.40551,6
+Pampas Grill,$$,0.0,0.0,bcycle_lametro_4576,634,34.02258,-118.40551,6
+Robeks Fresh Juices & Smoothies,$$,0.0,0.0,bcycle_lametro_4576,589,34.02258,-118.40551,6
+Super Domestic Coffee,$$,0.0,0.0,bcycle_lametro_4576,775,34.02258,-118.40551,6
+Versailles Cuban Restaurant,$$,0.0,0.0,bcycle_lametro_4576,250,34.02258,-118.40551,6
+C&M Cafe,$$,0.0,0.0,bcycle_lametro_4568,913,34.02912,-118.40317,6
+Cerveteca Taco & Torta Joint,$$,0.0,0.0,bcycle_lametro_4568,852,34.02912,-118.40317,6
+Coffee Commissary,$$,0.0,0.0,bcycle_lametro_4568,604,34.02912,-118.40317,6
+Conservatory for Coffee Tea & Coca,$$,0.0,0.0,bcycle_lametro_4568,999,34.02912,-118.40317,6
+In-N-Out Burger,$$,0.0,0.0,bcycle_lametro_4568,888,34.02912,-118.40317,6
+N/Naka,$$,0.0,0.0,bcycle_lametro_4568,939,34.02912,-118.40317,6
+Simpang Asia,$$,4.0,1995.0,bcycle_lametro_4568,787,34.02912,-118.40317,6
+Tender Greens,$$,4.0,2211.0,bcycle_lametro_4568,973,34.02912,-118.40317,6
+Versailles Cuban Restaurant,$$,0.0,0.0,bcycle_lametro_4568,897,34.02912,-118.40317,6
+Zooies,$$,0.0,0.0,bcycle_lametro_4568,386,34.02912,-118.40317,6
+C&M Cafe,$$,4.0,576.0,bcycle_lametro_4569,361,34.02655,-118.40846,4
+Coffee Commissary,$$,0.0,0.0,bcycle_lametro_4569,124,34.02655,-118.40846,4
+Gloria's Cafe,$$,4.0,1732.0,bcycle_lametro_4569,774,34.02655,-118.40846,4
+Lobster & Beer,$$,4.0,1120.0,bcycle_lametro_4569,33,34.02655,-118.40846,4
+N/Naka,$$,0.0,0.0,bcycle_lametro_4569,376,34.02655,-118.40846,4
+Simpang Asia,$$,4.0,1995.0,bcycle_lametro_4569,408,34.02655,-118.40846,4
+The Doughroom,$$,4.0,803.0,bcycle_lametro_4569,408,34.02655,-118.40846,4
+The Garage,$$,0.0,0.0,bcycle_lametro_4569,181,34.02655,-118.40846,4
+The Irish Times Pub & Restaurant,$$,0.0,0.0,bcycle_lametro_4569,431,34.02655,-118.40846,4
+Versailles Cuban Restaurant,$$,0.0,0.0,bcycle_lametro_4569,762,34.02655,-118.40846,4
+C&M Cafe,$$,4.0,576.0,bcycle_lametro_4571,221,34.02765,-118.41356,6
+Coffee Commissary,$$,0.0,0.0,bcycle_lametro_4571,386,34.02765,-118.41356,6
+Lobster & Beer,$$,4.0,1120.0,bcycle_lametro_4571,464,34.02765,-118.41356,6
+Mr. Sate,$$,4.5,327.0,bcycle_lametro_4571,475,34.02765,-118.41356,6
+N/Naka,$$,0.0,0.0,bcycle_lametro_4571,303,34.02765,-118.41356,6
+Simpang Asia,$$,4.0,1995.0,bcycle_lametro_4571,228,34.02765,-118.41356,6
+The Doughroom,$$,4.0,803.0,bcycle_lametro_4571,246,34.02765,-118.41356,6
+The Garage,$$,0.0,0.0,bcycle_lametro_4571,332,34.02765,-118.41356,6
+The Irish Times Pub & Restaurant,$$,0.0,0.0,bcycle_lametro_4571,315,34.02765,-118.41356,6
+The Vegan Joint,$$,4.0,936.0,bcycle_lametro_4571,207,34.02765,-118.41356,6
+Cafe Dulce,$$,0.0,0.0,bcycle_lametro_3081,839,34.03189,-118.25018,8
+Dama,$$,0.0,0.0,bcycle_lametro_3081,460,34.03189,-118.25018,8
+Hayato,$$$$,4.5,112.0,bcycle_lametro_3081,817,34.03189,-118.25018,8
+King Taco Restaurant,$$,0.0,0.0,bcycle_lametro_3081,800,34.03189,-118.25018,8
+Pikunico,$$,0.0,0.0,bcycle_lametro_3081,975,34.03189,-118.25018,8
+Poppy + Rose,$$,4.0,3063.0,bcycle_lametro_3081,964,34.03189,-118.25018,8
+Rapp Bar Dtla,$$,0.0,0.0,bcycle_lametro_3081,871,34.03189,-118.25018,8
+Rossoblu,$$$,4.0,782.0,bcycle_lametro_3081,456,34.03189,-118.25018,8
+Santee Falafel,$$,0.0,0.0,bcycle_lametro_3081,856,34.03189,-118.25018,8
+Smorgasburg Los Angeles,$$,0.0,0.0,bcycle_lametro_3081,833,34.03189,-118.25018,8
+Cafe Gratitude,$$,4.0,1647.0,bcycle_lametro_4208,96,33.99868,-118.47298,9
+Chulita,$$,4.0,467.0,bcycle_lametro_4208,23,33.99868,-118.47298,9
+Flake,$$,4.5,1249.0,bcycle_lametro_4208,76,33.99868,-118.47298,9
+Groundwork Coffee Company,$$,0.0,0.0,bcycle_lametro_4208,313,33.99868,-118.47298,9
+Jeni's Splendid Ice Creams,$$,0.0,0.0,bcycle_lametro_4208,20,33.99868,-118.47298,9
+Moon Juice,$$,0.0,0.0,bcycle_lametro_4208,92,33.99868,-118.47298,9
+The Win-Dow at American Beauty,$,4.5,530.0,bcycle_lametro_4208,130,33.99868,-118.47298,9
+Venice Beach Wines,$$,0.0,0.0,bcycle_lametro_4208,17,33.99868,-118.47298,9
+Wabi on Rose,$$$,4.0,480.0,bcycle_lametro_4208,47,33.99868,-118.47298,9
+Wallflower,$$,0.0,0.0,bcycle_lametro_4208,129,33.99868,-118.47298,9
+Cafecito Organico,$$,0.0,0.0,bcycle_lametro_4453,240,34.08265,-118.28439,1
+California Grill,$$,0.0,0.0,bcycle_lametro_4453,419,34.08265,-118.28439,1
+Dayglow,$$,0.0,0.0,bcycle_lametro_4453,923,34.08265,-118.28439,1
+FrankieLucy Bakeshop,$$,0.0,0.0,bcycle_lametro_4453,935,34.08265,-118.28439,1
+Jewel,$$,4.5,338.0,bcycle_lametro_4453,47,34.08265,-118.28439,1
+Melody,$$,0.0,0.0,bcycle_lametro_4453,335,34.08265,-118.28439,1
+Muddy Paw Coffee Company,$$,0.0,0.0,bcycle_lametro_4453,920,34.08265,-118.28439,1
+Night + Market Song,$$,4.0,1211.0,bcycle_lametro_4453,927,34.08265,-118.28439,1
+Sqirl,$$,4.0,2256.0,bcycle_lametro_4453,303,34.08265,-118.28439,1
+The Thirsty Crow,$$,0.0,0.0,bcycle_lametro_4453,981,34.08265,-118.28439,1
+Cafecito Organico,$$,0.0,0.0,bcycle_lametro_4473,1005,34.07159,-118.28229,5
+Crawfords,$$,0.0,0.0,bcycle_lametro_4473,524,34.07159,-118.28229,5
+Dollar Hits,$,4.0,571.0,bcycle_lametro_4473,863,34.07159,-118.28229,5
+Doubting Thomas,$$,4.0,396.0,bcycle_lametro_4473,830,34.07159,-118.28229,5
+Genever,$$,0.0,0.0,bcycle_lametro_4473,100,34.07159,-118.28229,5
+Las Glorias del Buen Comer,$$,0.0,0.0,bcycle_lametro_4473,870,34.07159,-118.28229,5
+Original Tommy's,$,4.0,1465.0,bcycle_lametro_4473,587,34.07159,-118.28229,5
+Sea Dragon Chinese Restaurant,$,4.0,483.0,bcycle_lametro_4473,902,34.07159,-118.28229,5
+Shibucho,$$,0.0,0.0,bcycle_lametro_4473,73,34.07159,-118.28229,5
+Yuk Dae Jang,$$,4.5,708.0,bcycle_lametro_4473,996,34.07159,-118.28229,5
+Cafecito Organico,$$,0.0,0.0,bcycle_lametro_4401,882,34.07561,-118.29186,3
+California Donut,$$,0.0,0.0,bcycle_lametro_4401,747,34.07561,-118.29186,3
+Genever,$$,0.0,0.0,bcycle_lametro_4401,910,34.07561,-118.29186,3
+Go Pocha 고포차,$$,0.0,0.0,bcycle_lametro_4401,964,34.07561,-118.29186,3
+Guatemalteca Bakery,$$,0.0,0.0,bcycle_lametro_4401,494,34.07561,-118.29186,3
+Jollibee,$,3.0,552.0,bcycle_lametro_4401,147,34.07561,-118.29186,3
+Sea Dragon Chinese Restaurant,$,4.0,483.0,bcycle_lametro_4401,333,34.07561,-118.29186,3
+Shatto 39 Lanes,$$,0.0,0.0,bcycle_lametro_4401,918,34.07561,-118.29186,3
+Sizzler,$$,0.0,0.0,bcycle_lametro_4401,961,34.07561,-118.29186,3
+Starbucks,$$,0.0,0.0,bcycle_lametro_4401,537,34.07561,-118.29186,3
+California Bowl,$$,0.0,0.0,bcycle_lametro_4513,434,34.08371,-118.29602,10
+California Grill,$$,0.0,0.0,bcycle_lametro_4513,897,34.08371,-118.29602,10
+DeSano Pizza Bakery,$$,4.5,1629.0,bcycle_lametro_4513,822,34.08371,-118.29602,10
+Guatemalteca Bakery,$$,0.0,0.0,bcycle_lametro_4513,829,34.08371,-118.29602,10
+Lutong Bahay,$$,0.0,0.0,bcycle_lametro_4513,792,34.08371,-118.29602,10
+Marouch Lebanese Restaurant,$$,0.0,0.0,bcycle_lametro_4513,828,34.08371,-118.29602,10
+Melody,$$,0.0,0.0,bcycle_lametro_4513,835,34.08371,-118.29602,10
+Prael,$,4.0,266.0,bcycle_lametro_4513,471,34.08371,-118.29602,10
+Spicy BBQ Restaurant,$$,4.5,613.0,bcycle_lametro_4513,921,34.08371,-118.29602,10
+Sqirl,$$,4.0,2256.0,bcycle_lametro_4513,849,34.08371,-118.29602,10
+California Chicken Cafe,$$,0.0,0.0,bcycle_lametro_4207,304,34.00088,-118.46891,11
+Camp Pho,$$,0.0,0.0,bcycle_lametro_4207,442,34.00088,-118.46891,11
+Casablanca Restaurant,$$,4.0,1053.0,bcycle_lametro_4207,110,34.00088,-118.46891,11
+Chicas Tacos,$$,0.0,0.0,bcycle_lametro_4207,108,34.00088,-118.46891,11
+Groundwork Coffee Company,$$,0.0,0.0,bcycle_lametro_4207,134,34.00088,-118.46891,11
+Jeni's Splendid Ice Creams,$$,0.0,0.0,bcycle_lametro_4207,463,34.00088,-118.46891,11
+La Cabaña Restaurant,$$,0.0,0.0,bcycle_lametro_4207,72,34.00088,-118.46891,11
+Wallflower,$$,0.0,0.0,bcycle_lametro_4207,319,34.00088,-118.46891,11
+Wanderlust Creamery,$$,0.0,0.0,bcycle_lametro_4207,340,34.00088,-118.46891,11
+Wurstküche,$$,0.0,0.0,bcycle_lametro_4207,389,34.00088,-118.46891,11
+California Chicken Cafe,$$,0.0,0.0,bcycle_lametro_4206,489,33.99834,-118.46101,16
+Camp Pho,$$,0.0,0.0,bcycle_lametro_4206,338,33.99834,-118.46101,16
+Clutch Roadhouse,$$,0.0,0.0,bcycle_lametro_4206,515,33.99834,-118.46101,16
+Double Zero,$$,4.0,406.0,bcycle_lametro_4206,323,33.99834,-118.46101,16
+El Pollo Loco,$$,0.0,0.0,bcycle_lametro_4206,85,33.99834,-118.46101,16
+Groundwork Coffee Company,$$,0.0,0.0,bcycle_lametro_4206,868,33.99834,-118.46101,16
+Superba Food + Bread,$$,4.0,1069.0,bcycle_lametro_4206,479,33.99834,-118.46101,16
+Tacos El Primo,$$,0.0,0.0,bcycle_lametro_4206,138,33.99834,-118.46101,16
+Wanderlust Creamery,$$,0.0,0.0,bcycle_lametro_4206,440,33.99834,-118.46101,16
+Wurstküche,$$,0.0,0.0,bcycle_lametro_4206,392,33.99834,-118.46101,16
+California Donut,$$,0.0,0.0,bcycle_lametro_4390,321,34.06927,-118.29659,9
+Cassell's Hamburgers,$$,4.0,1805.0,bcycle_lametro_4390,739,34.06927,-118.29659,9
+Chunju Han-il Kwan,$$,0.0,0.0,bcycle_lametro_4390,668,34.06927,-118.29659,9
+Hangari Bajirak Kalguksoo,$$,0.0,0.0,bcycle_lametro_4390,702,34.06927,-118.29659,9
+Kang Ho Dong Baek Jeong,$$,0.0,0.0,bcycle_lametro_4390,608,34.06927,-118.29659,9
+Quarters Korean BBQ,$$,4.0,3463.0,bcycle_lametro_4390,598,34.06927,-118.29659,9
+SPL Coffee,$$,0.0,0.0,bcycle_lametro_4390,514,34.06927,-118.29659,9
+Seongbukdong,$$,0.0,0.0,bcycle_lametro_4390,636,34.06927,-118.29659,9
+Sharp Specialty Coffee,$$,0.0,0.0,bcycle_lametro_4390,630,34.06927,-118.29659,9
+The Normandie Club,$$,0.0,0.0,bcycle_lametro_4390,758,34.06927,-118.29659,9
+California Pizza Kitchen,$$,0.0,0.0,bcycle_lametro_4517,112,34.10196,-118.33885,0
+Escape Hotel Hollywood,$$,0.0,0.0,bcycle_lametro_4517,385,34.10196,-118.33885,0
+Hard Rock Cafe,$$,0.0,0.0,bcycle_lametro_4517,162,34.10196,-118.33885,0
+In-N-Out Burger,$,4.0,1845.0,bcycle_lametro_4517,484,34.10196,-118.33885,0
+L'Antica Pizzeria Da Michele,$$$,4.5,1686.0,bcycle_lametro_4517,346,34.10196,-118.33885,0
+Lucky Strike,$$,0.0,0.0,bcycle_lametro_4517,34,34.10196,-118.33885,0
+Musso & Frank Grill,$$$,4.0,2070.0,bcycle_lametro_4517,320,34.10196,-118.33885,0
+No Vacancy,$$,0.0,0.0,bcycle_lametro_4517,587,34.10196,-118.33885,0
+The Magic Castle,$$$$,4.0,2607.0,bcycle_lametro_4517,383,34.10196,-118.33885,0
+Yamashiro,$$,0.0,0.0,bcycle_lametro_4517,513,34.10196,-118.33885,0
+California Pizza Kitchen,$$,0.0,0.0,bcycle_lametro_4527,202,34.102,-118.33741,9
+Escape Hotel Hollywood,$$,0.0,0.0,bcycle_lametro_4527,253,34.102,-118.33741,9
+Hard Rock Cafe,$$,0.0,0.0,bcycle_lametro_4527,294,34.102,-118.33741,9
+In-N-Out Burger,$,4.0,1845.0,bcycle_lametro_4527,570,34.102,-118.33741,9
+Jameson's Irish Pub,$$,0.0,0.0,bcycle_lametro_4527,142,34.102,-118.33741,9
+Joe's Pizza,$$,0.0,0.0,bcycle_lametro_4527,562,34.102,-118.33741,9
+L'Antica Pizzeria Da Michele,$$$,4.5,1686.0,bcycle_lametro_4527,326,34.102,-118.33741,9
+Musso & Frank Grill,$$$,4.0,2070.0,bcycle_lametro_4527,189,34.102,-118.33741,9
+No Vacancy,$$,0.0,0.0,bcycle_lametro_4527,455,34.102,-118.33741,9
+The Magic Castle,$$$$,4.0,2607.0,bcycle_lametro_4527,480,34.102,-118.33741,9
+Catalina Bar & Grill,$$,0.0,0.0,bcycle_lametro_4537,124,34.09823,-118.33882,17
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_4537,74,34.09823,-118.33882,17
+Escape Hotel Hollywood,$$,0.0,0.0,bcycle_lametro_4537,544,34.09823,-118.33882,17
+Fat Sal's Deli Hollywood,$$,0.0,0.0,bcycle_lametro_4537,415,34.09823,-118.33882,17
+In-N-Out Burger,$,4.0,1845.0,bcycle_lametro_4537,262,34.09823,-118.33882,17
+L'Antica Pizzeria Da Michele,$$$,4.5,1686.0,bcycle_lametro_4537,156,34.09823,-118.33882,17
+Luv2Eat Thai Bistro,$$,4.0,1178.0,bcycle_lametro_4537,278,34.09823,-118.33882,17
+Musso & Frank Grill,$$$,4.0,2070.0,bcycle_lametro_4537,503,34.09823,-118.33882,17
+Tacos El Gavilan,$$,0.0,0.0,bcycle_lametro_4537,462,34.09823,-118.33882,17
+Tocaya Organica - Hollywood,$$,0.0,0.0,bcycle_lametro_4537,526,34.09823,-118.33882,17
+Cava,$$,4.0,341.0,bcycle_lametro_4250,664,34.03017,-118.28095,7
+Dulce,$,4.5,333.0,bcycle_lametro_4250,669,34.03017,-118.28095,7
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4250,661,34.03017,-118.28095,7
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4250,601,34.03017,-118.28095,7
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4250,565,34.03017,-118.28095,7
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4250,546,34.03017,-118.28095,7
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4250,536,34.03017,-118.28095,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_4250,522,34.03017,-118.28095,7
+Study Hall,$$,0.0,0.0,bcycle_lametro_4250,357,34.03017,-118.28095,7
+USC University Club,$$,0.0,0.0,bcycle_lametro_4250,875,34.03017,-118.28095,7
+Cava,$$,4.0,341.0,bcycle_lametro_4267,461,34.02762,-118.28068,6
+Dulce,$,4.5,333.0,bcycle_lametro_4267,493,34.02762,-118.28068,6
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4267,407,34.02762,-118.28068,6
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4267,457,34.02762,-118.28068,6
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4267,533,34.02762,-118.28068,6
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4267,815,34.02762,-118.28068,6
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4267,469,34.02762,-118.28068,6
+Starbucks,$$,0.0,0.0,bcycle_lametro_4267,448,34.02762,-118.28068,6
+USC University Club,$$,0.0,0.0,bcycle_lametro_4267,614,34.02762,-118.28068,6
+Cava,$$,4.0,341.0,bcycle_lametro_4248,530,34.02835,-118.28867,9
+Dulce,$,4.5,333.0,bcycle_lametro_4248,459,34.02835,-118.28867,9
+Kobunga,$$,0.0,0.0,bcycle_lametro_4248,476,34.02835,-118.28867,9
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4248,814,34.02835,-118.28867,9
+Olympian Burgers,$,4.0,338.0,bcycle_lametro_4248,355,34.02835,-118.28867,9
+Rock & Reillys Usc,$$,0.0,0.0,bcycle_lametro_4248,612,34.02835,-118.28867,9
+Seeds Marketplace,$$,0.0,0.0,bcycle_lametro_4248,901,34.02835,-118.28867,9
+Study Hall,$$,0.0,0.0,bcycle_lametro_4248,402,34.02835,-118.28867,9
+Tacos El Unico,$$,0.0,0.0,bcycle_lametro_4248,568,34.02835,-118.28867,9
+USC University Club,$$,0.0,0.0,bcycle_lametro_4248,814,34.02835,-118.28867,9
+Cava,$$,4.0,341.0,bcycle_lametro_4254,411,34.02868,-118.28411,3
+Dulce,$,4.5,333.0,bcycle_lametro_4254,387,34.02868,-118.28411,3
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4254,719,34.02868,-118.28411,3
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4254,791,34.02868,-118.28411,3
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4254,834,34.02868,-118.28411,3
+Nature's Brew,$$,4.0,661.0,bcycle_lametro_4254,644,34.02868,-118.28411,3
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4254,782,34.02868,-118.28411,3
+Study Hall,$$,4.0,168.0,bcycle_lametro_4254,22,34.02868,-118.28411,3
+Tacos El Unico,$$,0.0,0.0,bcycle_lametro_4254,812,34.02868,-118.28411,3
+USC University Club,$$,0.0,0.0,bcycle_lametro_4254,687,34.02868,-118.28411,3
+Chichen Itza Restaurant,$$,4.5,1375.0,bcycle_lametro_4275,878,34.01252,-118.2859,8
+Chick-Fil-A,$$,0.0,0.0,bcycle_lametro_4275,550,34.01252,-118.2859,8
+Figueroa Philly Cheesesteak,$$,0.0,0.0,bcycle_lametro_4275,369,34.01252,-118.2859,8
+Free Play,$$,0.0,0.0,bcycle_lametro_4275,78,34.01252,-118.2859,8
+Holbox,$$,5.0,729.0,bcycle_lametro_4275,883,34.01252,-118.2859,8
+Moreton Fig,$$,0.0,0.0,bcycle_lametro_4275,806,34.01252,-118.2859,8
+Seeds Marketplace,$$,0.0,0.0,bcycle_lametro_4275,892,34.01252,-118.2859,8
+Starbucks,$$,0.0,0.0,bcycle_lametro_4275,768,34.01252,-118.2859,8
+Subway,$$,0.0,0.0,bcycle_lametro_4275,668,34.01252,-118.2859,8
+Thai Corner Food Express,$,3.0,260.0,bcycle_lametro_4275,877,34.01252,-118.2859,8
+Chinese Delight,$,3.5,466.0,bcycle_lametro_4600,148,34.17765,-118.38231,7
+In-N-Out Burger,$,3.5,385.0,bcycle_lametro_4600,61,34.17765,-118.38231,7
+Little Caesars Pizza,$$,0.0,0.0,bcycle_lametro_4600,473,34.17765,-118.38231,7
+Los Burritos,$$,0.0,0.0,bcycle_lametro_4600,716,34.17765,-118.38231,7
+Mofongos,$$,4.0,1092.0,bcycle_lametro_4600,268,34.17765,-118.38231,7
+Pizza Hut,$$,0.0,0.0,bcycle_lametro_4600,133,34.17765,-118.38231,7
+Starbucks,$$,0.0,0.0,bcycle_lametro_4600,513,34.17765,-118.38231,7
+Tacos Manzano,$$,4.0,507.0,bcycle_lametro_4600,953,34.17765,-118.38231,7
+Yoshinoya,$$,0.0,0.0,bcycle_lametro_4600,457,34.17765,-118.38231,7
+Yum-Yum Donuts,$$,0.0,0.0,bcycle_lametro_4600,253,34.17765,-118.38231,7
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_4606,333,34.16863,-118.37707,5
+Eat,$$,0.0,0.0,bcycle_lametro_4606,567,34.16863,-118.37707,5
+Firehouse Subs,$$,0.0,0.0,bcycle_lametro_4606,727,34.16863,-118.37707,5
+Groundwork Coffee Co.,$$,0.0,0.0,bcycle_lametro_4606,48,34.16863,-118.37707,5
+Ono Hawaiian BBQ,$$,0.0,0.0,bcycle_lametro_4606,176,34.16863,-118.37707,5
+Pit Fire Pizza Co.,$$,0.0,0.0,bcycle_lametro_4606,432,34.16863,-118.37707,5
+Republic of Pie,$$,0.0,0.0,bcycle_lametro_4606,559,34.16863,-118.37707,5
+Teapop,$$,0.0,0.0,bcycle_lametro_4606,931,34.16863,-118.37707,5
+The Fat Dog,$$,4.0,723.0,bcycle_lametro_4606,616,34.16863,-118.37707,5
+The Federal,$$,3.5,1855.0,bcycle_lametro_4606,182,34.16863,-118.37707,5
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_4549,68,34.02245,-118.43833,9
+Galbi King,$$,3.5,705.0,bcycle_lametro_4549,821,34.02245,-118.43833,9
+Hiko Sushi,$$$,4.0,408.0,bcycle_lametro_4549,799,34.02245,-118.43833,9
+New York Bagel & Deli,$$,0.0,0.0,bcycle_lametro_4549,62,34.02245,-118.43833,9
+Oops! Sushi & Sake Bar,$$,4.0,717.0,bcycle_lametro_4549,850,34.02245,-118.43833,9
+Primo's Donuts,$$,0.0,0.0,bcycle_lametro_4549,785,34.02245,-118.43833,9
+Ramenya,$$,4.0,524.0,bcycle_lametro_4549,842,34.02245,-118.43833,9
+Starbucks,$$,0.0,0.0,bcycle_lametro_4549,50,34.02245,-118.43833,9
+Tokyo Kalbi,$$$,4.0,162.0,bcycle_lametro_4549,830,34.02245,-118.43833,9
+Chipotle Mexican Grill,$$,0.0,0.0,bcycle_lametro_4598,72,34.16552,-118.37515,5
+Eat,$$,0.0,0.0,bcycle_lametro_4598,223,34.16552,-118.37515,5
+Firehouse Subs,$$,0.0,0.0,bcycle_lametro_4598,339,34.16552,-118.37515,5
+Groundwork Coffee Co.,$$,0.0,0.0,bcycle_lametro_4598,385,34.16552,-118.37515,5
+Kahuna Tiki,$$,4.0,820.0,bcycle_lametro_4598,336,34.16552,-118.37515,5
+Pit Fire Pizza Co.,$$,0.0,0.0,bcycle_lametro_4598,45,34.16552,-118.37515,5
+Republic of Pie,$$,0.0,0.0,bcycle_lametro_4598,201,34.16552,-118.37515,5
+Teapop,$$,0.0,0.0,bcycle_lametro_4598,570,34.16552,-118.37515,5
+The Fat Dog,$$,4.0,723.0,bcycle_lametro_4598,285,34.16552,-118.37515,5
+The Federal,$$,3.5,1855.0,bcycle_lametro_4598,206,34.16552,-118.37515,5
+Chosun Galbee,$$$,4.0,1816.0,bcycle_lametro_4456,761,34.05243,-118.30202,7
+Eight Korean BBQ,$$$,4.5,1765.0,bcycle_lametro_4456,819,34.05243,-118.30202,7
+Guelaguetza,$$,0.0,0.0,bcycle_lametro_4456,109,34.05243,-118.30202,7
+Magal BBQ,$$$,4.5,1763.0,bcycle_lametro_4456,660,34.05243,-118.30202,7
+Mapo Galbi,$$,0.0,0.0,bcycle_lametro_4456,64,34.05243,-118.30202,7
+Papa Cristo's,$$,4.5,2158.0,bcycle_lametro_4456,602,34.05243,-118.30202,7
+Park's BBQ,$$$,4.0,2065.0,bcycle_lametro_4456,946,34.05243,-118.30202,7
+Surawon Tofu House,$$,0.0,0.0,bcycle_lametro_4456,602,34.05243,-118.30202,7
+Taylor's Steakhouse,$$,0.0,0.0,bcycle_lametro_4456,605,34.05243,-118.30202,7
+Yu Chun Chic Naeng Myun,$$,0.0,0.0,bcycle_lametro_4456,364,34.05243,-118.30202,7
+Clark Street Diner,$$,0.0,0.0,bcycle_lametro_4477,231,34.10385,-118.32546,10
+Dunkin',$$,0.0,0.0,bcycle_lametro_4477,212,34.10385,-118.32546,10
+Good Times at Davey Wayne's,$$,3.5,1408.0,bcycle_lametro_4477,430,34.10385,-118.32546,10
+Hotel Cafe,$$,0.0,0.0,bcycle_lametro_4477,537,34.10385,-118.32546,10
+Kettle Glazed Doughnuts,$$,0.0,0.0,bcycle_lametro_4477,195,34.10385,-118.32546,10
+Lost Property,$$,0.0,0.0,bcycle_lametro_4477,229,34.10385,-118.32546,10
+Mojo Hookah Lounge,$$,0.0,0.0,bcycle_lametro_4477,284,34.10385,-118.32546,10
+No Vacancy,$$,0.0,0.0,bcycle_lametro_4477,669,34.10385,-118.32546,10
+Shake Shack,$$,0.0,0.0,bcycle_lametro_4477,263,34.10385,-118.32546,10
+Stout,$$,0.0,0.0,bcycle_lametro_4477,593,34.10385,-118.32546,10
+Coffee Tomo,$$,0.0,0.0,bcycle_lametro_4515,56,34.03974,-118.44227,7
+Hide Sushi,$$,0.0,0.0,bcycle_lametro_4515,71,34.03974,-118.44227,7
+Killer Noodle,$$,0.0,0.0,bcycle_lametro_4515,81,34.03974,-118.44227,7
+Marugame Udon,$$,0.0,0.0,bcycle_lametro_4515,81,34.03974,-118.44227,7
+Millet Crepe,$,4.5,1091.0,bcycle_lametro_4515,137,34.03974,-118.44227,7
+SomiSomi,$$,0.0,0.0,bcycle_lametro_4515,69,34.03974,-118.44227,7
+Teaspoon,$$,0.0,0.0,bcycle_lametro_4515,210,34.03974,-118.44227,7
+Tsujita Annex,$$,0.0,0.0,bcycle_lametro_4515,45,34.03974,-118.44227,7
+Tsujita LA Artisan Noodles,$$,0.0,0.0,bcycle_lametro_4515,32,34.03974,-118.44227,7
+Wanderlust Creamery,$$,0.0,0.0,bcycle_lametro_4515,66,34.03974,-118.44227,7
+Cole's French Dip,$$,3.5,2297.0,bcycle_lametro_3077,558,34.03987,-118.25004,3
+Dama,$$,0.0,0.0,bcycle_lametro_3077,594,34.03987,-118.25004,3
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_3077,739,34.03987,-118.25004,3
+Poppy + Rose,$$,4.0,3063.0,bcycle_lametro_3077,77,34.03987,-118.25004,3
+Shibumi,$$,0.0,0.0,bcycle_lametro_3077,738,34.03987,-118.25004,3
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_3077,276,34.03987,-118.25004,3
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3077,687,34.03987,-118.25004,3
+The Varnish,$$,0.0,0.0,bcycle_lametro_3077,557,34.03987,-118.25004,3
+Upstairs Rooftop Lounge at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3077,670,34.03987,-118.25004,3
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3077,487,34.03987,-118.25004,3
+Cole's French Dip,$$,3.5,2297.0,bcycle_lametro_3031,272,34.0447,-118.25244,13
+Donut Friend,$$,0.0,0.0,bcycle_lametro_3031,284,34.0447,-118.25244,13
+Guisados DTLA,$,4.5,2035.0,bcycle_lametro_3031,263,34.0447,-118.25244,13
+LA Café,$$,3.5,2158.0,bcycle_lametro_3031,61,34.0447,-118.25244,13
+Nickel Diner,$$,4.0,2533.0,bcycle_lametro_3031,347,34.0447,-118.25244,13
+Shibumi,$$,0.0,0.0,bcycle_lametro_3031,338,34.0447,-118.25244,13
+Sonoratown,$$,4.5,1724.0,bcycle_lametro_3031,337,34.0447,-118.25244,13
+The Theatre at Ace Hotel,$$,0.0,0.0,bcycle_lametro_3031,512,34.0447,-118.25244,13
+The Varnish,$$,0.0,0.0,bcycle_lametro_3031,265,34.0447,-118.25244,13
+Verve Coffee Roasters,$$,0.0,0.0,bcycle_lametro_3031,337,34.0447,-118.25244,13
+Conservatory for Coffee Tea & Coca,$$,0.0,0.0,bcycle_lametro_4567,428,34.02018,-118.40403,6
+Gloria's Cafe,$$,4.0,1732.0,bcycle_lametro_4567,192,34.02018,-118.40403,6
+Go Get Em Tiger,$$,0.0,0.0,bcycle_lametro_4567,533,34.02018,-118.40403,6
+Mayura Indian Restaurant,$$,4.0,1521.0,bcycle_lametro_4567,24,34.02018,-118.40403,6
+N/Naka,$$,0.0,0.0,bcycle_lametro_4567,933,34.02018,-118.40403,6
+Oldfield's Liquor Room,$$,0.0,0.0,bcycle_lametro_4567,840,34.02018,-118.40403,6
+Pampas Grill,$$,0.0,0.0,bcycle_lametro_4567,427,34.02018,-118.40403,6
+Robeks Fresh Juices & Smoothies,$$,0.0,0.0,bcycle_lametro_4567,373,34.02018,-118.40403,6
+Super Domestic Coffee,$$,0.0,0.0,bcycle_lametro_4567,575,34.02018,-118.40403,6
+Versailles Cuban Restaurant,$$,0.0,0.0,bcycle_lametro_4567,107,34.02018,-118.40403,6
+Continental Kosher Bakery,$$,0.0,0.0,bcycle_lametro_4596,836,34.16833,-118.39616,3
+Golden Chopsticks,$,4.0,242.0,bcycle_lametro_4596,351,34.16833,-118.39616,3
+Harvest Moon Restaurant & Marketplace,$$,0.0,0.0,bcycle_lametro_4596,897,34.16833,-118.39616,3
+Kulak's Woodshed,$$,0.0,0.0,bcycle_lametro_4596,283,34.16833,-118.39616,3
+Noodle Monster,$$,4.0,686.0,bcycle_lametro_4596,331,34.16833,-118.39616,3
+Original Tommy's,$$,0.0,0.0,bcycle_lametro_4596,453,34.16833,-118.39616,3
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4596,469,34.16833,-118.39616,3
+Shakey's Pizza,$$,0.0,0.0,bcycle_lametro_4596,117,34.16833,-118.39616,3
+Starbucks,$$,0.0,0.0,bcycle_lametro_4596,381,34.16833,-118.39616,3
+Teya Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4596,103,34.16833,-118.39616,3
+Cow Cafe,$$,4.5,173.0,bcycle_lametro_3020,897,34.03105,-118.26709,9
+Etchea,$$,0.0,0.0,bcycle_lametro_3020,612,34.03105,-118.26709,9
+First Draft,$$,0.0,0.0,bcycle_lametro_3020,890,34.03105,-118.26709,9
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_3020,929,34.03105,-118.26709,9
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_3020,775,34.03105,-118.26709,9
+King Taco Restaurant,$$,0.0,0.0,bcycle_lametro_3020,943,34.03105,-118.26709,9
+Mal's Cafe,$$,0.0,0.0,bcycle_lametro_3020,420,34.03105,-118.26709,9
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_3020,847,34.03105,-118.26709,9
+Santee Falafel,$$,0.0,0.0,bcycle_lametro_3020,825,34.03105,-118.26709,9
+Starbucks,$$,0.0,0.0,bcycle_lametro_3020,927,34.03105,-118.26709,9
+Cow Cafe,$$,4.5,173.0,bcycle_lametro_3025,746,34.03286,-118.26808,8
+First Draft,$$,0.0,0.0,bcycle_lametro_3025,766,34.03286,-118.26808,8
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_3025,977,34.03286,-118.26808,8
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_3025,787,34.03286,-118.26808,8
+Mal's Cafe,$$,0.0,0.0,bcycle_lametro_3025,569,34.03286,-118.26808,8
+Panda Express,$$,0.0,0.0,bcycle_lametro_3025,912,34.03286,-118.26808,8
+Pine & Crane DTLA,$$,4.5,241.0,bcycle_lametro_3025,1002,34.03286,-118.26808,8
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_3025,866,34.03286,-118.26808,8
+Santee Falafel,$$,0.0,0.0,bcycle_lametro_3025,849,34.03286,-118.26808,8
+Starbucks,$$,0.0,0.0,bcycle_lametro_3025,771,34.03286,-118.26808,8
+Dear John's,$$,0.0,0.0,bcycle_lametro_4575,817,34.00031,-118.40253,7
+El Rincon Criollo,$$,3.5,546.0,bcycle_lametro_4575,605,34.00031,-118.40253,7
+Hidden Garden Thai Cuisine,$$,4.0,613.0,bcycle_lametro_4575,21,34.00031,-118.40253,7
+Joy and Sweets,$$,0.0,0.0,bcycle_lametro_4575,750,34.00031,-118.40253,7
+King's Kabab,$$,0.0,0.0,bcycle_lametro_4575,842,34.00031,-118.40253,7
+Mateo's Ice Cream & Fruit Bars,$,4.5,447.0,bcycle_lametro_4575,93,34.00031,-118.40253,7
+Menchie's Frozen Yogurt,$$,0.0,0.0,bcycle_lametro_4575,950,34.00031,-118.40253,7
+Panera Bread,$$,0.0,0.0,bcycle_lametro_4575,764,34.00031,-118.40253,7
+Scarlet Lady Saloon,$$,0.0,0.0,bcycle_lametro_4575,884,34.00031,-118.40253,7
+Swanya Thai Cuisine,$$,4.0,540.0,bcycle_lametro_4575,729,34.00031,-118.40253,7
+Dunkin',$$,0.0,0.0,bcycle_lametro_4534,281,34.10186,-118.32811,4
+Hotel Cafe,$$,0.0,0.0,bcycle_lametro_4534,208,34.10186,-118.32811,4
+Joe's Pizza,$$,0.0,0.0,bcycle_lametro_4534,299,34.10186,-118.32811,4
+Lost Property,$$,0.0,0.0,bcycle_lametro_4534,128,34.10186,-118.32811,4
+Mojo Hookah Lounge,$$,0.0,0.0,bcycle_lametro_4534,251,34.10186,-118.32811,4
+No Vacancy,$$,0.0,0.0,bcycle_lametro_4534,403,34.10186,-118.32811,4
+Running Goose,$$,4.5,1569.0,bcycle_lametro_4534,196,34.10186,-118.32811,4
+Stout,$$,0.0,0.0,bcycle_lametro_4534,275,34.10186,-118.32811,4
+TAO Asian Bistro,$$$,4.0,1483.0,bcycle_lametro_4534,306,34.10186,-118.32811,4
+The Highlight Room,$$,0.0,0.0,bcycle_lametro_4534,267,34.10186,-118.32811,4
+Eat,$$,0.0,0.0,bcycle_lametro_4601,356,34.16171,-118.37282,3
+Firehouse Subs,$$,0.0,0.0,bcycle_lametro_4601,135,34.16171,-118.37282,3
+Hy Mart Sandwiches,$$,4.5,986.0,bcycle_lametro_4601,503,34.16171,-118.37282,3
+Idle Hour Bar,$$,0.0,0.0,bcycle_lametro_4601,448,34.16171,-118.37282,3
+Lotus Vegan,$$,4.5,1255.0,bcycle_lametro_4601,707,34.16171,-118.37282,3
+Pit Fire Pizza Co.,$$,0.0,0.0,bcycle_lametro_4601,430,34.16171,-118.37282,3
+Republic of Pie,$$,0.0,0.0,bcycle_lametro_4601,342,34.16171,-118.37282,3
+Teapop,$$,0.0,0.0,bcycle_lametro_4601,270,34.16171,-118.37282,3
+The Fat Dog,$$,4.0,723.0,bcycle_lametro_4601,356,34.16171,-118.37282,3
+Urban Skillet,$$,4.5,1083.0,bcycle_lametro_4601,97,34.16171,-118.37282,3
+El Grullense Restaurant,$$,0.0,0.0,bcycle_lametro_4446,992,34.05323,-118.27842,6
+El Taurino,$$,3.5,2271.0,bcycle_lametro_4446,535,34.05323,-118.27842,6
+It's Boba Time,$$,0.0,0.0,bcycle_lametro_4446,238,34.05323,-118.27842,6
+Langer's,$$,0.0,0.0,bcycle_lametro_4446,379,34.05323,-118.27842,6
+Olympic Cheong Guk Jang,$$,0.0,0.0,bcycle_lametro_4446,619,34.05323,-118.27842,6
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_4446,531,34.05323,-118.27842,6
+Seoul Garden Restaurant,$$,4.0,575.0,bcycle_lametro_4446,291,34.05323,-118.27842,6
+Shabuya,$$,4.0,865.0,bcycle_lametro_4446,206,34.05323,-118.27842,6
+TGI Korean BBQ,$$$,4.0,894.0,bcycle_lametro_4446,835,34.05323,-118.27842,6
+Yangmani,$$,4.5,274.0,bcycle_lametro_4446,774,34.05323,-118.27842,6
+El Huero Drive Thru,$$,0.0,0.0,bcycle_lametro_4227,889,34.0298,-118.27031,5
+Etchea,$$,0.0,0.0,bcycle_lametro_4227,333,34.0298,-118.27031,5
+Five Guys Burgers & Fries,$$,0.0,0.0,bcycle_lametro_4227,603,34.0298,-118.27031,5
+Jack In The Box,$$,0.0,0.0,bcycle_lametro_4227,879,34.0298,-118.27031,5
+Jacks N Joe,$$,4.0,2285.0,bcycle_lametro_4227,451,34.0298,-118.27031,5
+Mal's Cafe,$$,0.0,0.0,bcycle_lametro_4227,220,34.0298,-118.27031,5
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4227,521,34.0298,-118.27031,5
+Spudnuts Donuts,$$,0.0,0.0,bcycle_lametro_4227,926,34.0298,-118.27031,5
+Starbucks,$$,0.0,0.0,bcycle_lametro_4227,956,34.0298,-118.27031,5
+Escape Hotel Hollywood,$$,0.0,0.0,bcycle_lametro_4539,6,34.10176,-118.33474,5
+Hotel Cafe,$$,0.0,0.0,bcycle_lametro_4539,486,34.10176,-118.33474,5
+Jameson's Irish Pub,$$,0.0,0.0,bcycle_lametro_4539,110,34.10176,-118.33474,5
+Joe's Pizza,$$,0.0,0.0,bcycle_lametro_4539,315,34.10176,-118.33474,5
+L'Antica Pizzeria Da Michele,$$$,4.5,1686.0,bcycle_lametro_4539,389,34.10176,-118.33474,5
+Musso & Frank Grill,$$$,4.0,2070.0,bcycle_lametro_4539,58,34.10176,-118.33474,5
+No Vacancy,$$,0.0,0.0,bcycle_lametro_4539,215,34.10176,-118.33474,5
+TAO Asian Bistro,$$$,4.0,1483.0,bcycle_lametro_4539,442,34.10176,-118.33474,5
+The Highlight Room,$$,0.0,0.0,bcycle_lametro_4539,440,34.10176,-118.33474,5
+Tocaya Organica - Hollywood,$$,0.0,0.0,bcycle_lametro_4539,455,34.10176,-118.33474,5
+Escape Hotel Hollywood,$$,0.0,0.0,bcycle_lametro_4529,128,34.10186,-118.33329,4
+Hotel Cafe,$$,0.0,0.0,bcycle_lametro_4529,365,34.10186,-118.33329,4
+Joe's Pizza,$$,0.0,0.0,bcycle_lametro_4529,184,34.10186,-118.33329,4
+L'Antica Pizzeria Da Michele,$$$,4.5,1686.0,bcycle_lametro_4529,492,34.10186,-118.33329,4
+Mojo Hookah Lounge,$$,0.0,0.0,bcycle_lametro_4529,503,34.10186,-118.33329,4
+Musso & Frank Grill,$$$,4.0,2070.0,bcycle_lametro_4529,192,34.10186,-118.33329,4
+No Vacancy,$$,0.0,0.0,bcycle_lametro_4529,85,34.10186,-118.33329,4
+TAO Asian Bistro,$$$,4.0,1483.0,bcycle_lametro_4529,336,34.10186,-118.33329,4
+Te'kila,$$,0.0,0.0,bcycle_lametro_4529,68,34.10186,-118.33329,4
+The Highlight Room,$$,0.0,0.0,bcycle_lametro_4529,326,34.10186,-118.33329,4
+Firehouse Subs,$$,0.0,0.0,bcycle_lametro_4604,554,34.15832,-118.37081,6
+Hy Mart Sandwiches,$$,4.5,986.0,bcycle_lametro_4604,115,34.15832,-118.37081,6
+Idle Hour Bar,$$,0.0,0.0,bcycle_lametro_4604,65,34.15832,-118.37081,6
+Little Toni's,$$,3.5,1061.0,bcycle_lametro_4604,182,34.15832,-118.37081,6
+Lotus Vegan,$$,4.5,1255.0,bcycle_lametro_4604,287,34.15832,-118.37081,6
+Pit Fire Pizza Co.,$$,0.0,0.0,bcycle_lametro_4604,849,34.15832,-118.37081,6
+Republic of Pie,$$,0.0,0.0,bcycle_lametro_4604,749,34.15832,-118.37081,6
+Starbucks,$$,0.0,0.0,bcycle_lametro_4604,73,34.15832,-118.37081,6
+Teapop,$$,0.0,0.0,bcycle_lametro_4604,477,34.15832,-118.37081,6
+The Habit Burger Grill,$$,3.5,513.0,bcycle_lametro_4604,159,34.15832,-118.37081,6
+Firestone Walker - The Propagator,$$,0.0,0.0,bcycle_lametro_4632,795,33.98667,-118.44095,9
+In-N-Out Burger,$$,0.0,0.0,bcycle_lametro_4632,733,33.98667,-118.44095,9
+Irori Japanese Restaurant,$$,0.0,0.0,bcycle_lametro_4632,288,33.98667,-118.44095,9
+Nichols Restaurant,$$,0.0,0.0,bcycle_lametro_4632,282,33.98667,-118.44095,9
+Rainbow Acres,$$,0.0,0.0,bcycle_lametro_4632,736,33.98667,-118.44095,9
+Sweetgreen,$$,0.0,0.0,bcycle_lametro_4632,876,33.98667,-118.44095,9
+Ten,$$,0.0,0.0,bcycle_lametro_4632,485,33.98667,-118.44095,9
+Tender Greens,$$,4.0,662.0,bcycle_lametro_4632,136,33.98667,-118.44095,9
+The Lincoln,$$,0.0,0.0,bcycle_lametro_4632,873,33.98667,-118.44095,9
+Yard House,$$,3.5,1113.0,bcycle_lametro_4632,44,33.98667,-118.44095,9
+Flore Vegan Restaurant,$$,0.0,0.0,bcycle_lametro_4493,234,34.09028,-118.27719,9
+Intelligentsia,$$,0.0,0.0,bcycle_lametro_4493,352,34.09028,-118.27719,9
+La Colombe Coffee Roaster,$$,0.0,0.0,bcycle_lametro_4493,267,34.09028,-118.27719,9
+Millie's Cafe,$$,4.0,1265.0,bcycle_lametro_4493,113,34.09028,-118.27719,9
+Muddy Paw Coffee Company,$$,0.0,0.0,bcycle_lametro_4493,401,34.09028,-118.27719,9
+Naturewell,$$,0.0,0.0,bcycle_lametro_4493,245,34.09028,-118.27719,9
+Night + Market Song,$$,4.0,1211.0,bcycle_lametro_4493,393,34.09028,-118.27719,9
+Pine & Crane,$$,4.5,2819.0,bcycle_lametro_4493,31,34.09028,-118.27719,9
+Tacos Delta,$$,4.0,669.0,bcycle_lametro_4493,159,34.09028,-118.27719,9
+The Black Cat,$$,0.0,0.0,bcycle_lametro_4493,314,34.09028,-118.27719,9
+Found Oyster,$$,0.0,0.0,bcycle_lametro_4442,519,34.098,-118.30047,4
+Friends & Family,$$,0.0,0.0,bcycle_lametro_4442,452,34.098,-118.30047,4
+Jitlada Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4442,339,34.098,-118.30047,4
+Jumbo's Clown Room,$$,0.0,0.0,bcycle_lametro_4442,461,34.098,-118.30047,4
+Papillon International Bakery,$$,0.0,0.0,bcycle_lametro_4442,456,34.098,-118.30047,4
+Ruen Pair Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4442,651,34.098,-118.30047,4
+Saffy's,$$,0.0,0.0,bcycle_lametro_4442,552,34.098,-118.30047,4
+Sanamluang Café,$$,0.0,0.0,bcycle_lametro_4442,466,34.098,-118.30047,4
+Taqueria El Zarape,$$,0.0,0.0,bcycle_lametro_4442,361,34.098,-118.30047,4
+Zankou Chicken,$$,0.0,0.0,bcycle_lametro_4442,41,34.098,-118.30047,4
+Friends & Family,$$,0.0,0.0,bcycle_lametro_4406,164,34.10189,-118.30061,9
+Harvard and Stone,$$,0.0,0.0,bcycle_lametro_4406,349,34.10189,-118.30061,9
+Jitlada Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4406,490,34.10189,-118.30061,9
+Jumbo's Clown Room,$$,0.0,0.0,bcycle_lametro_4406,159,34.10189,-118.30061,9
+Pa Ord Noodle #3,$$,0.0,0.0,bcycle_lametro_4406,482,34.10189,-118.30061,9
+Papillon International Bakery,$$,0.0,0.0,bcycle_lametro_4406,155,34.10189,-118.30061,9
+Ruen Pair Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4406,459,34.10189,-118.30061,9
+Sanamluang Café,$$,0.0,0.0,bcycle_lametro_4406,227,34.10189,-118.30061,9
+Tabula Rasa,$$,0.0,0.0,bcycle_lametro_4406,82,34.10189,-118.30061,9
+Taqueria El Zarape,$$,0.0,0.0,bcycle_lametro_4406,760,34.10189,-118.30061,9
+Ginger's Divine Ice Cream,$$,0.0,0.0,bcycle_lametro_4565,813,33.98995,-118.43467,5
+Hatchet Hall,$$$,4.0,984.0,bcycle_lametro_4565,831,33.98995,-118.43467,5
+Irori Japanese Restaurant,$$,0.0,0.0,bcycle_lametro_4565,724,33.98995,-118.43467,5
+Menotti's Coffee Stop,$$,0.0,0.0,bcycle_lametro_4565,910,33.98995,-118.43467,5
+Nichols Restaurant,$$,0.0,0.0,bcycle_lametro_4565,592,33.98995,-118.43467,5
+Pitfire Artisan Pizza,$$,4.0,1321.0,bcycle_lametro_4565,648,33.98995,-118.43467,5
+Rainbow Acres,$$,0.0,0.0,bcycle_lametro_4565,740,33.98995,-118.43467,5
+Rubio's Coastal Grill,$$,0.0,0.0,bcycle_lametro_4565,895,33.98995,-118.43467,5
+Röckenwagner Bakery,$$,4.0,446.0,bcycle_lametro_4565,685,33.98995,-118.43467,5
+Sunny Blue,$,4.0,489.0,bcycle_lametro_4565,765,33.98995,-118.43467,5
+Golden Chopsticks,$,4.0,242.0,bcycle_lametro_4595,883,34.16835,-118.3875,12
+Groundwork Coffee Co.,$$,0.0,0.0,bcycle_lametro_4595,918,34.16835,-118.3875,12
+Los Burritos,$$,0.0,0.0,bcycle_lametro_4595,908,34.16835,-118.3875,12
+Mofongos,$$,4.0,1092.0,bcycle_lametro_4595,980,34.16835,-118.3875,12
+Noodle Monster,$$,4.0,686.0,bcycle_lametro_4595,934,34.16835,-118.3875,12
+Original Tommy's,$$,0.0,0.0,bcycle_lametro_4595,969,34.16835,-118.3875,12
+Popeyes Louisiana Kitchen,$$,0.0,0.0,bcycle_lametro_4595,928,34.16835,-118.3875,12
+Shakey's Pizza,$$,0.0,0.0,bcycle_lametro_4595,857,34.16835,-118.3875,12
+Starbucks,$$,0.0,0.0,bcycle_lametro_4595,937,34.16835,-118.3875,12
+Teya Thai Restaurant,$$,0.0,0.0,bcycle_lametro_4595,790,34.16835,-118.3875,12
+Guelaguetza,$$,0.0,0.0,bcycle_lametro_4405,662,34.0519,-118.29368,12
+Jeon Ju,$$,0.0,0.0,bcycle_lametro_4405,139,34.0519,-118.29368,12
+Papa Cristo's,$$,4.5,2158.0,bcycle_lametro_4405,744,34.0519,-118.29368,12
+Park's BBQ,$$$,4.0,2065.0,bcycle_lametro_4405,277,34.0519,-118.29368,12
+Soowon Galbi,$$,0.0,0.0,bcycle_lametro_4405,550,34.0519,-118.29368,12
+Surawon Tofu House,$$,4.5,325.0,bcycle_lametro_4405,196,34.0519,-118.29368,12
+TGI Korean BBQ,$$$,4.0,894.0,bcycle_lametro_4405,577,34.0519,-118.29368,12
+The Corner Place,$$,0.0,0.0,bcycle_lametro_4405,591,34.0519,-118.29368,12
+The Dragon Restaurant,$$,0.0,0.0,bcycle_lametro_4405,270,34.0519,-118.29368,12
+Yangmani,$$,0.0,0.0,bcycle_lametro_4405,638,34.0519,-118.29368,12
+Gulp,$$,4.0,267.0,bcycle_lametro_4581,354,33.97024,-118.42607,4
+Jamba,$$,0.0,0.0,bcycle_lametro_4581,976,33.97024,-118.42607,4
+LMU - The Loft,$$,0.0,0.0,bcycle_lametro_4581,775,33.97024,-118.42607,4
+MRKT,$$,0.0,0.0,bcycle_lametro_4581,677,33.97024,-118.42607,4
+Ritrovo Playa Vista,$$,4.0,361.0,bcycle_lametro_4581,472,33.97024,-118.42607,4
+Slice Pizza,$$,0.0,0.0,bcycle_lametro_4581,600,33.97024,-118.42607,4
+Sweet Fish Sushi Bar,$$,3.0,405.0,bcycle_lametro_4581,419,33.97024,-118.42607,4
+Taj India Palace,$$,4.0,561.0,bcycle_lametro_4581,1012,33.97024,-118.42607,4
+The Coffee Bean and Tea Leaf,$$,0.0,0.0,bcycle_lametro_4581,429,33.97024,-118.42607,4
+The Reserve Playa Del Ray,$$,0.0,0.0,bcycle_lametro_4581,476,33.97024,-118.42607,4
+Gus's Drive In,$$,3.5,512.0,bcycle_lametro_4313,823,34.05681,-118.275,9
+It's Boba Time,$$,0.0,0.0,bcycle_lametro_4313,744,34.05681,-118.275,9
+Jersey Mike's,$$,0.0,0.0,bcycle_lametro_4313,450,34.05681,-118.275,9
+Langer's,$$,0.0,0.0,bcycle_lametro_4313,167,34.05681,-118.275,9
+Los Molcajetes,$,4.0,150.0,bcycle_lametro_4313,384,34.05681,-118.275,9
+Monty Bar,$$,0.0,0.0,bcycle_lametro_4313,952,34.05681,-118.275,9
+Sabor Colombiano Restaurant,$$,0.0,0.0,bcycle_lametro_4313,641,34.05681,-118.275,9
+Seoul Garden Restaurant,$$,4.0,575.0,bcycle_lametro_4313,711,34.05681,-118.275,9
+Shabuya,$$,4.0,865.0,bcycle_lametro_4313,669,34.05681,-118.275,9
+Starbucks,$$,0.0,0.0,bcycle_lametro_4313,449,34.05681,-118.275,9
+Oceans Cafe and Grill,$$,4.5,55.0,bcycle_lametro_4544,682,33.92846,-118.4352,10
